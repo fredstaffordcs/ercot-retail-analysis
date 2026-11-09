@@ -1,0 +1,44 @@
+check,utility,year,reported_musd,model_matrix_musd,model_tw_musd,diff_tw_pct,source,prior_method_tx_cents,reproduced_tx_cents,rate_corrected_tx_cents,final_tx_cents,final_res_mwh,prior_method_res_mwh,final_alloc,prior_method_alloc,diff_final_vs_prior_cents
+Oncor third-party wholesale transmission expense vs 10-K,Oncor,2010,393.0,391.1,393.4,0.1,"oncor_2012: 2011 $439M, +$46M vs 2010",,,,,,,,,
+Oncor third-party wholesale transmission expense vs 10-K,Oncor,2011,439.0,426.9,431.0,-1.8,oncor_2012,,,,,,,,,
+Oncor third-party wholesale transmission expense vs 10-K,Oncor,2012,502.0,470.7,485.4,-3.3,oncor_2012,,,,,,,,,
+Oncor third-party wholesale transmission expense vs 10-K,Oncor,2013,588.0,509.2,553.9,-5.8,"oncor_2015: 2014 $755M, +$167M vs 2013",,,,,,,,,
+Oncor third-party wholesale transmission expense vs 10-K,Oncor,2014,755.0,691.4,732.4,-3.0,oncor_2015,,,,,,,,,
+Oncor third-party wholesale transmission expense vs 10-K,Oncor,2015,802.0,762.4,775.6,-3.3,oncor_2015/2016,,,,,,,,,
+Oncor third-party wholesale transmission expense vs 10-K,Oncor,2016,894.0,875.6,888.6,-0.6,oncor_2016,,,,,,,,,
+"CenterPoint change in third-party transmission cost vs prior year, vs 10-K",CenterPoint,2009,18.0,28.8,29.7,,cehe_2010 (year assignment from the 10-K's comparative discussion),,,,,,,,,
+"CenterPoint change in third-party transmission cost vs prior year, vs 10-K",CenterPoint,2010,28.0,26.3,21.9,,cehe_2010 (year assignment from the 10-K's comparative discussion),,,,,,,,,
+"CenterPoint change in third-party transmission cost vs prior year, vs 10-K",CenterPoint,2014,168.0,179.4,171.7,,cehe_2015 (year assignment from the 10-K's comparative discussion),,,,,,,,,
+"CenterPoint change in third-party transmission cost vs prior year, vs 10-K",CenterPoint,2015,47.0,66.6,47.4,,cehe_2015 (year assignment from the 10-K's comparative discussion),,,,,,,,,
+"CenterPoint change in third-party transmission cost vs prior year, vs 10-K",CenterPoint,2016,55.0,71.0,71.7,,cehe_2017 (year assignment from the 10-K's comparative discussion),,,,,,,,,
+"CenterPoint change in third-party transmission cost vs prior year, vs 10-K",CenterPoint,2017,56.0,76.7,66.4,,cehe_2017 (year assignment from the 10-K's comparative discussion),,,,,,,,,
+"CenterPoint change in third-party transmission cost vs prior year, vs 10-K",CenterPoint,2018,-32.0,-29.0,-35.9,,cehe_2019 (year assignment from the 10-K's comparative discussion),,,,,,,,,
+"CenterPoint change in third-party transmission cost vs prior year, vs 10-K",CenterPoint,2019,57.0,43.2,57.2,,cehe_2019 (year assignment from the 10-K's comparative discussion),,,,,,,,,
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",Oncor,2019,1336.086,1336.086,,,prior method (superseded),1.379,1.3788,1.4337,1.4464,45544415.0,45544400.0,0.470021,0.47,0.0674
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",Oncor,2020,1319.363,1319.363,,,prior method (superseded),1.399,1.3992,1.4601,1.5015,44228170.0,44319529.0,0.470021,0.47,0.1025
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",Oncor,2021,1447.595,1456.187,,,prior method (superseded),1.517,1.5255,1.5279,1.5672,44773886.0,44863259.0,0.470021,0.47,0.0502
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",Oncor,2022,1621.686,1621.686,,,prior method (superseded),1.565,1.5647,1.6095,1.6426,48624782.0,48711605.0,0.470021,0.47,0.0776
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",Oncor,2023,1738.409,1738.409,,,prior method (superseded),1.662,1.6624,1.7776,1.8528,47913732.0,47997891.0,0.466273,0.459,0.1908
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",Oncor,2024,1786.817,1786.817,,,prior method (superseded),1.757,1.7574,1.9426,1.9615,46588719.0,46669589.0,0.458807,0.459,0.2045
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",Oncor,2025,1942.96,1942.96,,,prior method (superseded),1.895,1.8955,1.9332,1.9356,46972158.0,47049703.0,0.458807,0.459,0.0406
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",CenterPoint,2019,909.064,909.064,,,prior method (superseded),1.413,1.4115,1.4678,1.482,30334230.0,30334200.0,0.471426,0.471,0.069
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",CenterPoint,2020,932.22,932.22,,,prior method (superseded),1.421,1.4202,1.4821,1.5112,31244444.0,31244444.0,0.472983,0.476,0.0902
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",CenterPoint,2021,1048.19,1054.412,,,prior method (superseded),1.628,1.6375,1.6401,1.6791,30650030.0,30650030.0,0.476096,0.476,0.0511
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",CenterPoint,2022,1147.476,1147.476,,,prior method (superseded),1.622,1.6219,1.6683,1.6999,33675901.0,33675901.0,0.476096,0.476,0.0779
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",CenterPoint,2023,1178.978,1178.978,,,prior method (superseded),1.659,1.6588,1.7737,1.8171,33830427.0,33830427.0,0.476096,0.476,0.1581
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",CenterPoint,2024,1262.911,1262.911,,,prior method (superseded),1.835,1.8345,2.0279,2.0453,32768523.0,32768523.0,0.476096,0.476,0.2103
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",CenterPoint,2025,1345.718,1345.718,,,prior method (superseded),1.879,1.8784,1.9158,1.9339,34101189.0,34101189.0,0.480489,0.476,0.0549
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",AEP Texas,2019,309.529,309.529,,,prior method (superseded),1.218,1.2179,1.2664,1.271,12027154.038,11996000.0,0.470823,0.472,0.053
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",AEP Texas,2020,320.289,320.289,,,prior method (superseded),1.24,1.2393,1.2933,1.3313,12129404.755,12198541.0,0.4708,0.472,0.0913
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",AEP Texas,2021,356.708,358.825,,,prior method (superseded),1.373,1.3812,1.3833,1.4174,12268774.529,12288135.0,0.47272,0.473,0.0444
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",AEP Texas,2022,379.214,379.214,,,prior method (superseded),1.352,1.3517,1.3904,1.4588,12967591.522,13269436.0,0.476078,0.473,0.1068
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",AEP Texas,2023,404.215,404.215,,,prior method (superseded),1.52,1.5198,1.6251,1.6669,12801804.212000001,12819524.0,0.48203,0.482,0.1469
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",AEP Texas,2024,413.471,413.471,,,prior method (superseded),1.587,1.5871,1.7544,1.7716,12540173.502,12556952.0,0.48203,0.482,0.1846
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",AEP Texas,2025,443.589,443.589,,,prior method (superseded),1.672,1.6732,1.7065,1.7062,12842264.796,12857928.0,0.484327,0.485,0.0342
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",TNMP,2019,92.683,92.683,,,prior method (superseded),1.374,1.3728,1.4276,1.441,3044760.0,3044800.0,0.45129,0.451,0.067
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",TNMP,2020,96.578,96.578,,,prior method (superseded),1.424,1.4232,1.4853,1.4858,3060391.0,3060391.0,0.439675,0.451,0.0618
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",TNMP,2021,110.241,110.895,,,prior method (superseded),1.516,1.5237,1.526,1.5637,3027726.0,3027726.0,0.416446,0.416,0.0477
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",TNMP,2022,121.789,121.789,,,prior method (superseded),1.559,1.5571,1.6016,1.6334,3253742.0,3253742.0,0.416446,0.416,0.0744
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",TNMP,2023,135.06,135.06,,,prior method (superseded),1.711,1.7092,1.8276,1.8739,3287167.0,3287167.0,0.416446,0.416,0.1629
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",TNMP,2024,139.117,139.117,,,prior method (superseded),1.797,1.7955,1.9848,2.0036,3223123.0,3223123.0,0.416446,0.416,0.2066
+"Prior 2019-25 transmission method: reproduction with its inputs, then the final series",TNMP,2025,160.527,160.527,,,prior method (superseded),2.034,2.0318,2.0722,2.0745,3286687.0,3286687.0,0.416446,0.416,0.0405

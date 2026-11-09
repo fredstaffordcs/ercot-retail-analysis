@@ -1,0 +1,283 @@
+check,value,detail
+"AEP Texas Central: Form 1 acct 456 / EMR all-class delivery, 2008-16",1.0187,range 0.991-1.063; used to estimate 2006-07 delivery
+"AEP Texas North: Form 1 acct 456 / EMR all-class delivery, 2008-16",1.0176,range 0.994-1.046; used to estimate 2006-07 delivery
+"TNMP: EIA delivery revenue / 10-K (Res+Com+Ind), 2012-19",1.0229,range 1.019-1.029; applied to 2007-11
+EIA delivery 2020 CenterPoint: our like-for-like revenue vs EIA,-0.0,"ours 2,424.8M vs EIA 2,424.8M; MWh +0.00%"
+EIA delivery 2020 AEP Texas North: our like-for-like revenue vs EIA,0.0,ours 161.8M vs EIA 161.8M; MWh +0.00%
+EIA delivery 2020 TNMP: our like-for-like revenue vs EIA,0.0,ours 309.5M vs EIA 309.5M; MWh +0.00%
+EIA delivery 2020 Oncor: our like-for-like revenue vs EIA,0.0,"ours 3,611.5M vs EIA 3,611.5M; MWh +0.00%"
+EIA delivery 2021 CenterPoint: our like-for-like revenue vs EIA,-0.0,"ours 2,432.0M vs EIA 2,432.0M; MWh +0.00%"
+EIA delivery 2021 AEP Texas North: our like-for-like revenue vs EIA,0.0,ours 168.8M vs EIA 168.8M; MWh +0.00%
+EIA delivery 2021 TNMP: our like-for-like revenue vs EIA,-0.0,ours 319.6M vs EIA 319.6M; MWh +0.00%
+EIA delivery 2021 Oncor: our like-for-like revenue vs EIA,-0.34,"ours 3,760.4M vs EIA 3,773.4M; MWh +0.00%"
+EIA delivery 2022 CenterPoint: our like-for-like revenue vs EIA,0.0,"ours 2,846.8M vs EIA 2,846.8M; MWh +0.00%"
+EIA delivery 2022 AEP Texas North: our like-for-like revenue vs EIA,0.0,ours 214.6M vs EIA 214.6M; MWh +0.00%
+EIA delivery 2022 TNMP: our like-for-like revenue vs EIA,0.0,ours 380.4M vs EIA 380.4M; MWh +0.00%
+EIA delivery 2022 Oncor: our like-for-like revenue vs EIA,-0.12,"ours 4,237.3M vs EIA 4,242.4M; MWh +0.00%"
+EIA delivery 2023 CenterPoint: our like-for-like revenue vs EIA,0.0,"ours 2,963.5M vs EIA 2,963.5M; MWh +0.00%"
+EIA delivery 2023 AEP Texas North: our like-for-like revenue vs EIA,0.0,ours 212.5M vs EIA 212.5M; MWh +0.00%
+EIA delivery 2023 TNMP: our like-for-like revenue vs EIA,0.0,ours 399.5M vs EIA 399.5M; MWh +0.00%
+EIA delivery 2023 Oncor: our like-for-like revenue vs EIA,-0.0,"ours 4,489.5M vs EIA 4,489.5M; MWh +0.00%"
+EIA delivery 2024 CenterPoint: our like-for-like revenue vs EIA,-0.0,"ours 3,195.8M vs EIA 3,195.8M; MWh +0.00%"
+EIA delivery 2024 AEP Texas North: our like-for-like revenue vs EIA,0.0,ours 234.1M vs EIA 234.1M; MWh +0.00%
+EIA delivery 2024 TNMP: our like-for-like revenue vs EIA,0.0,ours 415.0M vs EIA 415.0M; MWh +0.00%
+EIA delivery 2024 Oncor: our like-for-like revenue vs EIA,-0.09,"ours 4,903.0M vs EIA 4,907.4M; MWh -0.08%"
+EIA delivery 2025 CenterPoint: our like-for-like revenue vs EIA,0.0,"ours 3,480.7M vs EIA 3,480.7M; MWh +0.00%"
+EIA delivery 2025 AEP Texas North: our like-for-like revenue vs EIA,0.0,ours 261.4M vs EIA 261.4M; MWh +0.00%
+EIA delivery 2025 TNMP: our like-for-like revenue vs EIA,0.0,ours 486.6M vs EIA 486.6M; MWh +0.00%
+EIA delivery 2025 Oncor: our like-for-like revenue vs EIA,0.0,"ours 5,319.2M vs EIA 5,319.2M; MWh +0.00%"
+EIA delivery 2020 AEP Texas (Central+North): merged EMR (delivery+bonds+storm+sbf) vs EIA Central+North,-0.01,"ours 1,068.4M vs 1,068.5M; MWh -0.23%"
+EIA delivery 2021 AEP Texas (Central+North): merged EMR (delivery+bonds+storm+sbf) vs EIA Central+North,0.76,"ours 1,039.6M vs 1,031.7M; MWh +0.02%"
+EIA delivery 2022 AEP Texas (Central+North): merged EMR (delivery+bonds+storm+sbf) vs EIA Central+North,-1.0,"ours 1,252.2M vs 1,264.8M; MWh -0.63%"
+EIA delivery 2023 AEP Texas (Central+North): merged EMR (delivery+bonds+storm+sbf) vs EIA Central+North,0.0,"ours 1,262.2M vs 1,262.2M; MWh +0.02%"
+EIA delivery 2024 AEP Texas (Central+North): merged EMR (delivery+bonds+storm+sbf) vs EIA Central+North,-0.29,"ours 1,354.7M vs 1,358.7M; MWh +0.01%"
+EIA delivery 2025 AEP Texas (Central+North): merged EMR (delivery+bonds+storm+sbf) vs EIA Central+North,0.0,"ours 1,437.2M vs 1,437.2M; MWh +0.01%"
+EIA Operational 2012 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 1,671.6M vs EIA 1,671.6M"
+EIA Operational 2012 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 210.8M vs EIA 210.8M
+EIA Operational 2012 Oncor: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 2,591.1M vs EIA 2,591.1M"
+EIA Operational 2013 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 1,757.8M vs EIA 1,757.8M"
+EIA Operational 2013 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 223.7M vs EIA 223.7M
+EIA Operational 2013 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 2,808.7M vs EIA 2,808.7M"
+EIA Operational 2014 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.05,"ours 1,984.8M vs EIA 1,983.8M"
+EIA Operational 2014 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 235.4M vs EIA 235.4M
+EIA Operational 2014 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 3,063.5M vs EIA 3,063.5M"
+EIA Operational 2015 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 2,077.4M vs EIA 2,077.4M"
+EIA Operational 2015 TNMP: reported delivery revenue vs 'Revenues from delivery customers',-0.0,ours 245.8M vs EIA 245.8M
+EIA Operational 2015 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.14,"ours 3,145.6M vs EIA 3,150.1M"
+EIA Operational 2016 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 2,089.4M vs EIA 2,089.4M"
+EIA Operational 2016 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 250.6M vs EIA 250.6M
+EIA Operational 2016 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.01,"ours 3,167.3M vs EIA 3,167.7M"
+EIA Operational 2017 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 2,188.9M vs EIA 2,188.9M"
+EIA Operational 2017 TNMP: reported delivery revenue vs 'Revenues from delivery customers',-0.0,ours 256.8M vs EIA 256.8M
+EIA Operational 2017 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 3,298.0M vs EIA 3,298.0M"
+EIA Operational 2018 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 2,221.7M vs EIA 2,221.7M"
+EIA Operational 2018 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 264.5M vs EIA 264.5M
+EIA Operational 2018 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 3,534.7M vs EIA 3,534.7M"
+EIA Operational 2019 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 2,229.2M vs EIA 2,229.2M"
+EIA Operational 2019 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 295.8M vs EIA 295.8M
+EIA Operational 2019 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 3,528.6M vs EIA 3,528.6M"
+EIA Operational 2020 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 2,424.8M vs EIA 2,424.8M"
+EIA Operational 2020 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 309.5M vs EIA 309.5M
+EIA Operational 2020 Oncor: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 3,611.5M vs EIA 3,611.5M"
+EIA Operational 2021 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 2,432.0M vs EIA 2,432.0M"
+EIA Operational 2021 TNMP: reported delivery revenue vs 'Revenues from delivery customers',-0.0,ours 319.6M vs EIA 319.6M
+EIA Operational 2021 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.34,"ours 3,760.4M vs EIA 3,773.4M"
+EIA Operational 2022 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 2,846.8M vs EIA 2,846.8M"
+EIA Operational 2022 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 380.4M vs EIA 380.4M
+EIA Operational 2022 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.12,"ours 4,237.3M vs EIA 4,242.4M"
+EIA Operational 2023 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 2,963.5M vs EIA 2,963.5M"
+EIA Operational 2023 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 399.5M vs EIA 399.5M
+EIA Operational 2023 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 4,489.5M vs EIA 4,489.5M"
+EIA Operational 2024 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',-0.0,"ours 3,195.8M vs EIA 3,195.8M"
+EIA Operational 2024 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 415.0M vs EIA 415.0M
+EIA Operational 2024 Oncor: reported delivery revenue vs 'Revenues from delivery customers',-0.09,"ours 4,903.0M vs EIA 4,907.4M"
+EIA Operational 2025 CenterPoint: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 3,480.7M vs EIA 3,480.7M"
+EIA Operational 2025 TNMP: reported delivery revenue vs 'Revenues from delivery customers',0.0,ours 486.6M vs EIA 486.6M
+EIA Operational 2025 Oncor: reported delivery revenue vs 'Revenues from delivery customers',0.0,"ours 5,319.2M vs EIA 5,319.2M"
+CenterPoint 2006 CTC+RCE all-class estimate vs ~$51M/yr implied by the CTC order,45.8,CEHE 10-K FY2006: $596M over 14 yrs + $24M RCE over 3 yrs; return on the CTC balance is collected in base rates
+CenterPoint 2007 CTC+RCE all-class estimate vs ~$51M/yr implied by the CTC order,42.2,CEHE 10-K FY2006: $596M over 14 yrs + $24M RCE over 3 yrs; return on the CTC balance is collected in base rates
+CenterPoint 2002 EMC: residential (rate x kWh) / all-class (10-K $238M),0.468,residential share
+CenterPoint 2003 EMC: residential (rate x kWh) / all-class (10-K $238M),0.485,residential share
+CenterPoint 2004 EMC: residential (rate x kWh) / all-class (10-K $238M),0.486,residential share
+AEP Central 2005: EMR billed bond charges / series collections (all classes),0.9961,90.0M / 90.4M
+AEP Central 2008: EMR billed bond charges / series collections (all classes),0.9891,240.1M / 242.7M
+AEP Central 2009: EMR billed bond charges / series collections (all classes),1.0443,272.5M / 260.9M
+AEP Central 2010: EMR billed bond charges / series collections (all classes),1.0184,262.0M / 257.3M
+AEP Central 2011: EMR billed bond charges / series collections (all classes),1.0221,268.3M / 262.5M
+AEP Central 2012: EMR billed bond charges / series collections (all classes),1.0075,324.8M / 322.3M
+AEP Central 2013: EMR billed bond charges / series collections (all classes),1.0029,327.2M / 326.2M
+AEP Central 2014: EMR billed bond charges / series collections (all classes),1.0099,352.5M / 349.1M
+AEP Central 2015: EMR billed bond charges / series collections (all classes),1.01,351.3M / 347.8M
+AEP Central 2016: EMR billed bond charges / series collections (all classes),0.9813,266.3M / 271.3M
+AEP Central 2017: EMR billed bond charges / series collections (all classes),0.9967,279.9M / 280.9M
+AEP Central 2018: EMR billed bond charges / series collections (all classes),1.0023,277.2M / 276.6M
+MWh 2002 AEP Texas Central: PUCT market-share total vs ours,0.0,
+MWh 2003 AEP Texas Central: PUCT market-share total vs ours,0.0,
+MWh 2004 AEP Texas Central: PUCT market-share total vs ours,0.0,
+MWh 2005 AEP Texas Central: PUCT market-share total vs ours,-1.64,
+MWh 2006 AEP Texas Central: PUCT market-share total vs ours,0.0,
+MWh 2007 AEP Texas Central: PUCT market-share total vs ours,0.0,
+MWh 2008 AEP Texas Central: PUCT market-share total vs ours,-0.04,
+MWh 2009 AEP Texas Central: PUCT market-share total vs ours,0.27,
+MWh 2010 AEP Texas Central: PUCT market-share total vs ours,-1.99,
+MWh 2011 AEP Texas Central: PUCT market-share total vs ours,-15.57,
+MWh 2012 AEP Texas Central: PUCT market-share total vs ours,-1.85,
+MWh 2013 AEP Texas Central: PUCT market-share total vs ours,-0.07,
+MWh 2014 AEP Texas Central: PUCT market-share total vs ours,-1.51,
+MWh 2015 AEP Texas Central: PUCT market-share total vs ours,0.9,
+MWh 2016 AEP Texas Central: PUCT market-share total vs ours,-0.92,
+MWh 2017 AEP Texas Central: PUCT market-share total vs ours,-0.62,
+MWh 2002 AEP Texas North: PUCT market-share total vs ours,0.0,
+MWh 2003 AEP Texas North: PUCT market-share total vs ours,-4.31,
+MWh 2004 AEP Texas North: PUCT market-share total vs ours,-3.41,
+MWh 2005 AEP Texas North: PUCT market-share total vs ours,-4.77,
+MWh 2006 AEP Texas North: PUCT market-share total vs ours,0.0,
+MWh 2007 AEP Texas North: PUCT market-share total vs ours,0.0,
+MWh 2008 AEP Texas North: PUCT market-share total vs ours,0.08,
+MWh 2009 AEP Texas North: PUCT market-share total vs ours,0.05,
+MWh 2010 AEP Texas North: PUCT market-share total vs ours,-2.72,
+MWh 2011 AEP Texas North: PUCT market-share total vs ours,-6.58,
+MWh 2012 AEP Texas North: PUCT market-share total vs ours,-1.55,
+MWh 2013 AEP Texas North: PUCT market-share total vs ours,-0.58,
+MWh 2014 AEP Texas North: PUCT market-share total vs ours,-0.74,
+MWh 2015 AEP Texas North: PUCT market-share total vs ours,-0.47,
+MWh 2016 AEP Texas North: PUCT market-share total vs ours,-0.51,
+MWh 2017 AEP Texas North: PUCT market-share total vs ours,-1.11,
+MWh 2002 CenterPoint: PUCT market-share total vs ours,-5.12,
+MWh 2003 CenterPoint: PUCT market-share total vs ours,-0.09,
+MWh 2004 CenterPoint: PUCT market-share total vs ours,-0.41,
+MWh 2005 CenterPoint: PUCT market-share total vs ours,0.08,
+MWh 2006 CenterPoint: PUCT market-share total vs ours,-0.02,
+MWh 2007 CenterPoint: PUCT market-share total vs ours,0.0,
+MWh 2009 CenterPoint: PUCT market-share total vs ours,0.52,
+MWh 2010 CenterPoint: PUCT market-share total vs ours,-0.11,
+MWh 2011 CenterPoint: PUCT market-share total vs ours,0.05,
+MWh 2012 CenterPoint: PUCT market-share total vs ours,-0.29,
+MWh 2013 CenterPoint: PUCT market-share total vs ours,-0.58,
+MWh 2014 CenterPoint: PUCT market-share total vs ours,0.23,
+MWh 2015 CenterPoint: PUCT market-share total vs ours,0.43,
+MWh 2016 CenterPoint: PUCT market-share total vs ours,0.32,
+MWh 2017 CenterPoint: PUCT market-share total vs ours,5.51,
+MWh 2002 Oncor: PUCT market-share total vs ours,-0.15,
+MWh 2003 Oncor: PUCT market-share total vs ours,-0.26,
+MWh 2004 Oncor: PUCT market-share total vs ours,-0.01,
+MWh 2005 Oncor: PUCT market-share total vs ours,-0.14,
+MWh 2006 Oncor: PUCT market-share total vs ours,-0.05,
+MWh 2007 Oncor: PUCT market-share total vs ours,0.08,
+MWh 2008 Oncor: PUCT market-share total vs ours,0.0,
+MWh 2009 Oncor: PUCT market-share total vs ours,0.14,
+MWh 2010 Oncor: PUCT market-share total vs ours,-0.0,
+MWh 2011 Oncor: PUCT market-share total vs ours,0.0,
+MWh 2012 Oncor: PUCT market-share total vs ours,-0.0,
+MWh 2013 Oncor: PUCT market-share total vs ours,0.01,
+MWh 2014 Oncor: PUCT market-share total vs ours,-0.0,
+MWh 2015 Oncor: PUCT market-share total vs ours,-0.01,
+MWh 2016 Oncor: PUCT market-share total vs ours,-0.0,
+MWh 2017 Oncor: PUCT market-share total vs ours,-0.28,
+MWh 2002 TNMP: PUCT market-share total vs ours,12.18,
+MWh 2003 TNMP: PUCT market-share total vs ours,-11.26,
+MWh 2004 TNMP: PUCT market-share total vs ours,-5.69,
+MWh 2005 TNMP: PUCT market-share total vs ours,-2.2,
+MWh 2006 TNMP: PUCT market-share total vs ours,-0.43,
+MWh 2007 TNMP: PUCT market-share total vs ours,-2.04,
+MWh 2008 TNMP: PUCT market-share total vs ours,-0.2,
+MWh 2009 TNMP: PUCT market-share total vs ours,0.0,
+MWh 2010 TNMP: PUCT market-share total vs ours,0.7,
+MWh 2011 TNMP: PUCT market-share total vs ours,-0.56,
+MWh 2012 TNMP: PUCT market-share total vs ours,-0.68,
+MWh 2013 TNMP: PUCT market-share total vs ours,5.11,
+MWh 2014 TNMP: PUCT market-share total vs ours,20.51,
+MWh 2015 TNMP: PUCT market-share total vs ours,8.77,
+MWh 2016 TNMP: PUCT market-share total vs ours,-0.79,
+MWh 2017 TNMP: PUCT market-share total vs ours,1.37,
+"EIA reference: EIA all-class 2020 Oncor, like-for-like $M",-0.5,"ours 3,612 vs 3,612; GWh ours 130,280 vs 130,280"
+EIA reference: EIA C&I GWh 2020 Oncor,91.7,
+"EIA reference: C&I c/kWh 2020 Oncor, ours (all components) vs EIA",0.01,ours 2.17 vs EIA 2.16; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2020 CenterPoint, like-for-like $M",-0.2,"ours 2,425 vs 2,425; GWh ours 93,768 vs 93,768"
+EIA reference: EIA C&I GWh 2020 CenterPoint,0.5,
+"EIA reference: C&I c/kWh 2020 CenterPoint, ours (all components) vs EIA",0.183,ours 2.02 vs EIA 1.84; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2020 AEP Texas Central, like-for-like $M",-0.3,"ours 907 vs 907; GWh ours 25,990 vs 25,990"
+EIA reference: EIA C&I GWh 2020 AEP Texas Central,-0.1,
+"EIA reference: C&I c/kWh 2020 AEP Texas Central, ours (all components) vs EIA",-0.005,ours 2.73 vs EIA 2.74; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2020 AEP Texas North, like-for-like $M",-0.2,"ours 162 vs 162; GWh ours 6,180 vs 6,180"
+EIA reference: EIA C&I GWh 2020 AEP Texas North,0.1,
+"EIA reference: C&I c/kWh 2020 AEP Texas North, ours (all components) vs EIA",0.001,ours 2.00 vs EIA 2.0; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2020 TNMP, like-for-like $M",-0.5,"ours 310 vs 310; GWh ours 11,414 vs 11,414"
+EIA reference: EIA C&I GWh 2020 TNMP,0.5,
+"EIA reference: C&I c/kWh 2020 TNMP, ours (all components) vs EIA",0.003,ours 1.81 vs EIA 1.81; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2021 Oncor, like-for-like $M",-12.6,"ours 3,760 vs 3,773; GWh ours 135,522 vs 135,522"
+EIA reference: EIA C&I GWh 2021 Oncor,89.5,
+"EIA reference: C&I c/kWh 2021 Oncor, ours (all components) vs EIA",0.001,ours 2.16 vs EIA 2.16; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2021 CenterPoint, like-for-like $M",0.0,"ours 2,432 vs 2,432; GWh ours 96,898 vs 96,898"
+EIA reference: EIA C&I GWh 2021 CenterPoint,0.4,
+"EIA reference: C&I c/kWh 2021 CenterPoint, ours (all components) vs EIA",0.185,ours 2.00 vs EIA 1.82; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2021 AEP Texas Central, like-for-like $M",-0.2,"ours 863 vs 863; GWh ours 26,873 vs 26,873"
+EIA reference: EIA C&I GWh 2021 AEP Texas Central,0.1,
+"EIA reference: C&I c/kWh 2021 AEP Texas Central, ours (all components) vs EIA",0.0,ours 2.41 vs EIA 2.41; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2021 AEP Texas North, like-for-like $M",-0.2,"ours 169 vs 169; GWh ours 6,028 vs 6,028"
+EIA reference: EIA C&I GWh 2021 AEP Texas North,-0.3,
+"EIA reference: C&I c/kWh 2021 AEP Texas North, ours (all components) vs EIA",0.003,ours 2.24 vs EIA 2.24; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2021 TNMP, like-for-like $M",-0.4,"ours 320 vs 320; GWh ours 11,823 vs 11,823"
+EIA reference: EIA C&I GWh 2021 TNMP,-0.3,
+"EIA reference: C&I c/kWh 2021 TNMP, ours (all components) vs EIA",-0.002,ours 1.83 vs EIA 1.83; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2022 Oncor, like-for-like $M",-4.7,"ours 4,237 vs 4,242; GWh ours 148,663 vs 148,663"
+EIA reference: EIA C&I GWh 2022 Oncor,87.0,
+"EIA reference: C&I c/kWh 2022 Oncor, ours (all components) vs EIA",0.006,ours 2.15 vs EIA 2.14; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2022 CenterPoint, like-for-like $M",-0.2,"ours 2,847 vs 2,847; GWh ours 100,062 vs 100,062"
+EIA reference: EIA C&I GWh 2022 CenterPoint,0.2,
+"EIA reference: C&I c/kWh 2022 CenterPoint, ours (all components) vs EIA",0.186,ours 2.24 vs EIA 2.05; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2022 AEP Texas Central, like-for-like $M",0.2,"ours 1,050 vs 1,050; GWh ours 29,409 vs 29,409"
+EIA reference: EIA C&I GWh 2022 AEP Texas Central,-0.3,
+"EIA reference: C&I c/kWh 2022 AEP Texas Central, ours (all components) vs EIA",0.001,ours 2.61 vs EIA 2.61; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2022 AEP Texas North, like-for-like $M",-0.4,"ours 215 vs 215; GWh ours 7,151 vs 7,151"
+EIA reference: EIA C&I GWh 2022 AEP Texas North,0.3,
+"EIA reference: C&I c/kWh 2022 AEP Texas North, ours (all components) vs EIA",0.004,ours 2.27 vs EIA 2.27; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2022 TNMP, like-for-like $M",0.4,"ours 380 vs 380; GWh ours 13,804 vs 13,804"
+EIA reference: EIA C&I GWh 2022 TNMP,-0.2,
+"EIA reference: C&I c/kWh 2022 TNMP, ours (all components) vs EIA",0.004,ours 1.85 vs EIA 1.85; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2023 Oncor, like-for-like $M",0.5,"ours 4,489 vs 4,489; GWh ours 156,150 vs 156,150"
+EIA reference: EIA C&I GWh 2023 Oncor,83.7,
+"EIA reference: C&I c/kWh 2023 Oncor, ours (all components) vs EIA",0.008,ours 2.14 vs EIA 2.13; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2023 CenterPoint, like-for-like $M",-0.5,"ours 2,964 vs 2,964; GWh ours 103,862 vs 103,862"
+EIA reference: EIA C&I GWh 2023 CenterPoint,-0.5,
+"EIA reference: C&I c/kWh 2023 CenterPoint, ours (all components) vs EIA",0.14,ours 2.14 vs EIA 2.0; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2023 AEP Texas Central, like-for-like $M",-0.3,"ours 1,050 vs 1,050; GWh ours 30,462 vs 30,462"
+EIA reference: EIA C&I GWh 2023 AEP Texas Central,0.4,
+"EIA reference: C&I c/kWh 2023 AEP Texas Central, ours (all components) vs EIA",0.004,ours 2.46 vs EIA 2.46; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2023 AEP Texas North, like-for-like $M",0.5,"ours 212 vs 212; GWh ours 9,114 vs 9,114"
+EIA reference: EIA C&I GWh 2023 AEP Texas North,0.3,
+"EIA reference: C&I c/kWh 2023 AEP Texas North, ours (all components) vs EIA",0.004,ours 1.63 vs EIA 1.63; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2023 TNMP, like-for-like $M",-0.5,"ours 400 vs 400; GWh ours 15,549 vs 15,549"
+EIA reference: EIA C&I GWh 2023 TNMP,0.1,
+"EIA reference: C&I c/kWh 2023 TNMP, ours (all components) vs EIA",0.001,ours 1.69 vs EIA 1.69; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2024 Oncor, like-for-like $M",-4.0,"ours 4,903 vs 4,907; GWh ours 162,207 vs 162,339"
+EIA reference: EIA C&I GWh 2024 Oncor,-51.6,
+"EIA reference: C&I c/kWh 2024 Oncor, ours (all components) vs EIA",0.004,ours 2.15 vs EIA 2.15; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2024 CenterPoint, like-for-like $M",-0.2,"ours 3,196 vs 3,196; GWh ours 106,014 vs 106,014"
+EIA reference: EIA C&I GWh 2024 CenterPoint,0.2,
+"EIA reference: C&I c/kWh 2024 CenterPoint, ours (all components) vs EIA",0.085,ours 2.25 vs EIA 2.16; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2024 AEP Texas Central, like-for-like $M",-0.4,"ours 1,125 vs 1,125; GWh ours 31,182 vs 31,182"
+EIA reference: EIA C&I GWh 2024 AEP Texas Central,-0.3,
+"EIA reference: C&I c/kWh 2024 AEP Texas Central, ours (all components) vs EIA",0.004,ours 2.49 vs EIA 2.49; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2024 AEP Texas North, like-for-like $M",0.1,"ours 234 vs 234; GWh ours 10,977 vs 10,977"
+EIA reference: EIA C&I GWh 2024 AEP Texas North,-0.4,
+"EIA reference: C&I c/kWh 2024 AEP Texas North, ours (all components) vs EIA",0.002,ours 1.44 vs EIA 1.44; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2024 TNMP, like-for-like $M",-0.0,"ours 415 vs 415; GWh ours 17,129 vs 17,129"
+EIA reference: EIA C&I GWh 2024 TNMP,-0.3,
+"EIA reference: C&I c/kWh 2024 TNMP, ours (all components) vs EIA",-0.003,ours 1.52 vs EIA 1.52; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2025 Oncor, like-for-like $M",0.2,"ours 5,319 vs 5,319; GWh ours 171,127 vs 171,127"
+EIA reference: EIA C&I GWh 2025 Oncor,77.9,
+"EIA reference: C&I c/kWh 2025 Oncor, ours (all components) vs EIA",0.005,ours 2.15 vs EIA 2.15; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2025 CenterPoint, like-for-like $M",-0.3,"ours 3,481 vs 3,481; GWh ours 111,054 vs 111,054"
+EIA reference: EIA C&I GWh 2025 CenterPoint,0.4,
+"EIA reference: C&I c/kWh 2025 CenterPoint, ours (all components) vs EIA",0.004,ours 2.13 vs EIA 2.13; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2025 AEP Texas Central, like-for-like $M",-0.2,"ours 1,176 vs 1,176; GWh ours 33,060 vs 33,060"
+EIA reference: EIA C&I GWh 2025 AEP Texas Central,0.0,
+"EIA reference: C&I c/kWh 2025 AEP Texas Central, ours (all components) vs EIA",-0.005,ours 2.38 vs EIA 2.39; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2025 AEP Texas North, like-for-like $M",0.4,"ours 261 vs 261; GWh ours 13,486 vs 13,486"
+EIA reference: EIA C&I GWh 2025 AEP Texas North,-0.4,
+"EIA reference: C&I c/kWh 2025 AEP Texas North, ours (all components) vs EIA",-0.001,ours 1.31 vs EIA 1.31; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA all-class 2025 TNMP, like-for-like $M",-0.4,"ours 487 vs 487; GWh ours 19,160 vs 19,160"
+EIA reference: EIA C&I GWh 2025 TNMP,-0.4,
+"EIA reference: C&I c/kWh 2025 TNMP, ours (all components) vs EIA",-0.003,ours 1.60 vs EIA 1.6; differs by definition where EIA omits bond charges (CenterPoint)
+"EIA reference: EIA Operational 2012 CenterPoint, like-for-like $M",-0.4,"ours 1,671.6 vs 1,672"
+"EIA reference: EIA Operational 2012 TNMP, like-for-like $M",-0.2,ours 210.8 vs 211
+"EIA reference: EIA Operational 2012 Oncor, like-for-like $M",0.1,"ours 2,591.1 vs 2,591"
+"EIA reference: EIA Operational 2013 CenterPoint, like-for-like $M",-0.2,"ours 1,757.8 vs 1,758"
+"EIA reference: EIA Operational 2013 TNMP, like-for-like $M",-0.3,ours 223.7 vs 224
+"EIA reference: EIA Operational 2013 Oncor, like-for-like $M",-0.3,"ours 2,808.7 vs 2,809"
+"EIA reference: EIA Operational 2014 CenterPoint, like-for-like $M",0.8,"ours 1,984.8 vs 1,984"
+"EIA reference: EIA Operational 2014 TNMP, like-for-like $M",0.4,ours 235.4 vs 235
+"EIA reference: EIA Operational 2014 Oncor, like-for-like $M",-0.5,"ours 3,063.5 vs 3,064"
+"EIA reference: EIA Operational 2015 CenterPoint, like-for-like $M",0.4,"ours 2,077.4 vs 2,077"
+"EIA reference: EIA Operational 2015 TNMP, like-for-like $M",-0.2,ours 245.8 vs 246
+"EIA reference: EIA Operational 2015 Oncor, like-for-like $M",-4.4,"ours 3,145.6 vs 3,150"
+"EIA reference: EIA Operational 2016 CenterPoint, like-for-like $M",0.4,"ours 2,089.4 vs 2,089"
+"EIA reference: EIA Operational 2016 TNMP, like-for-like $M",-0.4,ours 250.6 vs 251
+"EIA reference: EIA Operational 2016 Oncor, like-for-like $M",-0.7,"ours 3,167.3 vs 3,168"
+"EIA reference: EIA Operational 2017 CenterPoint, like-for-like $M",-0.1,"ours 2,188.9 vs 2,189"
+"EIA reference: EIA Operational 2017 TNMP, like-for-like $M",-0.2,ours 256.8 vs 257
+"EIA reference: EIA Operational 2017 Oncor, like-for-like $M",0.0,"ours 3,298.0 vs 3,298"
+"EIA reference: EIA Operational 2018 CenterPoint, like-for-like $M",-0.3,"ours 2,221.7 vs 2,222"
+"EIA reference: EIA Operational 2018 TNMP, like-for-like $M",0.5,ours 264.5 vs 264
+"EIA reference: EIA Operational 2018 Oncor, like-for-like $M",-0.3,"ours 3,534.7 vs 3,535"

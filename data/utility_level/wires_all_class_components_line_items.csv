@@ -1,0 +1,415 @@
+utility,year,component,item,usd,grade,method,source,inside_reported
+Oncor,2002,delivery,form1_sales_to_ultimate_consumers,1700382636.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2003,delivery,form1_sales_to_ultimate_consumers,1831566797.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2004,delivery,form1_sales_to_ultimate_consumers,1838019372.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2005,delivery,form1_sales_to_ultimate_consumers,1945059121.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2006,delivery,form1_sales_to_ultimate_consumers,1969890850.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2007,delivery,form1_sales_to_ultimate_consumers,1987856321.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2008,delivery,form1_sales_to_ultimate_consumers,2059736950.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2009,delivery,form1_sales_to_ultimate_consumers,2212975065.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2010,delivery,form1_sales_to_ultimate_consumers,2379409736.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2011,delivery,form1_sales_to_ultimate_consumers,2553078095.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2012,delivery,form1_sales_to_ultimate_consumers,2591097377.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2013,delivery,form1_sales_to_ultimate_consumers,2808737741.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2014,delivery,form1_sales_to_ultimate_consumers,3063533369.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2015,delivery,form1_sales_to_ultimate_consumers,3145560299.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2016,delivery,form1_sales_to_ultimate_consumers,3167335000.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2017,delivery,form1_sales_to_ultimate_consumers,3298030853.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2018,delivery,form1_sales_to_ultimate_consumers,3534746197.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2019,delivery,form1_sales_to_ultimate_consumers,3528576171.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2020,delivery,form1_sales_to_ultimate_consumers,3611537116.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2021,delivery,form1_sales_to_ultimate_consumers,3760420741.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2022,delivery,form1_sales_to_ultimate_consumers,4237276773.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2023,delivery,form1_sales_to_ultimate_consumers,4489464158.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2024,delivery,form1_sales_to_ultimate_consumers,4903006951.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+Oncor,2025,delivery,form1_sales_to_ultimate_consumers,5319153000.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2002,delivery,form1_sales_to_ultimate_consumers,1175732997.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2003,delivery,form1_sales_to_ultimate_consumers,1216539893.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2004,delivery,form1_sales_to_ultimate_consumers,1251607761.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2005,delivery,form1_sales_to_ultimate_consumers,1319506657.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2006,delivery,form1_sales_to_ultimate_consumers,1293392527.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2007,delivery,form1_sales_to_ultimate_consumers,1304343797.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2008,delivery,form1_sales_to_ultimate_consumers,1348872779.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2009,delivery,form1_sales_to_ultimate_consumers,1446508254.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2010,delivery,form1_sales_to_ultimate_consumers,1534070896.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2011,delivery,form1_sales_to_ultimate_consumers,1652908693.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2012,delivery,form1_sales_to_ultimate_consumers,1671634867.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2013,delivery,form1_sales_to_ultimate_consumers,1757797251.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2014,delivery,form1_sales_to_ultimate_consumers,1984797096.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2015,delivery,form1_sales_to_ultimate_consumers,2077403063.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2016,delivery,form1_sales_to_ultimate_consumers,2089351614.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2017,delivery,form1_sales_to_ultimate_consumers,2188902364.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2018,delivery,form1_sales_to_ultimate_consumers,2221746579.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2019,delivery,form1_sales_to_ultimate_consumers,2229212077.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2020,delivery,form1_sales_to_ultimate_consumers,2424798067.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2021,delivery,form1_sales_to_ultimate_consumers,2432017481.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2022,delivery,form1_sales_to_ultimate_consumers,2846824129.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2023,delivery,form1_sales_to_ultimate_consumers,2963510129.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2024,delivery,form1_sales_to_ultimate_consumers,3195836757.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+CenterPoint,2025,delivery,form1_sales_to_ultimate_consumers,3480743039.0,A,Form 1 p.300 accts 440-445 total (retail delivery revenue; excludes bond-company charges and third-party transmission),FERC Form 1 (PUDL out_ferc1__yearly_operating_revenues_sched300),False
+AEP Texas Central,2020,storm,AEP_RF,27209698.259999998,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2021,storm,AEP_RF,27001515.29,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2022,storm,AEP_RF,27863262.660000004,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2023,storm,AEP_RF,28500502.69,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2024,storm,AEP_RF,27338258.39,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2025,storm,AEP_RF,24794371.42,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2002,transition_securitized,AEP_TF1,90643000.0,A,all-class collections: issuer revenue,CPL Transition Funding LLC 10-K FY2002 income statement,False
+AEP Texas Central,2003,transition_securitized,AEP_TF1,90832339.71281639,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+AEP Texas Central,2004,transition_securitized,AEP_TF1,90336346.09894165,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+AEP Texas Central,2006,transition_securitized,AEP_TF1,90280754.01817055,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+AEP Texas Central,2007,transition_securitized,AEP_TF1,83351763.31496638,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+AEP Texas Central,2006,transition_securitized,AEP_TF2,16892497.880000003,A,all-class collections: servicer remittances (2 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2007,transition_securitized,AEP_TF2,168074755.89,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2020,transition_securitized,AEP_TF2,92348978.64999999,A,all-class collections: servicer remittances (6 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2020,transition_securitized,AEP_TF3,75997220.54,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2021,transition_securitized,AEP_TF3,74588809.63,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2022,transition_securitized,AEP_TF3,74915481.76,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2023,transition_securitized,AEP_TF3,73183535.4,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+AEP Texas Central,2024,transition_securitized,AEP_TF3,61941013.699999996,A,all-class collections: servicer remittances (11 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2009,storm,CNP_SRC1,8091784.392546296,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2010,storm,CNP_SRC1,58210327.944254816,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2011,storm,CNP_SRC1,65653223.85851406,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2012,storm,CNP_SRC1,66346215.392197065,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2013,storm,CNP_SRC1,66165459.75453237,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2014,storm,CNP_SRC1,66502936.948943175,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2015,storm,CNP_SRC1,66941864.559328005,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2016,storm,CNP_SRC1,67582564.88025185,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2017,storm,CNP_SRC1,68284704.96300296,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2018,storm,CNP_SRC1,69246394.74590741,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2019,storm,CNP_SRC1,70192337.12084314,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2020,storm,CNP_SRC1,70960668.69921626,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2021,storm,CNP_SRC1,71602835.64577897,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2022,storm,CNP_SRC1,38926170.110984914,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2025,storm,CNP_SRC2,10440797.3,A,all-class collections: servicer remittances (3 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2002,transition_securitized,CNP_TC1,74086000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2003,transition_securitized,CNP_TC1,63542000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2004,transition_securitized,CNP_TC1,74929000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2005,transition_securitized,CNP_TC1,99754000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2006,transition_securitized,CNP_TC1,79203000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2007,transition_securitized,CNP_TC1,89244000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2008,transition_securitized,CNP_TC1,98549000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2009,transition_securitized,CNP_TC1,98417000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2010,transition_securitized,CNP_TC1,113384000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2011,transition_securitized,CNP_TC1,106825000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2012,transition_securitized,CNP_TC1,116474000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,False
+CenterPoint,2005,transition_securitized,CNP_TC2,6931000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co II 10-K income statement,False
+CenterPoint,2006,transition_securitized,CNP_TC2,185649000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co II 10-K income statement,False
+CenterPoint,2007,transition_securitized,CNP_TC2,187259000.0,A,all-class collections: issuer revenue,CenterPoint Energy Transition Bond Co II 10-K income statement,False
+CenterPoint,2008,transition_securitized,CNP_TC2,186015868.09875405,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2009,transition_securitized,CNP_TC2,171507889.68,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2010,transition_securitized,CNP_TC2,196864399.28,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2011,transition_securitized,CNP_TC2,204542926.21999997,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2012,transition_securitized,CNP_TC2,195767298.70999998,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2013,transition_securitized,CNP_TC2,195909020.21,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2014,transition_securitized,CNP_TC2,206222842.70000002,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2015,transition_securitized,CNP_TC2,224827049.18,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2016,transition_securitized,CNP_TC2,201798988.26000002,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2017,transition_securitized,CNP_TC2,218207213.81000003,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2018,transition_securitized,CNP_TC2,199793682.12000003,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2019,transition_securitized,CNP_TC2,104026733.33999999,A,all-class collections: servicer remittances (7 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2008,transition_securitized,CNP_TC3,39920529.51710184,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2009,transition_securitized,CNP_TC3,50287486.07398097,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2010,transition_securitized,CNP_TC3,52504035.96675086,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2011,transition_securitized,CNP_TC3,53995515.43524671,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2012,transition_securitized,CNP_TC3,55123494.26520527,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2013,transition_securitized,CNP_TC3,55793077.24642973,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2014,transition_securitized,CNP_TC3,56588178.091923706,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2015,transition_securitized,CNP_TC3,57492648.47294557,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2016,transition_securitized,CNP_TC3,58511942.11894081,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2017,transition_securitized,CNP_TC3,59265064.87663202,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2018,transition_securitized,CNP_TC3,60087790.21899901,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2019,transition_securitized,CNP_TC3,58895170.05229688,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2020,transition_securitized,CNP_TC3,5027615.725868712,B,all-class collections: scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),False
+CenterPoint,2012,transition_securitized,CNP_TC5,131839932.24000001,A,all-class collections: servicer remittances (11 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2013,transition_securitized,CNP_TC5,138026553.82000002,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2014,transition_securitized,CNP_TC5,210256635.26000002,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2015,transition_securitized,CNP_TC5,116658623.54999998,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2016,transition_securitized,CNP_TC5,203543401.58999997,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2017,transition_securitized,CNP_TC5,94423351.54999998,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2018,transition_securitized,CNP_TC5,208020866.89000002,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2019,transition_securitized,CNP_TC5,145953069.65,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2020,transition_securitized,CNP_TC5,143510508.98999998,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2021,transition_securitized,CNP_TC5,167397042.88,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2022,transition_securitized,CNP_TC5,182547799.38,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2023,transition_securitized,CNP_TC5,163199189.14000002,A,all-class collections: servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+CenterPoint,2024,transition_securitized,CNP_TC5,107872730.22,A,all-class collections: servicer remittances (10 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",False
+Oncor,2003,transition_securitized,ONCOR,19462000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2004,transition_securitized,ONCOR,106396000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2005,transition_securitized,ONCOR,151595000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2006,transition_securitized,ONCOR,150760000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2007,transition_securitized,ONCOR,145219000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2008,transition_securitized,ONCOR,139893000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2009,transition_securitized,ONCOR,146565000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2010,transition_securitized,ONCOR,152803000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2011,transition_securitized,ONCOR,150561000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2012,transition_securitized,ONCOR,143728000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2013,transition_securitized,ONCOR,148733000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2014,transition_securitized,ONCOR,144532000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2015,transition_securitized,ONCOR,119629000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
+Oncor,2016,transition_securitized,ONCOR,21629000.0,A,all-class collections: issuer revenue (derived),Oncor 10-K FY2016: transition-bond revenue fell $98M from 2015 (bonds retired May 2016),False
+CenterPoint,2013,transition_securitized,CNP_TC1,83244120.58491743,C,all-class collections: residential rate x residential kWh (PUCT); all-class = residential / factor,PUCT summaries 030113/090113,False
+Oncor,2003,transition_other,emc,-176000000.0,C,10-K: 2003 cash effect $170M + $6M interest (split of a 2-year total),TXU Electric Delivery 10-K FY2004 (data/sec/oncor_2004.txt),False
+Oncor,2002,transition_other,emc,-239000000.0,C,"10-K: $389M + $26M interest over 2002-03, less the 2003 amount",TXU Electric Delivery 10-K FY2004,False
+Oncor,2004,transition_other,clawback_per_cust,-80842802.04000036,B,residential-only credit: $2.73 x residential customers x 12 (residential file),TXU Electric Delivery 10-K FY2004; PUCT summaries,False
+Oncor,2005,transition_other,clawback_per_cust,-82276805.52000037,B,residential-only credit: $2.73 x residential customers x 12 (residential file),TXU Electric Delivery 10-K FY2004; PUCT summaries,False
+Oncor,2016,transition_securitized,tc_refund,-17018674.60857833,C,residential refund (rate x kWh) / bond residential allocation factor 0.4127,PUCT summaries 090116/030117,False
+Oncor,2017,transition_securitized,tc_refund,-8197040.829163695,C,residential refund (rate x kWh) / bond residential allocation factor 0.4127,PUCT summaries 090116/030117,False
+CenterPoint,2002,transition_other,emc,-238000000.0,B,10-K: ~$238M per year,CEHE 10-K FY2003 (data/sec/cehe_2003.txt),False
+CenterPoint,2003,transition_other,emc,-238000000.0,B,10-K: ~$238M per year,CEHE 10-K FY2003 (data/sec/cehe_2003.txt),False
+CenterPoint,2004,transition_other,emc,-238000000.0,B,10-K: ~$238M per year,CEHE 10-K FY2003 (data/sec/cehe_2003.txt),False
+CenterPoint,2005,transition_other,emc,-76942465.75342466,C,"10-K: ~$238M per year x 118/365 (credits ended Apr 29, 2005)",CEHE 10-K FY2003 (data/sec/cehe_2003.txt),False
+CenterPoint,2005,transition_other,ctc,15007674.243564641,C,residential CTC (PUCT rate x kWh) / TC2 residential factor 0.4004,PUCT summaries; CEHE 10-K FY2007/FY2010 (CTC op. income check),True
+CenterPoint,2006,transition_other,ctc,45781940.361884415,C,residential CTC (PUCT rate x kWh) / TC2 residential factor 0.4004,PUCT summaries; CEHE 10-K FY2007/FY2010 (CTC op. income check),True
+CenterPoint,2007,transition_other,ctc,42195887.98862788,C,residential CTC (PUCT rate x kWh) / TC2 residential factor 0.4004,PUCT summaries; CEHE 10-K FY2007/FY2010 (CTC op. income check),True
+CenterPoint,2008,transition_other,ctc,27994101.488163393,C,residential CTC (PUCT rate x kWh) / TC2 residential factor 0.4004,PUCT summaries; CEHE 10-K FY2007/FY2010 (CTC op. income check),True
+CenterPoint,2011,storm,storm_adfit,-28195763.872971363,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2012,storm,storm_adfit,-25526152.106670585,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2013,storm,storm_adfit,8082820.025748872,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2014,storm,storm_adfit,-17263201.31971731,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2015,storm,storm_adfit,-16325112.852904573,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2016,storm,storm_adfit,-12406944.879481114,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2017,storm,storm_adfit,-9335104.285103416,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2018,storm,storm_adfit,-9832426.450559635,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2019,storm,storm_adfit,-6975679.088356631,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2020,storm,storm_adfit,-3535537.5491391863,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+CenterPoint,2021,storm,storm_adfit,-2522535.180463794,C,residential ADFIT credit (rate x kWh) / SRC1 residential factor 0.6492,PUCT summaries,True
+Oncor,2002,sbf,sbf,63621825.489999585,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2003,sbf,sbf,67274845.63999957,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2004,sbf,sbf,66574450.86499957,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2005,sbf,sbf,69550905.13999955,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2006,sbf,sbf,69971831.71999955,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2007,sbf,sbf,69055802.42999956,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2008,sbf,sbf,70627814.21999955,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2009,sbf,sbf,67711088.08499956,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2010,sbf,sbf,71606747.08999954,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2011,sbf,sbf,74562997.88999952,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2012,sbf,sbf,72292712.86999954,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+Oncor,2013,sbf,sbf,48975846.265849255,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2002,sbf,sbf,45528250.89999971,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2003,sbf,sbf,46383514.5299997,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2004,sbf,sbf,48228663.28499969,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2005,sbf,sbf,48594088.439999685,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2006,sbf,sbf,49699387.18499968,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2007,sbf,sbf,49877359.199999675,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2008,sbf,sbf,49020182.314999685,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2009,sbf,sbf,48849440.189999685,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2010,sbf,sbf,50417390.324999675,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2011,sbf,sbf,52408418.05999966,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2012,sbf,sbf,51478693.374999665,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+CenterPoint,2013,sbf,sbf,34878923.162260234,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries; puct_rates.py,False
+AEP Texas Central,2002,delivery,emr_delivery,319631335.64483327,B,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning x 1.0311 (2002 EMR covers ~Feb-Dec; scaled to full-year MWh),27312_18_393398/TCC_EMR_2002.xls,False
+AEP Texas Central,2002,transition_other,emc_billed,-14908171.102742739,B,EMR all-class revenue billed under the rider x 1.0311 (2002 EMR covers ~Feb-Dec; scaled to full-year MWh),27312_18_393398/TCC_EMR_2002.xls,False
+AEP Texas Central,2002,sbf,sbf_billed,12960670.5243049,B,EMR all-class revenue billed under the rider x 1.0311 (2002 EMR covers ~Feb-Dec; scaled to full-year MWh),27312_18_393398/TCC_EMR_2002.xls,False
+AEP Texas Central,2003,sbf,sbf,13462701.433999946,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+AEP Texas Central,2003,transition_other,emc,-15988026.9167999,C,residential EMC (PUCT rate x kWh) x 2.40 (all-class/residential EMC in the 2002 and 2005 EMRs),PUCT summaries; EMRs,False
+AEP Texas Central,2004,sbf,sbf,13973789.265999943,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+AEP Texas Central,2004,transition_other,emc,-16078278.571199898,C,residential EMC (PUCT rate x kWh) x 2.40 (all-class/residential EMC in the 2002 and 2005 EMRs),PUCT summaries; EMRs,False
+AEP Texas Central,2005,delivery,emr_delivery,370671648.0,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,"32534_19_510965.PDF pp.19,23-26 (WP1, SBF, EMC, TC, NDC) + 32534_19 first PDF p.26 (XI.2a)",False
+AEP Texas Central,2005,transition_securitized,transition_charges_billed,90040102.0,A,EMR all-class revenue billed under the rider,"32534_19_510965.PDF pp.19,23-26 (WP1, SBF, EMC, TC, NDC) + 32534_19 first PDF p.26 (XI.2a)",False
+AEP Texas Central,2005,transition_other,emc_billed,-9178499.0,A,EMR all-class revenue billed under the rider,"32534_19_510965.PDF pp.19,23-26 (WP1, SBF, EMC, TC, NDC) + 32534_19 first PDF p.26 (XI.2a)",False
+AEP Texas Central,2005,sbf,sbf_billed,14292111.0,A,EMR all-class revenue billed under the rider,"32534_19_510965.PDF pp.19,23-26 (WP1, SBF, EMC, TC, NDC) + 32534_19 first PDF p.26 (XI.2a)",False
+AEP Texas Central,2006,delivery,form1_456_calibrated,398142549.65780544,C,"Form 1 acct 456 / 1.019 (mean 456/EMR delivery 2008-16, range 0.991-1.063)",FERC Form 1 p.300 (PUDL),False
+AEP Texas Central,2006,sbf,sbf,14794449.48199994,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+AEP Texas Central,2006,transition_other,clawback_refund_2006,-68000000.0,C,retail clawback paid to REPs for customers: $33M Oct 12 - Dec 1 + $35M December bill credits (all classes),"Corpus Christi Caller-Times, Dec 2006, 'AEP to refund $35M by 2007' (PUCT ruled 'almost $65M' on Sept 7)",False
+AEP Texas Central,2007,delivery,form1_456_calibrated,409595624.7124865,C,"Form 1 acct 456 / 1.019 (mean 456/EMR delivery 2008-16, range 0.991-1.063)",FERC Form 1 p.300 (PUDL),False
+AEP Texas Central,2007,sbf,sbf,14649492.003999941,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+AEP Texas Central,2007,transition_other,ctc,-153100737.3781056,C,residential CTC (PUCT rate x kWh) x 2.585 (all/residential CTC in the 2008 EMR),PUCT summaries; TCC 2008 EMR,False
+AEP Texas Central,2007,transition_other,trueup_expense,1061246.6073617823,C,residential true-up expense surcharge x 2.585,PUCT summaries,False
+AEP Texas Central,2008,delivery,emr_delivery,410188341.64,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,36823_20_615976/TCC EMR 2008 FINAL.xls,False
+AEP Texas Central,2008,transition_securitized,transition_charges_billed,240071737.54000002,A,EMR all-class revenue billed under the rider,36823_20_615976/TCC EMR 2008 FINAL.xls,False
+AEP Texas Central,2008,transition_other,ctc_trueup_billed,-72011182.44,A,EMR all-class revenue billed under the rider,36823_20_615976/TCC EMR 2008 FINAL.xls,False
+AEP Texas Central,2008,transition_other,emc_billed,-46.45,A,EMR all-class revenue billed under the rider,36823_20_615976/TCC EMR 2008 FINAL.xls,False
+AEP Texas Central,2008,sbf,sbf_billed,14772515.61,A,EMR all-class revenue billed under the rider,36823_20_615976/TCC EMR 2008 FINAL.xls,False
+AEP Texas Central,2009,delivery,emr_delivery,447163529.6000001,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,37993_20_650769/TCC EMR 2009.xls,False
+AEP Texas Central,2009,transition_securitized,transition_charges_billed,272475151.69000006,A,EMR all-class revenue billed under the rider,37993_20_650769/TCC EMR 2009.xls,False
+AEP Texas Central,2009,transition_other,ctc_trueup_billed,2451721.3099999996,A,EMR all-class revenue billed under the rider,37993_20_650769/TCC EMR 2009.xls,False
+AEP Texas Central,2009,transition_other,emc_billed,0.01,A,EMR all-class revenue billed under the rider,37993_20_650769/TCC EMR 2009.xls,False
+AEP Texas Central,2009,sbf,sbf_billed,14883445.860000001,A,EMR all-class revenue billed under the rider,37993_20_650769/TCC EMR 2009.xls,False
+AEP Texas Central,2010,delivery,emr_delivery,482689228.93000007,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,39211_14_698477/TCC 2010 .xls,False
+AEP Texas Central,2010,transition_securitized,transition_charges_billed,261976119.44,A,EMR all-class revenue billed under the rider,39211_14_698477/TCC 2010 .xls,False
+AEP Texas Central,2010,transition_other,ctc_trueup_billed,1180712.51,A,EMR all-class revenue billed under the rider,39211_14_698477/TCC 2010 .xls,False
+AEP Texas Central,2010,sbf,sbf_billed,14810410.790000001,A,EMR all-class revenue billed under the rider,39211_14_698477/TCC 2010 .xls,False
+AEP Texas Central,2011,delivery,emr_delivery,516383499.0,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,"40327_18_725798 'TCC EMR_20120515133138.pdf' pp.69,72-74 + XI.2a p.24",False
+AEP Texas Central,2011,transition_securitized,transition_charges_billed,268265857.0,A,EMR all-class revenue billed under the rider,"40327_18_725798 'TCC EMR_20120515133138.pdf' pp.69,72-74 + XI.2a p.24",False
+AEP Texas Central,2011,sbf,sbf_billed,15852420.0,A,EMR all-class revenue billed under the rider,"40327_18_725798 'TCC EMR_20120515133138.pdf' pp.69,72-74 + XI.2a p.24",False
+AEP Texas Central,2012,delivery,emr_delivery,511995749.23,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,41327_13_756867/TCC 2012 EMR.xls,False
+AEP Texas Central,2012,transition_securitized,transition_charges_billed,324761855.68,A,EMR all-class revenue billed under the rider,41327_13_756867/TCC 2012 EMR.xls,False
+AEP Texas Central,2012,sbf,sbf_billed,15666329.73,A,EMR all-class revenue billed under the rider,41327_13_756867/TCC 2012 EMR.xls,False
+AEP Texas Central,2013,delivery,emr_delivery,527608057.73,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,42290_16_790400/TCC 2013 EMR FINAL (2).xls,False
+AEP Texas Central,2013,transition_securitized,transition_charges_billed,327182780.79999995,A,EMR all-class revenue billed under the rider,42290_16_790400/TCC 2013 EMR FINAL (2).xls,False
+AEP Texas Central,2013,sbf,sbf_billed,10483032.82,A,EMR all-class revenue billed under the rider,42290_16_790400/TCC 2013 EMR FINAL (2).xls,False
+AEP Texas Central,2014,delivery,emr_delivery,597886173.2099999,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,44550_11_849354/TCC 2014 EMR FINAL.xls,False
+AEP Texas Central,2014,transition_securitized,transition_charges_billed,352542823.91999996,A,EMR all-class revenue billed under the rider,44550_11_849354/TCC 2014 EMR FINAL.xls,False
+AEP Texas Central,2014,sbf,sbf_billed,-72.75999999999999,A,EMR all-class revenue billed under the rider,44550_11_849354/TCC 2014 EMR FINAL.xls,False
+AEP Texas Central,2015,delivery,emr_delivery,622785859.69,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,45636_8_892532/45787 TCC 2015 EMR.xlsx,False
+AEP Texas Central,2015,transition_securitized,transition_charges_billed,351265852.48999995,A,EMR all-class revenue billed under the rider,45636_8_892532/45787 TCC 2015 EMR.xlsx,False
+AEP Texas Central,2015,sbf,sbf_billed,-79.9,A,EMR all-class revenue billed under the rider,45636_8_892532/45787 TCC 2015 EMR.xlsx,False
+AEP Texas Central,2016,delivery,emr_delivery,655819310.95,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,46910_12_939984/TCC 2016 EMR F.xlsx,False
+AEP Texas Central,2016,transition_securitized,transition_charges_billed,266251517.54000002,A,EMR all-class revenue billed under the rider,46910_12_939984/TCC 2016 EMR F.xlsx,False
+AEP Texas Central,2016,sbf,sbf_billed,-5.13,A,EMR all-class revenue billed under the rider,46910_12_939984/TCC 2016 EMR F.xlsx,False
+AEP Texas Central,2017,delivery,emr_delivery,692029745.1500001,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,48158_26_980071/TCC 2017 EMR FINAL.xlsx,False
+AEP Texas Central,2017,transition_securitized,transition_charges_billed,279923169.82,A,EMR all-class revenue billed under the rider,48158_26_980071/TCC 2017 EMR FINAL.xlsx,False
+AEP Texas Central,2017,sbf,sbf_billed,0.05,A,EMR all-class revenue billed under the rider,48158_26_980071/TCC 2017 EMR FINAL.xlsx,False
+AEP Texas Central,2018,delivery,emr_delivery,720953077.93,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,49355_68_1063756/AEP Texas Central 2018 EMR_FINAL.xlsx,False
+AEP Texas Central,2018,transition_securitized,transition_charges_billed,277204677.24,A,EMR all-class revenue billed under the rider,49355_68_1063756/AEP Texas Central 2018 EMR_FINAL.xlsx,False
+AEP Texas North,2002,delivery,emr_delivery,98765112.85849696,B,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning x 1.0567 (2002 EMR covers ~Feb-Dec; scaled to full-year MWh),27312_19_393399/TNC_EMR_2002.xls,False
+AEP Texas North,2002,sbf,sbf_billed,2924861.679976177,B,EMR all-class revenue billed under the rider x 1.0567 (2002 EMR covers ~Feb-Dec; scaled to full-year MWh),27312_19_393399/TNC_EMR_2002.xls,False
+AEP Texas North,2003,delivery,emr_delivery,102212528.5,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,29343_12_439362/TNC_2003_EMR.xls,False
+AEP Texas North,2003,sbf,sbf_billed,3056336.6599999997,A,EMR all-class revenue billed under the rider,29343_12_439362/TNC_2003_EMR.xls,False
+AEP Texas North,2004,delivery,emr_delivery,101085620.26,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,30805_10_478259/TNC_2004_EMR.xls,False
+AEP Texas North,2004,sbf,sbf_billed,2934540.9899999998,A,EMR all-class revenue billed under the rider,30805_10_478259/TNC_2004_EMR.xls,False
+AEP Texas North,2005,delivery,emr_delivery,102280384.0,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,"32534_18_510967.PDF pp.20,24 (WP1, SBF) + XI.2a p.26",False
+AEP Texas North,2005,sbf,sbf_billed,3024785.0,A,EMR all-class revenue billed under the rider,"32534_18_510967.PDF pp.20,24 (WP1, SBF) + XI.2a p.26",False
+AEP Texas North,2006,delivery,form1_456_calibrated,102157874.50993082,C,"Form 1 acct 456 / 1.018 (mean 456/EMR delivery 2008-16, range 0.994-1.046)",FERC Form 1 p.300 (PUDL),False
+AEP Texas North,2006,sbf,sbf,3011482.3199999803,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+AEP Texas North,2006,transition_other,interim_clawback_credit,-11809144.631479127,C,residential credit (PUCT -1.9056c x kWh) / 0.89 (residential share of AEP Central's 2006 clawback),PUCT summary 090106; Standard-Times 2006-10-02,False
+AEP Texas North,2007,delivery,form1_456_calibrated,109523607.51064037,C,"Form 1 acct 456 / 1.018 (mean 456/EMR delivery 2008-16, range 0.994-1.046)",FERC Form 1 p.300 (PUDL),False
+AEP Texas North,2007,sbf,sbf,2950205.2799999807,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+AEP Texas North,2007,transition_other,interim_clawback_credit,-6604145.851685394,C,Jan-Feb residential credit / 0.89,PUCT summaries,False
+AEP Texas North,2007,transition_other,ctc,2601477.3356133252,C,Jul-Dec residential CTC x 1.664 (all/residential CTC in the 2008 EMR),PUCT summaries; TNC 2008 EMR,False
+AEP Texas North,2008,delivery,emr_delivery,113920461.37,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,36823_21_615977/TNC 2008 EMR FINAL.xls,False
+AEP Texas North,2008,transition_other,ctc_trueup_billed,825074.4000000001,A,EMR all-class revenue billed under the rider,36823_21_615977/TNC 2008 EMR FINAL.xls,False
+AEP Texas North,2008,sbf,sbf_billed,3044624.21,A,EMR all-class revenue billed under the rider,36823_21_615977/TNC 2008 EMR FINAL.xls,False
+AEP Texas North,2009,delivery,emr_delivery,116342747.6,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,37993_21_650770/TNC 2009 EMR.xls,False
+AEP Texas North,2009,transition_other,ctc_trueup_billed,-341.94,A,EMR all-class revenue billed under the rider,37993_21_650770/TNC 2009 EMR.xls,False
+AEP Texas North,2009,sbf,sbf_billed,3076268.81,A,EMR all-class revenue billed under the rider,37993_21_650770/TNC 2009 EMR.xls,False
+AEP Texas North,2010,delivery,emr_delivery,125307574.35,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,39211_17_698483/TNC 2010 EMR.xls,False
+AEP Texas North,2010,transition_other,ctc_trueup_billed,-10.67,A,EMR all-class revenue billed under the rider,39211_17_698483/TNC 2010 EMR.xls,False
+AEP Texas North,2010,sbf,sbf_billed,3255304.54,A,EMR all-class revenue billed under the rider,39211_17_698483/TNC 2010 EMR.xls,False
+AEP Texas North,2011,delivery,emr_delivery,137188006.0,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,"40327_17_725797 TNC EMR PDF pp.68,70 + XI.2a p.24",False
+AEP Texas North,2011,sbf,sbf_billed,3441892.0,A,EMR all-class revenue billed under the rider,"40327_17_725797 TNC EMR PDF pp.68,70 + XI.2a p.24",False
+AEP Texas North,2012,delivery,emr_delivery,132957175.42999999,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,41327_12_756866/TNC 2012 EMR.xls,False
+AEP Texas North,2012,sbf,sbf_billed,3370467.09,A,EMR all-class revenue billed under the rider,41327_12_756866/TNC 2012 EMR.xls,False
+AEP Texas North,2013,delivery,emr_delivery,141431022.32,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,42290_18_790403/TNC 2013 EMR FINAL.xls,False
+AEP Texas North,2013,sbf,sbf_billed,2293509.34,A,EMR all-class revenue billed under the rider,42290_18_790403/TNC 2013 EMR FINAL.xls,False
+AEP Texas North,2014,delivery,emr_delivery,154367168.66000003,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,44550_12_849355/TNC 2014 EMR.xls,False
+AEP Texas North,2014,sbf,sbf_billed,-8.259999999999994,A,EMR all-class revenue billed under the rider,44550_12_849355/TNC 2014 EMR.xls,False
+AEP Texas North,2015,delivery,emr_delivery,161002039.08,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,45636_9_892533/45788 TNC 2015 EMR.xls,False
+AEP Texas North,2015,sbf,sbf_billed,-204.41,A,EMR all-class revenue billed under the rider,45636_9_892533/45788 TNC 2015 EMR.xls,False
+AEP Texas North,2016,delivery,emr_delivery,161258740.29999998,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,46910_12_939984/TNC 2016 EMR FINAL.xls,False
+AEP Texas North,2016,sbf,sbf_billed,-0.73,A,EMR all-class revenue billed under the rider,46910_12_939984/TNC 2016 EMR FINAL.xls,False
+AEP Texas North,2017,delivery,emr_delivery,175068157.48999998,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,48158_26_980071/TNC 2017 EMR FINAL.xls,False
+AEP Texas North,2018,delivery,emr_delivery,186910680.35000002,A,EMR all-class: WP1 base revenue +/- riders per 'Included/Not Included' labels; incl. nuclear decommissioning,49355_68_1063756/AEP Texas North 2018 EMR_FINAL.xlsx,False
+AEP Texas Central,2020,delivery,eia_delivery_less_bonds,711111702.55,B,EIA-861 delivery revenue (all classes) minus all-class TF2/TF3 and storm-bond collections (servicer remittances),EIA-861 Delivery_Companies_2020.xlsx,False
+AEP Texas Central,2021,delivery,eia_delivery_less_bonds,761257675.08,B,EIA-861 delivery revenue (all classes) minus all-class TF2/TF3 and storm-bond collections (servicer remittances),EIA-861 Delivery_Companies_2021.xlsx,False
+AEP Texas Central,2022,delivery,eia_delivery_less_bonds,947431255.5799999,B,EIA-861 delivery revenue (all classes) minus all-class TF2/TF3 and storm-bond collections (servicer remittances),EIA-861 Delivery_Companies_2022.xlsx,False
+AEP Texas Central,2023,delivery,eia_delivery_less_bonds,948024461.91,B,EIA-861 delivery revenue (all classes) minus all-class TF2/TF3 and storm-bond collections (servicer remittances),EIA-861 Delivery_Companies_2023.xlsx,False
+AEP Texas Central,2024,delivery,eia_delivery_less_bonds,1035341627.91,B,EIA-861 delivery revenue (all classes) minus all-class TF2/TF3 and storm-bond collections (servicer remittances),EIA-861 Delivery_Companies_2024.xlsx,False
+AEP Texas Central,2025,delivery,eia_delivery_less_bonds,1150966628.58,B,EIA-861 delivery revenue (all classes) minus all-class TF2/TF3 and storm-bond collections (servicer remittances),EIA-861 Delivery_Companies_2025.xlsx,False
+AEP Texas North,2020,delivery,eia_delivery_less_bonds,161836500.0,B,EIA-861 delivery revenue (all classes); North has no bonds,EIA-861 Delivery_Companies_2020.xlsx,False
+AEP Texas North,2021,delivery,eia_delivery_less_bonds,168837300.0,B,EIA-861 delivery revenue (all classes); North has no bonds,EIA-861 Delivery_Companies_2021.xlsx,False
+AEP Texas North,2022,delivery,eia_delivery_less_bonds,214609100.0,B,EIA-861 delivery revenue (all classes); North has no bonds,EIA-861 Delivery_Companies_2022.xlsx,False
+AEP Texas North,2023,delivery,eia_delivery_less_bonds,212473300.0,B,EIA-861 delivery revenue (all classes); North has no bonds,EIA-861 Delivery_Companies_2023.xlsx,False
+AEP Texas North,2024,delivery,eia_delivery_less_bonds,234064400.0,B,EIA-861 delivery revenue (all classes); North has no bonds,EIA-861 Delivery_Companies_2024.xlsx,False
+AEP Texas North,2025,delivery,eia_delivery_less_bonds,261407800.0,B,EIA-861 delivery revenue (all classes); North has no bonds,EIA-861 Delivery_Companies_2025.xlsx,False
+AEP Texas (Central+North),2019,delivery,emr_delivery,893133314.0500001,A,EMR all-class (merged company),50655_5_1064429/AEP_Texas_2019_IOU_TDU_EMR_form - FINAL.xlsm,False
+AEP Texas (Central+North),2019,transition_securitized,transition_charges_billed,279429731.51,A,EMR all-class revenue billed under the rider,50655_5_1064429/AEP_Texas_2019_IOU_TDU_EMR_form - FINAL.xlsm,False
+AEP Texas (Central+North),2019,storm,src_adfit_billed,6523287.72,A,EMR all-class revenue billed under the rider,50655_5_1064429/AEP_Texas_2019_IOU_TDU_EMR_form - FINAL.xlsm,False
+AEP Texas (Central+North),2020,delivery,emr_delivery,870077357.53,A,EMR all-class (merged company),51718_7_1125623/AEP_Texas_2020_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2020,transition_securitized,transition_charges_billed,173574360.12,A,EMR all-class revenue billed under the rider,51718_7_1125623/AEP_Texas_2020_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2020,storm,src_adfit_billed,24744899.25,A,EMR all-class revenue billed under the rider,51718_7_1125623/AEP_Texas_2020_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2021,delivery,emr_delivery,953801515.5400002,A,EMR all-class (merged company),52952_6_1206508/AEP_Texas_2021_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2021,transition_securitized,transition_charges_billed,51778883.66000001,A,EMR all-class revenue billed under the rider,52952_6_1206508/AEP_Texas_2021_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2021,sbf,sbf_billed,8741627.780000001,A,EMR all-class revenue billed under the rider,52952_6_1206508/AEP_Texas_2021_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2021,storm,src_adfit_billed,25253504.02,A,EMR all-class revenue billed under the rider,52952_6_1206508/AEP_Texas_2021_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2022,delivery,emr_delivery,1148714049.43,A,EMR all-class (merged company),54451_4_1292477/54451 AEP_Texas_2022_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2022,transition_securitized,transition_charges_billed,76620643.90999998,A,EMR all-class revenue billed under the rider,54451_4_1292477/54451 AEP_Texas_2022_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2022,storm,src_adfit_billed,26835859.26,A,EMR all-class revenue billed under the rider,54451_4_1292477/54451 AEP_Texas_2022_IOU_TDU_EMR_form.xlsm,False
+AEP Texas (Central+North),2023,delivery,emr_delivery,1162278568.68,A,EMR all-class (merged company),55977_63_1435337/55977 - AEP Texas Reporting Year 2023 EMR.xlsm,False
+AEP Texas (Central+North),2023,transition_securitized,transition_charges_billed,72719901.87,A,EMR all-class revenue billed under the rider,55977_63_1435337/55977 - AEP Texas Reporting Year 2023 EMR.xlsm,False
+AEP Texas (Central+North),2023,storm,src_adfit_billed,27190114.540000007,A,EMR all-class revenue billed under the rider,55977_63_1435337/55977 - AEP Texas Reporting Year 2023 EMR.xlsm,False
+AEP Texas (Central+North),2024,delivery,emr_delivery,1260208022.5500002,A,EMR all-class (merged company),57406_5_1491937/57406 - AEP Texas Reporting Year 2024 EMR.xlsm,False
+AEP Texas (Central+North),2024,transition_securitized,transition_charges_billed,68312429.84,A,EMR all-class revenue billed under the rider,57406_5_1491937/57406 - AEP Texas Reporting Year 2024 EMR.xlsm,False
+AEP Texas (Central+North),2024,storm,src_adfit_billed,26164717.979999997,A,EMR all-class revenue billed under the rider,57406_5_1491937/57406 - AEP Texas Reporting Year 2024 EMR.xlsm,False
+AEP Texas (Central+North),2025,delivery,emr_delivery,1413063238.82,A,EMR all-class (merged company),59188_18_1644359/59188 - AEP Texas Reporting Year 2025 EMR.xlsm,False
+AEP Texas (Central+North),2025,transition_securitized,transition_charges_billed,93420.73000000003,A,EMR all-class revenue billed under the rider,59188_18_1644359/59188 - AEP Texas Reporting Year 2025 EMR.xlsm,False
+AEP Texas (Central+North),2025,storm,src_adfit_billed,24012164.459999997,A,EMR all-class revenue billed under the rider,59188_18_1644359/59188 - AEP Texas Reporting Year 2025 EMR.xlsm,False
+TNMP,2002,delivery,form1_p304_texas_delivery,118800589.0,A,Form 1 p.304 sum of Texas Unbundled Delivery schedules 6.1.1.1-6.1.1.6,FERC Form 1 (PUDL sched304),False
+TNMP,2003,delivery,form1_p304_texas_delivery,136513722.0,A,Form 1 p.304 sum of Texas Unbundled Delivery schedules 6.1.1.1-6.1.1.6,FERC Form 1 (PUDL sched304),False
+TNMP,2004,delivery,form1_p304_texas_delivery,137165908.0,A,Form 1 p.304 sum of Texas Unbundled Delivery schedules 6.1.1.1-6.1.1.6,FERC Form 1 (PUDL sched304),False
+TNMP,2005,delivery,form1_p304_texas_delivery,131224970.0,A,Form 1 p.304 sum of Texas Unbundled Delivery schedules 6.1.1.1-6.1.1.6,FERC Form 1 (PUDL sched304),False
+TNMP,2006,delivery,form1_p304_texas_delivery,128467247.0,A,Form 1 p.304 sum of Texas Unbundled Delivery schedules 6.1.1.1-6.1.1.6,FERC Form 1 (PUDL sched304),False
+TNMP,2007,delivery,10k_rci_scaled,150890103.99920505,B,"10-K Residential+Commercial+Industrial x 1.0229 (EIA delivery / R+C+I, 2012-19)",PNMR 10-K FY2008/FY2011,False
+TNMP,2008,delivery,10k_rci_scaled,161935533.75300762,B,"10-K Residential+Commercial+Industrial x 1.0229 (EIA delivery / R+C+I, 2012-19)",PNMR 10-K FY2008/FY2011,False
+TNMP,2009,delivery,10k_rci_scaled,163868841.97996512,B,"10-K Residential+Commercial+Industrial x 1.0229 (EIA delivery / R+C+I, 2012-19)",PNMR 10-K FY2011 (GWh),False
+TNMP,2010,delivery,10k_rci_scaled,177435755.7440588,B,"10-K Residential+Commercial+Industrial x 1.0229 (EIA delivery / R+C+I, 2012-19)",PNMR 10-K FY2011 (GWh),False
+TNMP,2011,delivery,10k_rci_scaled,202793803.86378145,B,"10-K Residential+Commercial+Industrial x 1.0229 (EIA delivery / R+C+I, 2012-19)",PNMR 10-K FY2011 (GWh),False
+TNMP,2012,delivery,eia_operational_delivery_revenue,210793000.0,A,EIA-861 Operational Data 'Revenues from delivery customers',EIA-861 Operational_Data,False
+TNMP,2013,delivery,eia_operational_delivery_revenue,223710800.0,A,EIA-861 Operational Data 'Revenues from delivery customers',EIA-861 Operational_Data,False
+TNMP,2014,delivery,eia_operational_delivery_revenue,235424400.0,A,EIA-861 Operational Data 'Revenues from delivery customers',EIA-861 Operational_Data,False
+TNMP,2015,delivery,eia_operational_delivery_revenue,245762400.0,A,EIA-861 Operational Data 'Revenues from delivery customers',EIA-861 Operational_Data,False
+TNMP,2016,delivery,eia_operational_delivery_revenue,250644600.0,A,EIA-861 Operational Data 'Revenues from delivery customers',EIA-861 Operational_Data,False
+TNMP,2017,delivery,eia_operational_delivery_revenue,256842100.0,A,EIA-861 Operational Data 'Revenues from delivery customers',EIA-861 Operational_Data,False
+TNMP,2018,delivery,eia_operational_delivery_revenue,264476099.99999997,A,EIA-861 Operational Data 'Revenues from delivery customers',EIA-861 Operational_Data,False
+TNMP,2019,delivery,eia_operational_delivery_revenue,295794400.0,A,EIA-861 Operational Data 'Revenues from delivery customers',EIA-861 Operational_Data,False
+TNMP,2020,delivery,eia_delivery_revenue,309529400.0,A,"EIA-861 Delivery_Companies, total revenue",EIA-861 Delivery_Companies_2020.xlsx,False
+TNMP,2021,delivery,eia_delivery_revenue,319563200.0,A,"EIA-861 Delivery_Companies, total revenue",EIA-861 Delivery_Companies_2021.xlsx,False
+TNMP,2022,delivery,eia_delivery_revenue,380404000.0,A,"EIA-861 Delivery_Companies, total revenue",EIA-861 Delivery_Companies_2022.xlsx,False
+TNMP,2023,delivery,eia_delivery_revenue,399535000.0,A,"EIA-861 Delivery_Companies, total revenue",EIA-861 Delivery_Companies_2023.xlsx,False
+TNMP,2024,delivery,eia_delivery_revenue,414995000.0,A,"EIA-861 Delivery_Companies, total revenue",EIA-861 Delivery_Companies_2024.xlsx,False
+TNMP,2025,delivery,eia_delivery_revenue,486626000.0,A,"EIA-861 Delivery_Companies, total revenue",EIA-861 Delivery_Companies_2025.xlsx,False
+TNMP,2007,transition_other,ctc,14213146.039397273,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2008,transition_other,ctc,14365490.700000096,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2009,transition_other,ctc,14288265.019479394,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2010,transition_other,ctc,14966587.943999952,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2011,transition_other,ctc,15868796.327999948,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2012,transition_other,ctc,15049248.983999953,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2013,transition_other,ctc,12972522.755835688,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2014,transition_other,ctc,12511556.352000065,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2015,transition_other,ctc,12999252.816000067,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2016,transition_other,ctc,13097099.232000068,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2017,transition_other,ctc,12559956.596284943,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2018,transition_other,ctc,12088933.290000027,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2019,transition_other,ctc,11663099.161643887,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2020,transition_other,ctc,7785634.704000029,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
+TNMP,2009,storm,storm_rider,1806045.1945205468,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2010,storm,storm_rider,7597095.999999993,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2011,storm,storm_rider,8227335.999999992,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2012,storm,storm_rider,8214573.119999993,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2013,storm,storm_rider,8268954.719999992,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2014,storm,storm_rider,1377944.036602739,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2019,storm,storm_rider,1270865.9707397327,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2020,storm,storm_rider,1597942.640000009,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2021,storm,storm_rider,1655277.680000007,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2002,sbf,sbf,3455397.227999973,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2003,sbf,sbf,4065433.385999968,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2004,sbf,sbf,3981000.677999969,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2005,sbf,sbf,4200633.497999967,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2006,sbf,sbf,4251137.993999967,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2007,sbf,sbf,4411283.627999966,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2008,sbf,sbf,4539736.421999965,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2009,sbf,sbf,4505863.799999964,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2010,sbf,sbf,4777404.599999962,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2011,sbf,sbf,5173728.59999996,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2012,sbf,sbf,5165702.711999959,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+TNMP,2013,sbf,sbf,3461851.4805369778,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+CenterPoint,2005,delivery,less_riders_inside_reported,-15007674.243564641,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2006,delivery,less_riders_inside_reported,-45781940.361884415,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2007,delivery,less_riders_inside_reported,-42195887.98862788,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2008,delivery,less_riders_inside_reported,-27994101.488163393,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2011,delivery,less_riders_inside_reported,28195763.872971363,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2012,delivery,less_riders_inside_reported,25526152.106670585,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2013,delivery,less_riders_inside_reported,-8082820.025748872,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2014,delivery,less_riders_inside_reported,17263201.31971731,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2015,delivery,less_riders_inside_reported,16325112.852904573,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2016,delivery,less_riders_inside_reported,12406944.879481114,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2017,delivery,less_riders_inside_reported,9335104.285103416,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2018,delivery,less_riders_inside_reported,9832426.450559635,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2019,delivery,less_riders_inside_reported,6975679.088356631,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2020,delivery,less_riders_inside_reported,3535537.5491391863,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+CenterPoint,2021,delivery,less_riders_inside_reported,2522535.180463794,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2007,delivery,less_riders_inside_reported,-14213146.039397273,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2008,delivery,less_riders_inside_reported,-14365490.700000096,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2009,delivery,less_riders_inside_reported,-16094310.21399994,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2010,delivery,less_riders_inside_reported,-22563683.943999946,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2011,delivery,less_riders_inside_reported,-24096132.32799994,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2012,delivery,less_riders_inside_reported,-23263822.103999946,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2013,delivery,less_riders_inside_reported,-21241477.47583568,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2014,delivery,less_riders_inside_reported,-13889500.388602804,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2015,delivery,less_riders_inside_reported,-12999252.816000067,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2016,delivery,less_riders_inside_reported,-13097099.232000068,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2017,delivery,less_riders_inside_reported,-12559956.596284943,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2018,delivery,less_riders_inside_reported,-12088933.290000027,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2019,delivery,less_riders_inside_reported,-12933965.13238362,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2020,delivery,less_riders_inside_reported,-9383577.344000038,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2021,delivery,less_riders_inside_reported,-1655277.680000007,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False

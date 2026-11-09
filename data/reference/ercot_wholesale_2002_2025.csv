@@ -1,0 +1,25 @@
+year,usd_per_mwh,definition,source
+2002,25.64,energy only (load-weighted balancing price),IMM 2003 State of the Market report
+2003,44.26,energy only (load-weighted balancing price),IMM 2003 State of the Market report
+2004,44.64,energy only (load-weighted balancing price),IMM 2004 State of the Market report
+2005,72.79,energy only (load-weighted balancing price),IMM 2005 State of the Market report
+2006,55.22,energy only (load-weighted balancing price),IMM 2006 State of the Market report
+2007,58.47,IMM all-in price,IMM 2008 State of the Market report
+2008,80.97,IMM all-in price,IMM 2008 State of the Market report
+2009,35.09,IMM all-in price,IMM 2009 State of the Market report
+2010,40.66,"energy + ancillary services (uplift not reported, <$1)",IMM 2010 State of the Market report
+2011,55.64,"energy + ancillary services (uplift not reported, <$1)",IMM 2011 State of the Market report
+2012,29.389999999999997,"energy + ancillary services (uplift not reported, <$1)",IMM 2012 State of the Market report
+2013,34.74,"energy + ancillary services (uplift not reported, <$1)",IMM 2013 State of the Market report
+2014,42.15,"energy + ancillary services (uplift not reported, <$1)",IMM 2014 State of the Market report
+2015,28.69,energy + ancillary services + uplift,IMM 2015 State of the Market report
+2016,26.39,energy + ancillary services + uplift,IMM 2016 State of the Market report
+2017,30.150000000000002,energy + ancillary services + uplift,IMM 2017 State of the Market report
+2018,38.31,energy + ancillary services + uplift,IMM 2018 State of the Market report
+2019,50.60000000000001,IMM all-in price,IMM State of the Market reports (as used in earlier charts)
+2020,27.5,IMM all-in price,IMM State of the Market reports (as used in earlier charts)
+2021,192.45,IMM all-in price,IMM State of the Market reports (as used in earlier charts)
+2022,78.39,IMM all-in price,IMM State of the Market reports (as used in earlier charts)
+2023,69.7,IMM all-in price,IMM State of the Market reports (as used in earlier charts)
+2024,33.69,IMM all-in price,IMM State of the Market reports (as used in earlier charts)
+2025,38.36,IMM all-in price,IMM State of the Market reports (as used in earlier charts)

@@ -1,0 +1,135 @@
+g,Name,Own,BA,res_cust,res_rev,res_mwh,c,flag
+iou,Entergy Texas Inc.,Investor Owned,MISO,469094.0,967273.6,6961576.0,13.894,False
+iou,El Paso Electric Co,Investor Owned,EPE,320320.0,365164.0,2634070.0,13.863,False
+iou,Southwestern Public Service Co,Investor Owned,SWPP,223685.0,350399.0,2514014.0,13.938,False
+iou,Southwestern Electric Power Co,Investor Owned,SWPP,157119.0,275433.6,2185374.0,12.603,False
+npub,Sam Houston Electric Coop Inc,Cooperative,MISO,88424.0,178064.0,1255871.0,14.179,False
+npub,South Plains Electric Coop Inc,Cooperative,SWPP,53503.0,75973.2,697905.0,10.886,False
+npub,Upshur Rural Elec Coop Corp,Cooperative,SWPP,44971.0,82878.0,651878.0,12.714,False
+npub,Deep East Texas Elec Coop Inc,Cooperative,MISO,40593.0,70870.0,504339.0,14.052,False
+npub,"Wood County Electric Coop, Inc",Cooperative,SWPP,36173.0,61951.0,482887.0,12.829,False
+npub,"Bowie-Cass Electric Coop, Inc",Cooperative,SWPP,34727.0,64191.6,480876.0,13.349,False
+npub,"Jasper-Newton Elec Coop, Inc",Cooperative,MISO,21316.0,39960.0,283328.0,14.104,False
+npub,"Rusk County Electric Coop, Inc",Cooperative,SWPP,18253.0,39377.0,296165.0,13.296,False
+npub,"Panola-Harrison Elec Coop, Inc",Cooperative,SWPP,9432.0,14172.3,132888.0,10.665,False
+npub,"Lyntegar Electric Coop, Inc",Cooperative,SWPP,9163.0,12505.7,120841.0,10.349,False
+npub,Bailey County Elec Coop Assn,Cooperative,SWPP,3461.0,2548.0,25959.0,9.815,False
+npub,North Plains Electric Coop Inc,Cooperative,SWPP,3093.0,3887.0,33704.0,11.533,False
+npub,"Deaf Smith Electric Coop, Inc",Cooperative,SWPP,2993.0,4707.9,54947.0,8.568,False
+npub,"Lamb County Electric Coop, Inc",Cooperative,SWPP,2799.0,3530.0,35914.0,9.829,False
+npub,"Lea County Electric Coop, Inc - (NM)",Cooperative,SWPP,2206.0,3451.0,32419.0,10.645,False
+npub,"Rita Blanca Electric Coop, Inc",Cooperative,SWPP,1166.0,3196.0,38005.0,8.409,False
+npub,Southwest Arkansas E C C,Cooperative,MISO,1094.0,2794.3,21022.0,13.292,False
+pub,City of San Antonio - (TX),Municipal,ERCO,888946.0,1422390.1,11467604.0,12.404,False
+pub,Austin Energy,Municipal,ERCO,522446.0,687956.4,5234369.0,13.143,False
+pub,"Pedernales Electric Coop, Inc",Cooperative,ERCO,420753.0,773716.9,6067482.0,12.752,False
+pub,"Denton County Elec Coop, Inc",Cooperative,ERCO,310805.0,585802.5,4445321.0,13.178,False
+pub,Magic Valley Electric Coop Inc,Cooperative,ERCO,129596.0,218443.3,2078229.0,10.511,False
+pub,"Bluebonnet Electric Coop, Inc",Cooperative,ERCO,119030.0,205894.0,1777035.0,11.586,False
+pub,"Tri-County Electric Coop, Inc (TX)",Cooperative,ERCO,117857.0,322139.1,2137727.0,15.069,False
+pub,"Grayson-Collin Elec Coop, Inc",Cooperative,ERCO,97950.0,226011.0,1326414.0,17.039,False
+pub,Guadalupe Valley Elec Coop Inc,Cooperative,ERCO,95358.0,165737.0,1401441.0,11.826,False
+pub,United Electric Coop Service Inc - (TX),Cooperative,ERCO,91268.0,197653.0,1420811.0,13.911,False
+pub,"Farmers Electric Coop, Inc - (TX)",Cooperative,ERCO,88221.0,156341.0,1308131.0,11.951,False
+pub,Trinity Valley Elec Coop Inc,Cooperative,ERCO,82224.0,155871.8,1272952.0,12.245,False
+pub,City of Garland - (TX),Municipal,ERCO,70627.0,123616.0,903705.0,13.679,False
+pub,City of Denton - (TX),Municipal,ERCO,63757.0,97806.0,719241.0,13.599,False
+pub,City of Bryan - (TX),Municipal,ERCO,62535.0,91641.0,841890.0,10.885,False
+pub,City of New Braunfels - (TX),Municipal,ERCO,57050.0,90234.2,728543.0,12.386,False
+pub,Brownsville Public Utilities Board,Municipal,ERCO,48500.0,72348.0,645004.0,11.217,False
+pub,City of College Station - (TX),Municipal,ERCO,42531.0,69928.0,479610.0,14.58,False
+pub,"Central Texas Elec Coop, Inc",Cooperative,ERCO,40305.0,63211.8,519510.0,12.168,False
+pub,Mid-South Electric Coop Assn,Cooperative,ERCO,37251.0,87443.5,568940.0,15.37,False
+pub,"Bandera Electric Coop, Inc",Cooperative,ERCO,35906.0,65491.0,513032.0,12.765,False
+pub,"San Bernard Electric Coop, Inc",Cooperative,ERCO,32557.0,69201.6,490274.0,14.115,False
+pub,City of Georgetown - (TX),Municipal,ERCO,31654.0,45985.4,333871.0,13.773,False
+pub,Nueces Electric Cooperative,Cooperative,ERCO,31397.0,46618.9,490748.0,9.5,False
+pub,"Medina Electric Coop, Inc",Cooperative,ERCO,30778.0,53229.6,424613.0,12.536,False
+pub,"HILCO Electric Cooperative, Inc.",Cooperative,ERCO,27850.0,72773.0,490935.0,14.823,False
+pub,Cherokee County Elec Coop Assn - (TX),Cooperative,ERCO,22613.0,46433.0,314559.0,14.761,False
+pub,City of San Marcos - (TX),Municipal,ERCO,22362.0,31253.0,245552.0,12.728,False
+pub,Houston County Elec Coop Inc,Cooperative,ERCO,21761.0,34844.3,227991.0,15.283,False
+pub,"Victoria Electric Coop, Inc",Cooperative,ERCO,21716.0,41705.1,336262.0,12.403,False
+pub,Wise Electric Coop Inc,Cooperative,ERCO,20682.0,54838.0,357645.0,15.333,False
+pub,Kerrville Public Utility Board,Municipal,ERCO,20283.0,26315.1,279439.0,9.417,False
+pub,Hamilton County Elec Coop Assn,Cooperative,ERCO,19876.0,30375.9,240311.0,12.64,False
+pub,"Navasota Valley Elec Coop, Inc",Cooperative,ERCO,19861.0,37874.5,232974.0,16.257,False
+pub,Taylor Electric Coop Inc - (TX),Cooperative,ERCO,19215.0,40227.8,249244.0,16.14,False
+pub,"Navarro County Elec Coop, Inc",Cooperative,ERCO,19029.0,37352.0,289014.0,12.924,False
+pub,Nueces Electric Cooperative,Cooperative,ERCO,18506.0,42352.3,292898.0,14.46,False
+pub,Heart of Texas Electric Coop,Cooperative,ERCO,18476.0,41467.0,348690.0,11.892,False
+pub,Cooke County Elec Coop Assn,Cooperative,ERCO,16192.0,35260.3,228049.0,15.462,False
+pub,City of Floresville,Municipal,ERCO,16149.0,33251.0,271865.0,12.231,False
+pub,City of Greenville - (TX),Municipal,ERCO,16117.0,33572.1,201661.0,16.648,False
+pub,"Jackson Electric Coop, Inc - (TX)",Cooperative,ERCO,15670.0,25850.0,177715.0,14.546,False
+pub,Weatherford Mun Utility System,Municipal,ERCO,14661.0,25947.0,202767.0,12.796,False
+pub,"Fayette Electric Coop, Inc",Cooperative,ERCO,14439.0,22393.0,178777.0,12.526,False
+pub,Karnes Electric Coop Inc,Cooperative,ERCO,13599.0,24992.0,243736.0,10.254,False
+pub,Lamar County Elec Coop Assn,Cooperative,ERCO,13121.0,22886.0,170434.0,13.428,False
+pub,"Bartlett Electric Coop, Inc",Cooperative,ERCO,12402.0,31065.7,203999.0,15.228,False
+pub,Concho Valley Elec Coop Inc,Cooperative,ERCO,12230.0,18684.3,138422.0,13.498,False
+pub,Fannin County Electric Coop,Cooperative,ERCO,11962.0,27385.0,168571.0,16.245,False
+pub,San Patricio Electric Coop Inc,Cooperative,ERCO,10087.0,19785.0,139764.0,14.156,False
+pub,"Big Country Electric Coop, Inc",Cooperative,ERCO,9533.0,12239.5,91828.0,13.329,False
+pub,"Rio Grande Electric Coop, Inc",Cooperative,ERCO,9371.0,18903.8,103372.0,18.287,False
+pub,City of Seguin - (TX),Municipal,ERCO,8913.0,11932.0,107930.0,11.055,False
+pub,Comanche County Elec Coop Assn,Cooperative,ERCO,7487.0,16651.0,106363.0,15.655,False
+pub,City of Brenham - (TX),Municipal,ERCO,6073.0,8204.3,79197.0,10.359,False
+pub,"Southwest Texas Elec Coop, Inc",Cooperative,ERCO,5934.0,5722.0,39065.0,14.647,False
+pub,"Wharton County Elec Coop, Inc",Cooperative,ERCO,5583.0,10958.0,77252.0,14.185,False
+pub,South Plains Electric Coop Inc,Cooperative,ERCO,5223.0,4799.9,35378.0,13.567,False
+pub,"Greenbelt Electric Coop, Inc",Cooperative,ERCO,3929.0,5049.0,28242.0,17.878,False
+pub,"Lighthouse Electric Coop, Inc",Cooperative,ERCO,3880.0,4395.4,27174.0,16.175,False
+rep,Reliant Energy Retail Services,Retail Power Marketer,ERCO,1545510.0,3536249.0,19243783.0,18.376,False
+rep,"TXU Energy Retail Co, LLC",Retail Power Marketer,ERCO,1442516.0,3647269.5,18841848.0,19.357,False
+rep,Just Energy,Retail Power Marketer,ERCO,437966.0,1031580.9,6097027.0,16.919,False
+rep,"US Retailers, LLC",Retail Power Marketer,ERCO,416504.0,1035131.0,6564307.0,15.769,False
+rep,"Ambit Energy Holdings, LLC",Retail Power Marketer,ERCO,364649.0,790579.7,4005628.0,19.737,False
+rep,"Gexa Energy, LP",Retail Power Marketer,ERCO,310726.0,775622.6,4451891.0,17.422,False
+rep,Green Mountain Energy Company,Retail Power Marketer,ERCO,273660.0,551577.3,2983711.0,18.486,False
+rep,Direct Energy Services,Retail Power Marketer,ERCO,259458.0,620941.0,3588954.0,17.301,False
+rep,Value Based Brands LLC,Retail Power Marketer,ERCO,245378.0,608901.4,3550393.0,17.15,False
+rep,Champion Energy Services,Retail Power Marketer,ERCO,218102.0,259945.4,2559091.0,10.158,False
+rep,Amigo Energy,Retail Power Marketer,ERCO,152002.0,339180.9,2032125.0,16.691,False
+rep,"Stream SPE, LTD",Retail Power Marketer,ERCO,142525.0,363038.0,2054244.0,17.673,False
+rep,"Retail Energy Solutions, LLC",Retail Power Marketer,ERCO,134980.0,320985.2,1879399.0,17.079,False
+rep,"Constellation NewEnergy, Inc",Retail Power Marketer,ERCO,127616.0,307738.2,1851995.0,16.617,False
+rep,"TriEagle Energy, L.P.",Retail Power Marketer,ERCO,119408.0,272041.7,1675245.0,16.239,False
+rep,Rhythm Ops LLC,Retail Power Marketer,ERCO,112931.0,219606.2,1327097.0,16.548,False
+rep,AP Holdings LLC,Retail Power Marketer,ERCO,99078.0,141565.3,1440748.0,9.826,False
+rep,Ironhorse Power Services LLC,Retail Power Marketer,ERCO,62114.0,79189.3,946304.0,8.368,False
+rep,"BKV-BPP Retail, LLC",Retail Power Marketer,ERCO,58419.0,154161.7,1031320.0,14.948,False
+rep,Atlantic Energy LLC,Retail Power Marketer,ERCO,58376.0,170739.5,1058726.0,16.127,False
+rep,"XOOM Energy Texas, LLC",Retail Power Marketer,ERCO,53755.0,123449.0,717675.0,17.201,False
+rep,"Young Energy, LLC",Retail Power Marketer,ERCO,51776.0,123739.0,593176.0,20.86,False
+rep,Chariot Energy,Retail Power Marketer,ERCO,42638.0,114850.0,706160.0,16.264,False
+rep,"Tara Energy, LLC",Retail Power Marketer,ERCO,36822.0,81243.2,498001.0,16.314,False
+rep,Capital Energy PA LLC,Retail Power Marketer,ERCO,31337.0,66942.4,502669.0,13.317,False
+rep,"Southern Federal Power, LLC",Retail Power Marketer,ERCO,24764.0,35731.0,444780.0,8.033,False
+rep,"Spark Energy, LP",Retail Power Marketer,ERCO,21051.0,54455.0,312638.0,17.418,False
+rep,"Good Charlie & Co., LLC",Retail Power Marketer,ERCO,19603.0,48221.4,343486.0,14.039,False
+rep,"Pulse Power, LLC",Retail Power Marketer,ERCO,18744.0,32227.2,220000.0,14.649,False
+rep,"Abundance Energy, LLC",Retail Power Marketer,ERCO,18346.0,22559.4,269553.0,8.369,False
+rep,OhmConnect Texas LLC,Retail Power Marketer,ERCO,17300.0,34513.0,236634.0,14.585,False
+rep,Octopus Energy LLC,Retail Power Marketer,ERCO,16026.0,38056.4,319483.0,11.912,False
+rep,Mothership,Retail Power Marketer,ERCO,15838.0,44067.0,295281.0,14.924,False
+rep,Brooklet Energy Distribution,Retail Power Marketer,ERCO,15227.0,23005.0,185181.0,12.423,False
+rep,Pogo Energy LLC,Retail Power Marketer,ERCO,11433.0,27106.0,145548.0,18.623,False
+rep,Tesla Energy Ventures,Retail Power Marketer,ERCO,11432.0,28593.8,222792.0,12.834,False
+rep,MP2 Energy LLC,Retail Power Marketer,ERCO,10154.0,15071.2,115977.0,12.995,False
+rep,Revolution Energy LLC,Retail Power Marketer,ERCO,9526.0,19355.9,132872.0,14.567,False
+rep,Varsity Energy,Retail Power Marketer,ERCO,6634.0,14224.1,101635.0,13.995,False
+rep,"Think Energy, LLC",Retail Power Marketer,ERCO,5532.0,14243.8,92929.0,15.328,False
+rep,"Alliance Power Company, LLC.",Retail Power Marketer,ERCO,5512.0,8742.9,80301.0,10.888,False
+rep,"Base Texas REP, LLC",Retail Power Marketer,ERCO,4692.0,9607.2,66515.0,14.444,False
+rep,Hudson Energy Services,Retail Power Marketer,ERCO,4013.0,7569.2,58000.0,13.05,False
+rep,Summer Energy LLC,Retail Power Marketer,ERCO,3122.0,7157.2,33799.0,21.176,False
+rep,"JP Energy Resources, LLC",Retail Power Marketer,ERCO,2943.0,4003.0,33893.0,11.811,False
+rep,Heritage Power LLC,Retail Power Marketer,ERCO,2915.0,6474.1,41577.0,15.571,False
+rep,"Accent Energy Holdings, LLC",Retail Power Marketer,ERCO,2749.0,6643.0,36965.0,17.971,False
+rep,"Light Energy, LLC",Retail Power Marketer,ERCO,2317.0,2035.0,17122.0,11.885,False
+rep,3000 Energy Corp,Retail Power Marketer,ERCO,1327.0,2481.2,17326.0,14.321,False
+rep,Branch Energy Texas LLC,Retail Power Marketer,ERCO,1191.0,6704.5,36944.0,18.148,False
+rep,Maison Energy LLC,Retail Power Marketer,ERCO,1099.0,2122.6,13873.0,15.3,False
+rep,"ResCom Energy, LLC",Retail Power Marketer,ERCO,672.0,1147.0,8046.0,14.256,False
+rep,David Energy Supply LLC,Retail Power Marketer,ERCO,667.0,1160.8,8724.0,13.306,False

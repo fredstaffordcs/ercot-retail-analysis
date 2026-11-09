@@ -1,0 +1,132 @@
+series,year,collections_usd,method,source,utility,group,residential_factor,residential_usd
+AEP_RF,2019,5471957.58,servicer remittances (4 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,storm,0.525194,2873839.28927052
+AEP_RF,2020,27209698.259999998,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,storm,0.525194,14290370.26796244
+AEP_RF,2021,27001515.29,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,storm,0.525194,14181033.821216261
+AEP_RF,2022,27863262.660000004,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,storm,0.525194,14633618.369456043
+AEP_RF,2023,28500502.69,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,storm,0.525194,14968293.009771863
+AEP_RF,2024,27338258.39,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,storm,0.525194,14357889.276877662
+AEP_RF,2025,24794371.42,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,storm,0.525194,13021855.103555482
+AEP_TF1,2002,90643000.0,issuer revenue,CPL Transition Funding LLC 10-K FY2002 income statement,AEP Texas Central,transition_securitized,0.370664,33598096.952
+AEP_TF1,2003,90832339.71281639,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,33668278.36731137
+AEP_TF1,2004,90336346.09894165,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,33484431.39041811
+AEP_TF1,2005,90395262.77202138,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,33506269.680128533
+AEP_TF1,2006,90280754.01817055,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,33463825.40739117
+AEP_TF1,2007,83351763.31496638,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30895497.9973787
+AEP_TF1,2008,83402916.29116055,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30914458.564146735
+AEP_TF1,2009,83274511.2552786,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30866863.439926587
+AEP_TF1,2010,83229983.2757986,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30850358.520940613
+AEP_TF1,2011,83180646.16225083,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30832071.02908454
+AEP_TF1,2012,83179276.33732721,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30831563.284299053
+AEP_TF1,2013,83073070.03435193,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30792196.431213025
+AEP_TF1,2014,83011548.37139583,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30769392.56553506
+AEP_TF1,2015,82945924.63024999,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),AEP Texas Central,transition_securitized,0.370664,30745068.207146984
+AEP_TF2,2006,16892497.880000003,servicer remittances (2 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,6406023.723547241
+AEP_TF2,2007,168074755.89,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,63737813.152873464
+AEP_TF2,2008,159311180.62,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,60414463.84825826
+AEP_TF2,2009,177639015.24,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,67364800.27635852
+AEP_TF2,2010,174024750.36,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,65994187.90577028
+AEP_TF2,2011,179276610.83999997,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,67985814.1925773
+AEP_TF2,2012,180367131.76,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,68399364.80742247
+AEP_TF2,2013,174222470.84,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,66069168.059357315
+AEP_TF2,2014,189230841.04000002,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,71760687.23171192
+AEP_TF2,2015,190866349.26999998,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,72380909.5692172
+AEP_TF2,2016,199516560.28999996,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,75661268.54285465
+AEP_TF2,2017,206845889.95999998,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,78440718.92830107
+AEP_TF2,2018,200952353.4,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,76205754.3134082
+AEP_TF2,2019,202468572.56999996,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,76780739.49571308
+AEP_TF2,2020,92348978.64999999,servicer remittances (6 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.379223,35020856.73058894
+AEP_TF3,2012,58800310.66,servicer remittances (9 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,23099878.44371298
+AEP_TF3,2013,68948741.86999999,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,27086720.08985511
+AEP_TF3,2014,76851266.36999999,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,30191250.547253605
+AEP_TF3,2015,73973051.13,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,29060535.055573888
+AEP_TF3,2016,71806469.25,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,28209386.86427025
+AEP_TF3,2017,74009717.2,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,29074939.431171604
+AEP_TF3,2018,75623394.28999999,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,29708877.317009367
+AEP_TF3,2019,71089428.33000001,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,27927695.187725496
+AEP_TF3,2020,75997220.54,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,29855736.080800623
+AEP_TF3,2021,74588809.63,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,29302437.62957439
+AEP_TF3,2022,74915481.76,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,29430771.755861282
+AEP_TF3,2023,73183535.4,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,28750371.4324962
+AEP_TF3,2024,61941013.699999996,servicer remittances (11 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",AEP Texas Central,transition_securitized,0.392853,24333713.0550861
+CNP_SRC1,2009,8091784.392546296,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,5252992.224815634
+CNP_SRC1,2010,58210327.944254816,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,37788747.85353956
+CNP_SRC1,2011,65653223.85851406,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,42620497.251574725
+CNP_SRC1,2012,66346215.392197065,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,43070370.723444924
+CNP_SRC1,2013,66165459.75453237,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,42953028.501608305
+CNP_SRC1,2014,66502936.948943175,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,43172110.596767135
+CNP_SRC1,2015,66941864.559328005,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,43457051.86716632
+CNP_SRC1,2016,67582564.88025185,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,43872979.13870238
+CNP_SRC1,2017,68284704.96300296,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,44328791.629062414
+CNP_SRC1,2018,69246394.74590741,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,44953097.55556919
+CNP_SRC1,2019,70192337.12084314,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,45567180.64276046
+CNP_SRC1,2020,70960668.69921626,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,46065963.06348241
+CNP_SRC1,2021,71602835.64577897,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,46482842.43318421
+CNP_SRC1,2022,38926170.110984914,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,storm,0.649176,25269935.40796874
+CNP_SRC2,2025,10440797.3,servicer remittances (3 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,storm,0.554597,5790434.8601881005
+CNP_TC1,2002,74086000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,26357057.618
+CNP_TC1,2003,63542000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,22605892.546
+CNP_TC1,2004,74929000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,26656965.827
+CNP_TC1,2005,99754000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,35488782.302
+CNP_TC1,2006,79203000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,28177496.889
+CNP_TC1,2007,89244000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,31749713.172
+CNP_TC1,2008,98549000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,35060087.887
+CNP_TC1,2009,98417000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,35013127.171
+CNP_TC1,2010,113384000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,40337831.992
+CNP_TC1,2011,106825000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,38004382.475
+CNP_TC1,2012,116474000.0,issuer revenue,CenterPoint Energy Transition Bond Co 10-K income statement,CenterPoint,transition_securitized,0.355763,41437139.662
+CNP_TC2,2005,6931000.0,issuer revenue,CenterPoint Energy Transition Bond Co II 10-K income statement,CenterPoint,transition_securitized,0.4004,2775172.4
+CNP_TC2,2006,185649000.0,issuer revenue,CenterPoint Energy Transition Bond Co II 10-K income statement,CenterPoint,transition_securitized,0.4004,74333859.6
+CNP_TC2,2007,187259000.0,issuer revenue,CenterPoint Energy Transition Bond Co II 10-K income statement,CenterPoint,transition_securitized,0.4004,74978503.6
+CNP_TC2,2008,186015868.09875405,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.4004,74480753.58674112
+CNP_TC2,2009,171507889.68,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,68671759.027872
+CNP_TC2,2010,196864399.28,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,78824505.471712
+CNP_TC2,2011,204542926.21999997,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,81898987.65848799
+CNP_TC2,2012,195767298.70999998,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,78385226.40348399
+CNP_TC2,2013,195909020.21,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,78441971.692084
+CNP_TC2,2014,206222842.70000002,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,82571626.21708
+CNP_TC2,2015,224827049.18,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,90020750.491672
+CNP_TC2,2016,201798988.26000002,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,80800314.899304
+CNP_TC2,2017,218207213.81000003,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,87370168.40952401
+CNP_TC2,2018,199793682.12000003,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,79997390.320848
+CNP_TC2,2019,104026733.33999999,servicer remittances (7 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.4004,41652304.02933599
+CNP_TC3,2008,39920529.51710184,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,7321425.113436477
+CNP_TC3,2009,50287486.07398097,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,9222724.94596811
+CNP_TC3,2010,52504035.96675086,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,9629240.196302108
+CNP_TC3,2011,53995515.43524671,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,9902777.530824248
+CNP_TC3,2012,55123494.26520527,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,10109648.848238647
+CNP_TC3,2013,55793077.24642973,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,10232450.366995212
+CNP_TC3,2014,56588178.091923706,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,10378271.862058809
+CNP_TC3,2015,57492648.47294557,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,10544151.729938218
+CNP_TC3,2016,58511942.11894081,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,10731090.184613744
+CNP_TC3,2017,59265064.87663202,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,10869212.898374313
+CNP_TC3,2018,60087790.21899901,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,11020100.72616442
+CNP_TC3,2019,58895170.05229688,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,10801374.187591247
+CNP_TC3,2020,5027615.725868712,scheduled debt service (estimate),prospectus expected amortization schedule x coupon + fees (bond_schedules.py),CenterPoint,transition_securitized,0.1834,922064.7241243218
+CNP_TC5,2012,131839932.24000001,servicer remittances (11 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,53540987.52225745
+CNP_TC5,2013,138026553.82000002,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,56053411.66562493
+CNP_TC5,2014,210256635.26000002,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,85386481.11889757
+CNP_TC5,2015,116658623.54999998,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,47375766.9753963
+CNP_TC5,2016,203543401.58999997,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,82660196.64610854
+CNP_TC5,2017,94423351.54999998,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,38345889.604564294
+CNP_TC5,2018,208020866.89000002,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,84478522.16923036
+CNP_TC5,2019,145953069.65,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,59272417.30328291
+CNP_TC5,2020,143510508.98999998,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,58280478.763892934
+CNP_TC5,2021,167397042.88,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,67980943.49582528
+CNP_TC5,2022,182547799.38,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,74133756.61501428
+CNP_TC5,2023,163199189.14000002,servicer remittances (12 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,66276169.90488885
+CNP_TC5,2024,107872730.22,servicer remittances (10 months),"monthly servicer certificates (8-K/10-D Ex.99.1), data/sec/bonds/remittances.csv",CenterPoint,transition_securitized,0.406106,43807762.978723325
+ONCOR,2003,19462000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,8032064.71
+ONCOR,2004,106396000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,43910161.18
+ONCOR,2005,151595000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,62564014.475
+ONCOR,2006,150760000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,62219405.8
+ONCOR,2007,145219000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,59932607.394999996
+ONCOR,2008,139893000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,57734540.565
+ONCOR,2009,146565000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,60488108.324999996
+ONCOR,2010,152803000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,63062562.114999995
+ONCOR,2011,150561000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,62137277.504999995
+ONCOR,2012,143728000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,59317264.239999995
+ONCOR,2013,148733000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,61382852.765
+ONCOR,2014,144532000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,59649079.059999995
+ONCOR,2015,119629000.0,issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,Oncor,transition_securitized,0.412705,49371486.445
+ONCOR,2016,21629000.0,issuer revenue (derived),Oncor 10-K FY2016: transition-bond revenue fell $98M from 2015 (bonds retired May 2016),Oncor,transition_securitized,0.412705,8926396.445
+CNP_TC1,2013,83244120.58491743,residential rate x residential kWh (PUCT); all-class = residential / factor,PUCT summaries 030113/090113,CenterPoint,transition_securitized,,29615178.07165198

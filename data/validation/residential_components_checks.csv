@@ -1,0 +1,133 @@
+check,utility,year,ours,reference,diff_pct
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2004,74.9,75.0,-0.1
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2005,106.7,106.0,0.6
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2006,264.9,265.0,-0.1
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2007,276.5,277.0,-0.2
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2008,324.5,323.0,0.5
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2009,328.3,340.0,-3.4
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2010,421.0,437.0,-3.7
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2011,431.0,444.0,-2.9
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2012,565.6,591.0,-4.3
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2013,539.1,507.0,6.3
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2014,539.6,566.0,-4.7
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2015,465.9,481.0,-3.1
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2016,531.4,553.0,-3.9
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2017,440.2,409.0,7.6
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2018,537.1,594.0,-9.6
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2019,379.1,312.0,21.5
+CNP all-class bond collections 2004-2019 total vs CEHE 10-K 'Bond Companies' revenue total ($M),CenterPoint,2004-2019,6225.8,6280.0,-0.9
+AEP Central residential bond $: factor x remittances vs PUCT rate x EIA kWh ($M; rate misses SRC before Sept 2020),AEP Texas Central,2020,79.2,106.1,-25.4
+AEP Central residential bond $: factor x remittances vs PUCT rate x EIA kWh ($M; rate misses SRC before Sept 2020),AEP Texas Central,2021,43.5,46.0,-5.4
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2004,33.5,33.6,-0.3
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2005,33.5,37.5,-10.6
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2006,39.9,49.7,-19.8
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2007,94.6,96.7,-2.2
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2008,91.3,95.6,-4.5
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2009,98.2,105.9,-7.2
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2010,96.8,106.4,-9.0
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2011,98.8,102.1,-3.2
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2012,122.3,133.6,-8.4
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2013,123.9,129.6,-4.4
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2014,132.7,143.0,-7.2
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2015,132.2,142.6,-7.3
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2016,103.9,116.2,-10.6
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2017,107.5,113.9,-5.6
+AEP Central+North residential MWh: PUCT market share vs AEP 10-K KWh sales,AEP Texas (Central+North),2015,11620123.0,11620123.293,0.0
+AEP Central+North residential MWh: PUCT market share vs AEP 10-K KWh sales,AEP Texas (Central+North),2016,11642209.0,11642208.927000001,0.0
+AEP Central+North residential MWh: PUCT market share vs AEP 10-K KWh sales,AEP Texas (Central+North),2017,11506689.0,11506688.587,0.0
+AEP EMR residential delivery + transition + storm ($M) vs AEP 10-K residential revenue,AEP Texas (Central+North),2017,567.2,573.9,-1.2
+AEP EMR residential delivery + transition + storm ($M) vs AEP 10-K residential revenue,AEP Texas (Central+North),2018,594.2,594.6,-0.1
+AEP EMR residential delivery + transition + storm ($M) vs AEP 10-K residential revenue,AEP Texas (Central+North),2019,588.4,588.9,-0.1
+AEP EMR residential delivery + transition + storm ($M) vs AEP 10-K residential revenue,AEP Texas (Central+North),2025,756.3,758.0,-0.2
+AEP EMR residential delivery + transition + storm ($k) vs EIA-861 Central+North residential revenue,AEP Texas (Central+North),2020,551374.0,553327.0,-0.35
+AEP EMR residential MWh vs EIA-861 Central+North residential MWh,AEP Texas (Central+North),2020,12129405.0,12198541.0,-0.57
+AEP EMR residential delivery + transition + storm ($k) vs EIA-861 Central+North residential revenue,AEP Texas (Central+North),2021,539473.0,541805.0,-0.43
+AEP EMR residential MWh vs EIA-861 Central+North residential MWh,AEP Texas (Central+North),2021,12268775.0,12288135.0,-0.16
+AEP EMR residential delivery + transition + storm ($k) vs EIA-861 Central+North residential revenue,AEP Texas (Central+North),2022,659213.0,673829.0,-2.17
+AEP EMR residential MWh vs EIA-861 Central+North residential MWh,AEP Texas (Central+North),2022,12967592.0,13269436.0,-2.27
+AEP EMR residential delivery + transition + storm ($k) vs EIA-861 Central+North residential revenue,AEP Texas (Central+North),2023,660346.0,662436.0,-0.32
+AEP EMR residential MWh vs EIA-861 Central+North residential MWh,AEP Texas (Central+North),2023,12801804.0,12819524.0,-0.14
+AEP EMR residential delivery + transition + storm ($k) vs EIA-861 Central+North residential revenue,AEP Texas (Central+North),2024,713782.0,716007.0,-0.31
+AEP EMR residential MWh vs EIA-861 Central+North residential MWh,AEP Texas (Central+North),2024,12540174.0,12556952.0,-0.13
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2002,7364227.0,7842841.0,-6.1
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2005,36.9,33.5,10.1
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2008,8219596.0,8236595.0,-0.21
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2008,95.8,91.3,4.9
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2009,8649277.0,8648342.0,0.01
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2009,106.9,98.2,8.8
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2010,8833993.0,8645484.0,2.18
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2010,106.3,96.8,9.8
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2011,107.5,98.8,8.8
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2012,9310274.0,9185958.0,1.35
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2012,131.4,122.3,7.4
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2013,9226309.0,9185693.0,0.44
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2013,128.5,123.9,3.7
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2014,9699767.0,9549810.0,1.57
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2014,143.0,132.7,7.8
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2015,9789352.0,9740523.0,0.5
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2015,141.2,132.2,6.8
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2016,9898389.0,9839750.0,0.6
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2016,107.8,103.9,3.7
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas Central,2017,9786639.0,9690364.0,0.99
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2017,113.9,107.5,5.9
+AEP Central transition charges: EMR billed vs residential factor x bond collections ($M),AEP Texas Central,2018,114.7,105.9,8.3
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2002,1557719.0,1680751.0,-7.32
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2003,1722305.0,1660141.0,3.74
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2004,1645702.0,1601213.0,2.78
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2008,1638034.0,1640944.0,-0.18
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2009,1645949.0,1651284.0,-0.32
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2010,1757130.0,1713782.0,2.53
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2012,1776732.0,1742202.0,1.98
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2013,1804684.0,1797985.0,0.37
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2014,1840010.0,1813444.0,1.46
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2015,1830771.0,1822820.0,0.44
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2016,1743820.0,1732849.0,0.63
+AEP EMR residential MWh vs PUCT market-share residential MWh,AEP Texas North,2017,1720050.0,1703387.0,0.98
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),Oncor,2020,3.945,3.96,-0.4
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,Oncor,2020,3.945,3.96,-0.4
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),Oncor,2021,4.018,4.05,-0.8
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,Oncor,2021,4.019,4.05,-0.8
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),Oncor,2022,4.299,4.32,-0.5
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,Oncor,2022,4.299,4.32,-0.5
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),Oncor,2023,4.541,4.55,-0.2
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,Oncor,2023,4.541,4.55,-0.2
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),Oncor,2024,5.177,5.19,-0.2
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,Oncor,2024,5.177,5.19,-0.2
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),Oncor,2025,5.627,5.64,-0.2
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,Oncor,2025,5.627,5.64,-0.2
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),CenterPoint,2020,4.079,4.08,-0.0
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,CenterPoint,2020,4.086,4.08,0.2
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),CenterPoint,2021,4.008,4.01,-0.0
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,CenterPoint,2021,4.013,4.01,0.1
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),CenterPoint,2022,4.409,4.41,-0.0
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,CenterPoint,2022,4.408,4.41,-0.0
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),CenterPoint,2023,4.617,4.62,-0.1
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,CenterPoint,2023,4.617,4.62,-0.1
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),CenterPoint,2024,4.929,4.93,-0.0
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,CenterPoint,2024,4.929,4.93,-0.0
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),CenterPoint,2025,5.406,5.41,-0.1
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,CenterPoint,2025,5.406,5.41,-0.1
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),AEP Texas (Central+North),2020,4.546,4.54,0.1
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,AEP Texas (Central+North),2020,3.856,4.54,-15.1
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),AEP Texas (Central+North),2021,4.425,4.41,0.3
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,AEP Texas (Central+North),2021,4.12,4.41,-6.6
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),AEP Texas (Central+North),2022,5.084,5.08,0.1
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,AEP Texas (Central+North),2022,4.738,5.08,-6.7
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),AEP Texas (Central+North),2023,5.158,5.17,-0.2
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,AEP Texas (Central+North),2023,4.831,5.17,-6.6
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),AEP Texas (Central+North),2024,5.692,5.7,-0.1
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,AEP Texas (Central+North),2024,5.384,5.7,-5.5
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),AEP Texas (Central+North),2025,5.889,5.9,-0.2
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,AEP Texas (Central+North),2025,5.79,5.9,-1.9
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2020,5.165,5.16,0.1
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2020,5.01,5.16,-2.9
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2021,5.245,5.24,0.1
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2021,5.231,5.24,-0.2
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2022,5.681,5.68,0.0
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2022,5.681,5.68,0.0
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2023,5.847,5.85,-0.0
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2023,5.847,5.85,-0.0
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2024,6.33,6.33,-0.0
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2024,6.33,6.33,-0.0
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2025,7.121,7.09,0.4
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2025,7.121,7.09,0.4
