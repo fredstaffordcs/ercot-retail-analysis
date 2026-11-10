@@ -67,4 +67,6 @@ About 800 MB of raw public downloads (EIA-861, PUCT and SEC filings, ERCOT marke
 
 ## Citation
 
-Stafford, F. *Texas retail electricity prices, 1990–2025.* Public Power Review. https://publicpowerreview.org
+Stafford, F. (2026). *Texas retail electricity prices, 1990–2025* (v1.0.0) [Data set]. Public Power Review. https://github.com/fredstaffordcs/ercot-retail-analysis
+
+Machine-readable metadata is in [`CITATION.cff`](CITATION.cff); version history is in [`CHANGELOG.md`](CHANGELOG.md).

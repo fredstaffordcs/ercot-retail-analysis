@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Texas retail electricity prices, 1990-2025"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-10
+authors:
+  - family-names: Stafford
+    given-names: Fred
+repository-code: "https://github.com/fredstaffordcs/ercot-retail-analysis"
+url: "https://publicpowerreview.org"
+license: CC-BY-4.0
+keywords:
+  - electricity prices
+  - Texas
+  - ERCOT
+  - transmission
+  - retail choice
