@@ -5,6 +5,7 @@ from matplotlib import font_manager as fm
 from matplotlib.lines import Line2D
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
+from stamp import stamp
 for f in fm.findSystemFonts():
     if 'Inter' in f and 'Display' not in f: fm.fontManager.addfont(f)
 plt.rcParams['font.family']='Inter'; plt.rcParams['hatch.linewidth']=1.2
@@ -97,7 +98,7 @@ for key in ['res','all','ci']:
     sub='\n'.join(textwrap.fill(p,128) for p in sub.split('\n')) if False else textwrap.fill(sub.replace('\n',' '),150)
     header(f,TT[key][0],sub,.795)
     ax=f.add_axes([.065,.2,.885,.55]); panel(ax,d,iouR,pubR)
-    footer(f,FOOT,.155); f.savefig(str(ROOT/'charts'/OUT[key]),facecolor=BG); plt.close(f)
+    footer(f,FOOT,.155); stamp(f); f.savefig(str(ROOT/'charts'/OUT[key]),facecolor=BG); plt.close(f)
 # two-panel
 dr,ir,pr=load('res'); dc,ic,pc=load('ci')
 f=plt.figure(figsize=(14.4,12.2),dpi=100,facecolor=BG)
@@ -110,5 +111,5 @@ a1=f.add_axes([.055,.2,.44,.52]); a2=f.add_axes([.515,.2,.435,.52],sharey=a1)
 panel(a1,dr,ir,pr,small=True); panel(a2,dc,ic,pc,small=True); a2.tick_params(labelleft=False)
 for a,t in [(a1,'Households'),(a2,'Businesses (commercial + industrial)')]:
     a.set_title(t,loc='left',fontsize=17,fontweight='bold',color=FG,pad=10)
-footer(f,FOOT,.15); f.savefig(str(ROOT/'charts'/'price_history_real_households_vs_business.png'),facecolor=BG)
+footer(f,FOOT,.15); stamp(f); f.savefig(str(ROOT/'charts'/'price_history_real_households_vs_business.png'),facecolor=BG)
 print('ok')

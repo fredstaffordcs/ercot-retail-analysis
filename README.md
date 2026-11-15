@@ -42,7 +42,7 @@ python code/data_build/build_statewide_series.py
 python code/charts/make15.py        # households vs. businesses
 ```
 
-Python 3 with pandas, numpy and matplotlib (`requirements.txt`). Charts use the Inter font.
+Python 3 with pandas, numpy and matplotlib (`requirements.txt`). Charts use the Inter font. Each chart carries an "Updated" date in its footer: today's date, or `CHART_DATE=YYYY-MM-DD` to reproduce a published chart.
 
 ## Conventions
 

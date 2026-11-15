@@ -1,10 +1,15 @@
 import textwrap, numpy as np, pandas as pd, matplotlib, sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
+from stamp import stamp
 """Render one PNG per year (1990-2025) of every Texas utility's residential price.
 Reads data/utility_level/residential_prices_by_utility_1990_2025.csv; writes frames to charts/animation/frames/.
-To make the video:  ffmpeg -framerate 1 -i charts/animation/frames/f%d.png -pix_fmt yuv420p charts/animation/animated.mp4
-(frame file names are f1990.png ... f2025.png; use -pattern_type glob -i 'charts/animation/frames/f*.png' to assemble them)
+To make the video and GIF (each year 1 s, 2025 held 4 s, 39 s in all), write a concat list with one 'file' line per frame
+(f1990.png ... f2025.png), 'duration 1' after each and 'duration 4' after f2025.png, then repeat the f2025.png line once:
+  ffmpeg -f concat -safe 0 -i list.txt -t 39 -vf "fps=30,format=yuv420p" -c:v libx264 -crf 20 -movflags +faststart \
+         charts/animation/tx_residential_prices_1990_2025_animated.mp4
+  ffmpeg -f concat -safe 0 -i list.txt -t 39 -vf "fps=10,scale=1080:810:flags=lanczos,split[a][b];[a]palettegen=stats_mode=diff[p];[b][p]paletteuse=dither=bayer:bayer_scale=4" \
+         -loop 0 charts/animation/tx_residential_prices_1990_2025_animated.gif
 """
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
@@ -72,5 +77,5 @@ def frame(y):
     f.text(.05,.018,'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center')
     f.text(.155,.018,'@fredstaffordcs',fontsize=14,color=FG,va='center')
     f.text(.95,.018,'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
-    f.savefig(str(ROOT/f'charts/animation/frames/f{y}.png'),facecolor=BG); plt.close(f)
+    stamp(f); f.savefig(str(ROOT/f'charts/animation/frames/f{y}.png'),facecolor=BG); plt.close(f)
 for y in (YEARS if len(sys.argv)<2 else [int(v) for v in sys.argv[1:]]): frame(y)

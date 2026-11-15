@@ -13,6 +13,10 @@ Versions follow [Semantic Versioning](https://semver.org/) adapted for data: a *
 - Source extracts: `tcrf_class_allocation_factors.csv`, `bond_charges_by_class_trueup_filings.csv`, `aep_central_transition_trueup_collections.csv`.
 - Validation: `class_checks.csv`.
 
+### Changed
+- **Charts regenerated** from the revised data (statewide values move by at most 0.02¢/kWh, so the charts look the same). Every chart and the animation now carries an "Updated" date in the footer (`code/charts/stamp.py`). The two 2025 snapshot charts (`residential_price_distribution_2025.png`, `tx_residential_prices_2025_all_utilities.png`) draw only on 2025 EIA-861 data, which did not change; they have no script in the repository and were date-stamped only.
+- `anim_render.py`: the encoding instructions now reproduce the published video and GIF timing.
+
 ### Corrected
 - **Bond charges, residential share (Oncor 2003–16; CenterPoint 2002–24).** The residential share of each bond series now comes from the true-up record filed at the PUCT instead of the fixed financing-order factor:
   - Oncor: transition charges billed by class (Monthly Servicer's Certificates).

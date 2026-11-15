@@ -5,6 +5,7 @@ from matplotlib import font_manager as fm
 from matplotlib.lines import Line2D
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
+from stamp import stamp
 for f in fm.findSystemFonts():
     if 'Inter' in f and 'Display' not in f: fm.fontManager.addfont(f)
 plt.rcParams['font.family']='Inter'; plt.rcParams['hatch.linewidth']=1.2
@@ -88,4 +89,4 @@ f.text(.05,.178,textwrap.fill(foot,196),fontsize=9.6,color=MU,va='top',linespaci
 f.add_artist(Line2D([.05,.95],[.036,.036],color=GR,lw=1,transform=f.transFigure))
 f.text(.05,.018,'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center'); f.text(.155,.018,'@fredstaffordcs',fontsize=14,color=FG,va='center')
 f.text(.95,.018,'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
-f.savefig(str(ROOT/'charts'/'price_history_real_households_vs_business_tx_dist.png'),facecolor=BG)
+stamp(f); f.savefig(str(ROOT/'charts'/'price_history_real_households_vs_business_tx_dist.png'),facecolor=BG)

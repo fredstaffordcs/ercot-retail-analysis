@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib import font_manager as fm
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
+from stamp import stamp
 for f in fm.findSystemFonts():
     if 'Inter' in f and 'Display' not in f: fm.fontManager.addfont(f)
 plt.rcParams['font.family']='Inter'
@@ -98,6 +99,6 @@ f.add_artist(plt.Line2D([.05,.95],[.03,.03],color=GR,lw=1,transform=f.transFigur
 f.text(.05,.015,'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center')
 f.text(.155,.015,'@fredstaffordcs',fontsize=14,color=FG,va='center')
 f.text(.95,.015,'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
-f.savefig(str(ROOT/'charts'/'delivery_vs_energy.png'),facecolor=BG)
+stamp(f,.015); f.savefig(str(ROOT/'charts'/'delivery_vs_energy.png'),facecolor=BG)
 g=df.pivot(index='year',columns='utility',values='total'); print(g.round(2)); print((g.loc[2025]-g.loc[2019]).round(2), (g.loc[2025]/g.loc[2019]-1).mul(100).round(0)); print((g.loc[2025]-g.loc[2023]).round(2))
 print(dec.energy.round(2).to_dict())
