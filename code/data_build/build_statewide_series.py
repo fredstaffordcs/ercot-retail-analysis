@@ -53,11 +53,12 @@ W.index.name = 'year'; W.round(3).to_csv(out / 'competitive_residential_componen
 A = pd.DataFrame({c: allc['all_' + c + '_kusd'] for c in COMP}); A['mwh'] = allc.all_mwh
 r = res.set_index(['utility', 'year'])
 k = 'AEP Texas (Central+North)'
-# AEP merged all-class delivery is blank for 2003-04 (no earnings reports); impute from residential delivery
-# times the mean all-class / residential delivery ratio of 2002 and 2005.
+# AEP merged all-class delivery is blank where no source exists (2003: no earnings report or 10-K class table); impute
+# from residential delivery times the mean all-class / residential delivery ratio of 2002 and 2005.
 ratio = lambda y: (A.loc[(k, y), 'delivery'] / A.loc[(k, y), 'mwh']) / (r.loc[(k, y), 'delivery_cents_per_kwh'] / 100)
 R = (ratio(2002) + ratio(2005)) / 2
-for y in (2003, 2004): A.loc[(k, y), 'delivery'] = r.loc[(k, y), 'delivery_cents_per_kwh'] / 100 * R * A.loc[(k, y), 'mwh']
+IMPUTED = [y for y in (2003, 2004) if pd.isna(A.loc[(k, y), 'delivery'])]
+for y in IMPUTED: A.loc[(k, y), 'delivery'] = r.loc[(k, y), 'delivery_cents_per_kwh'] / 100 * R * A.loc[(k, y), 'mwh']
 A = A.fillna({c: 0 for c in COMP if c != 'delivery'})
 Rs = pd.DataFrame({c: r[c + '_cents_per_kwh'].fillna(0) * r.res_mwh / 100 for c in COMP}); Rs['mwh'] = r.res_mwh
 Cc = A - Rs
@@ -70,7 +71,7 @@ for name, D in [('all_classes', A), ('business', Cc)]:
     else: rv, mw, pv, pm = rep.tot_rev - rep.res_rev, rep.tot_mwh - rep.res_mwh, pub.tot_rev - pub.res_rev, pub.tot_mwh - pub.res_mwh
     X['retail'] = rv / mw * 100; X['rep_mwh'] = mw; X['energy_retail'] = X.retail - X.tdu_total
     X['dereg_transition'] = X.transition_securitized + X.transition_other; X['other'] = X.storm + X.sbf
-    X['public_power'] = (pv / pm * 100).reindex(X.index); X['aep_delivery_imputed'] = X.index.isin([2003, 2004])
+    X['public_power'] = (pv / pm * 100).reindex(X.index); X['aep_delivery_imputed'] = X.index.isin(IMPUTED)
     if name == 'business':
         X['transmission'] = txc / g.mwh * 100; X['dist_other'] = X.delivery - X.transmission
     X.index.name = 'year'; X.round(4).to_csv(out / f'competitive_{name}_components_2002_2025.csv')

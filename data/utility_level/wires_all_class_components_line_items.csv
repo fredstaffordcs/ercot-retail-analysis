@@ -383,6 +383,7 @@ TNMP,2010,sbf,sbf,4777404.599999962,B,PUCT SBF rate (day-weighted) x all-class k
 TNMP,2011,sbf,sbf,5173728.59999996,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
 TNMP,2012,sbf,sbf,5165702.711999959,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
 TNMP,2013,sbf,sbf,3461851.4805369778,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
+AEP Texas Central,2004,delivery,aep_10k_retail_calibrated,352825219.8900092,C,"AEP 10-K FY2004 TCC total retail revenue less this file's bond, transition and SBF amounts, x 1.052 (the same relation in 2005, when the EMR gives delivery; AEP North's relation is 1.000 in 2004 and 2005, so about +/-5%)","AEP 10-K FY2004 (SEC accession 0001015402-05-001007), Classes of Service; AEP Texas Central 2005 EMR",False
 CenterPoint,2005,delivery,less_riders_inside_reported,-15007674.243564641,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
 CenterPoint,2006,delivery,less_riders_inside_reported,-45781940.361884415,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
 CenterPoint,2007,delivery,less_riders_inside_reported,-42195887.98862788,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False

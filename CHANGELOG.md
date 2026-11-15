@@ -17,6 +17,7 @@ Versions follow [Semantic Versioning](https://semver.org/) adapted for data: a *
 - **TNMP storm rider, all classes.** Uses billed totals for 2019–21; other years use residential × 1.84, the billed all-class/residential ratio. Previously the method scaled by all kWh ÷ residential kWh, which overstated it about twofold. All-class storm falls by about a third and all-class delivery rises by the same amount.
 - **TNMP CTC, all classes.** Uses billed totals for 2019–20.
 - **Oncor bond refund (2016–17) and CenterPoint TC1 2013, all-class amounts.** Derived with the true-up residential shares.
+- **AEP Texas Central 2004 all-class delivery (previously blank).** Now estimated from AEP's FY2004 10-K total retail revenue for TCC, less the other components, × 1.052 (the same relation in 2005). The statewide all-class and business series therefore no longer impute AEP delivery for 2004; their previous imputation was within 0.001¢/kWh of the new value. `build_statewide_series.py` now imputes only where the published value is blank.
 - `wires_residential_components_line_items.csv` restores the CenterPoint 2005 CTC line, which the totals already included.
 - `residential_components_checks.csv`: the TNMP 2025 rows now match the published 2025 value (7.09¢).
 

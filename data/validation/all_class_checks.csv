@@ -281,3 +281,4 @@ EIA reference: EIA C&I GWh 2025 TNMP,-0.4,
 "EIA reference: EIA Operational 2018 CenterPoint, like-for-like $M",-0.3,"ours 2,221.7 vs 2,222"
 "EIA reference: EIA Operational 2018 TNMP, like-for-like $M",0.5,ours 264.5 vs 264
 "EIA reference: EIA Operational 2018 Oncor, like-for-like $M",-0.3,"ours 3,534.7 vs 3,535"
+AEP Texas Central 2004 delivery: 10-K retail relation (delivery / (10-K retail - other components)) in 2005,1.0519,"AEP North 2004: 1.000, 2005: 1.000"

@@ -200,7 +200,8 @@ Output: `data/utility_level/wires_all_class_components_2002_2025.csv`, with line
 |---|---|---|
 | MWh | PUCT Market Share Data, total MWh (within about 2% of AEP's own MWh in report years, except North 2003–05 at −3 to −5% and the 2010–11 outliers) | B |
 | Delivery 2006–07 | Form 1 account 456 ÷ 1.019 (Central) or 1.018 (North), the mean ratio of account 456 to report-year all-class delivery over 2008–16 (range 0.99–1.06). Account 456 is usable only from 2006, when wholesale transmission moved to 456.1 and generation sales had ended | C |
-| Delivery, Central 2003–04 | **Blank.** No report exists, and account 456 then still included wholesale transmission and generation sales. The merged AEP rows for 2003–04 are therefore blank too (the statewide all-class series imputes them; see Section 7) | – |
+| Delivery, Central 2003 | **Blank.** No report exists, account 456 then still included wholesale transmission and generation sales, and the FY2003 AEP 10-K has no class table. The merged AEP row for 2003 is therefore blank too (the statewide all-class series imputes it; see Section 7) | — |
+| Delivery, Central 2004 | AEP 10-K FY2004 "Classes of Service" total retail revenue for TCC (delivery service billed to retailers, including bond and transition charges) less this file's bond, transition and SBF amounts, × 1.052, the same relation in 2005 when the report gives delivery. For AEP North the relation is 1.000 in both 2004 and 2005, so about ±5% | C |
 | EMC, Central 2003–04 | Residential × 2.40, the all/residential EMC ratio in the 2002 and 2005 reports (2.39, 2.41) | C |
 | Clawback, Central 2006 | −$68M: $33M paid to retailers Oct 12–Dec 1 plus $35M of December bill credits (*Caller-Times*, Dec 2006). The PUCT ruling was "almost $65M" | C |
 | CTC and true-up expense, Central 2007 | Residential × 2.585, the all/residential CTC ratio in the 2008 report | C |
