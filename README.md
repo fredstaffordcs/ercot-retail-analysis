@@ -8,8 +8,8 @@ Maintained by Fred Stafford · [@fredstaffordcs](https://twitter.com/fredstaffor
 
 | | |
 |---|---|
-| **[`data/`](data)** | Statewide series, utility-level detail, source extracts, reference series and validation checks. Start with the [data guide](data/README.md) |
-| **[`docs/`](docs)** | [Methodology](docs/methodology.md), [sources](docs/sources.md) and [limitations](docs/limitations.md) |
+| **[`data/`](data)** | Statewide series, utility-level detail, wires charges by customer class, source extracts, reference series and validation checks. Start with the [data guide](data/README.md) |
+| **[`docs/`](docs)** | [Methodology](docs/methodology.md), [charges by customer class](docs/by_class.md), [sources](docs/sources.md) and [limitations](docs/limitations.md) |
 | **[`charts/`](charts)** | Finished charts and a year-by-year animation of every Texas utility's residential price |
 | **[`code/`](code)** | Scripts that build the statewide series and draw the charts |
 

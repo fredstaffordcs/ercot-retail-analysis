@@ -6,6 +6,7 @@ All prices are **nominal cents per kWh** unless a column name says otherwise. Mo
 |---|---|
 | [`statewide_series/`](statewide_series) | Headline series for the ERCOT region, ready to chart |
 | [`utility_level/`](utility_level) | Wires-company and utility detail behind the statewide series |
+| [`by_class/`](by_class) | Wires-company charges split by customer class, 2002–2025 |
 | [`source_extracts/`](source_extracts) | Figures transcribed or parsed from source documents, used as inputs |
 | [`reference/`](reference) | CPI, wholesale prices and other small reference series |
 | [`validation/`](validation) | Cross-checks of the series against independent sources |
@@ -67,6 +68,20 @@ Most rows have a certainty grade or flag; see "Grades" in the methodology. To ke
 | `competitive_providers_residential_2025.csv`, `bundled_prices_by_utility_2025.csv` | 2025 snapshots by provider and by utility |
 | `wires_residential_components_2019_2025_summary.csv` | Residential delivery split into transmission and distribution + other for 2019–2025 (chart input; produced by `code/charts/make3.py`) |
 
+## by_class/
+
+Wires-company charges for Oncor, CenterPoint, AEP Texas (Central, North and merged) and TNMP, split into customer classes in two layers. Within each utility, year and component the classes add to the all-class file and the residential class equals the residential file. Methods, grades and gaps are in [`../docs/by_class.md`](../docs/by_class.md).
+
+| File | Content |
+|---|---|
+| `wires_components_by_tariff_class_2002_2025.csv` | Layer A, tariff classes: one row per utility, year and `class_code` (`res`, `sec_small`, `sec_large`, `pri`, `trans`, `light`). `mwh`, `customers`, each component (`delivery`, `transmission`, `dist_other`, `transition_securitized`, `transition_other`, `storm`, `sbf`, `total`) as `_kusd` and `_cents`; `tx_alloc_factor`, `tx_share_of_delivery`; a grade per component and `min_certainty`; `*_status`, `*_certainty`, `*_error_band_cents`, `*_imputation_method` for imputed cells; `flag`, `source`, `method`, `tx_alloc_source`, `notes`. `billed_kw` is blank |
+| `wires_components_by_eia_class_2002_2025.csv` | Layer B, EIA customer types (`residential`, `commercial`, `industrial`, `transportation`), same components. `measured_or_mapped` and `basis` say whether a row is measured (EIA-861, Form 1, 10-K) or mapped from Layer A. Commercial rows for 2020–25 carry a large-load indicator (`diag_commercial_mwh_above_secondary`, `diag_share_of_commercial_mwh`, `diag_note`) |
+| `wires_components_by_class_line_items.csv` | Every amount behind the two files: `utility, year, class_code, component, item, kusd, grade, method, source` |
+| `statewide_delivery_by_class_2002_2025.csv` | kWh-weighted averages over Oncor, CenterPoint, merged AEP Texas and TNMP by `layer`, `year` and `class_code`, in ¢/kWh; `n_util`, `utilities` and `missing` say which utilities are included; `share_mwh_mapped` (Layer B) is the MWh share from mapped rows |
+| `tariff_class_crosswalk.csv` | How every source class (Form 1 rate schedules, earnings-report columns, Rider TCRF sub-classes, financing-order and legacy classes) maps to a class code and EIA type, with dates and sources |
+
+Non-residential classes are blank where no class-level source exists (AEP Central 2003–04 and 2006, AEP North 2006–07, the AEP divisions 2019–25). TNMP 2008–10 has Layer B only.
+
 ## source_extracts/
 
 Inputs transcribed or parsed from source documents; each file's columns are self-describing.
@@ -78,6 +93,9 @@ Inputs transcribed or parsed from source documents; each file's columns are self
 | `securitization_collections_by_series.csv`, `securitization_revenue_all_classes.csv` | Bond-company collections by series and year, with residential factors |
 | `aep_earnings_reports_residential_annual.csv`, `aep_residential_rates.csv`, `aep_delivery_model_test.csv` | AEP earnings-report extracts, archived PUCT rider rates, and the rate-model test used for gap years |
 | `puct_market_share_residential_annual.csv` | Residential MWh and customers by TDU area from the PUCT retail market share workbook |
+| `tcrf_class_allocation_factors.csv` | Rider TCRF transmission allocation factors by class and sub-class for every allocation regime, 2002–2025 |
+| `bond_charges_by_class_trueup_filings.csv` | Bond true-up filings: CenterPoint forecast billing determinants, charges and revenue by charge class; Oncor transition charges billed by class each month |
+| `aep_central_transition_trueup_collections.csv` | AEP Texas Central TF1 and TC-2 collections by legacy TC class from the true-up workpapers, 2002–09 |
 
 ## reference/
 
@@ -93,6 +111,7 @@ Inputs transcribed or parsed from source documents; each file's columns are self
 | File | What it checks |
 |---|---|
 | `residential_components_checks.csv`, `all_class_checks.csv` | Components against EIA, FERC Form 1, AEP and bond-issuer reports |
+| `class_checks.csv` | Class files: class sums against the published totals, sources before scaling against the published amounts, billed class amounts, the transmission factors, and mapped Layer B against EIA-861 and the 10-K filings (`check_group`, `value`, `target`, `diff`, `within_tolerance`) |
 | `eia_overlap_check_2020_2022.csv` | Delivery series against EIA's own 2020–2022 delivery data |
 | `transmission_split_checks.csv`, `billed_vs_cost_transmission_2005_2010.csv` | Transmission estimates against 10-K disclosures and billed tariffs; comparison with the superseded TOTAL-row rate method |
 | `regulated_split_seam_checks.csv`, `depreciation_shortcut_backtest.csv` | The 2001/2002 seam and the 1992–93 depreciation shortcut |

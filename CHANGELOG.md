@@ -4,6 +4,15 @@ Versions follow [Semantic Versioning](https://semver.org/) adapted for data: a *
 
 ## [Unreleased]
 
+### Added
+- **Wires-company charges by customer class, 2002–2025** ([`data/by_class/`](data/by_class), documented in [`docs/by_class.md`](docs/by_class.md)):
+  - Layer A: tariff classes (residential, secondary ≤10 kW and >10 kW, primary, transmission voltage, lighting) for Oncor, CenterPoint, AEP Texas Central, North and merged, and TNMP, from FERC Form 1 rate-schedule sales, PUCT earnings monitoring reports, Rider TCRF class allocation tables and the bond true-up filings.
+  - Layer B: EIA customer types (residential, commercial, industrial, transportation), measured from EIA-861 (2020–25), Form 1 (CenterPoint 2002–19, Oncor 2009–19) and the PNM Resources and AEP 10-K filings (TNMP 2007–19; AEP 2004 and 2006, revenue only), otherwise mapped from Layer A.
+  - Statewide kWh-weighted averages by class, the tariff-class crosswalk, and a large-load indicator for 2020–25 (commercial MWh served above secondary voltage).
+  - Within each utility, year and component the classes add to the published all-class totals and the residential class equals the residential file; imputed cells are labelled with a certainty score and an error band.
+- Source extracts: `tcrf_class_allocation_factors.csv`, `bond_charges_by_class_trueup_filings.csv`, `aep_central_transition_trueup_collections.csv`.
+- Validation: `class_checks.csv`.
+
 ### Corrected
 - **Bond charges, residential share (Oncor 2003–16; CenterPoint 2002–24).** The residential share of each bond series now comes from the true-up record filed at the PUCT instead of the fixed financing-order factor:
   - Oncor: transition charges billed by class (Monthly Servicer's Certificates).

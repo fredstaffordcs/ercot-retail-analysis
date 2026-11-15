@@ -20,6 +20,11 @@ Read these before reusing a series.
 - Small items omitted: TDU-billed storm credits after Aug 2021 (≤0.015¢), nuclear decommissioning (left in delivery), CenterPoint SRC3 bonds (issued late 2025).
 - The wholesale series is the market monitor's all-in cost per MWh of load; its definition changes (energy only 2002–06; energy plus ancillary services from 2010) and some years are unavailable.
 
+**Charges by customer class** (see [`by_class.md`](by_class.md))
+- Classes are scaled to the published totals, so class sums match by construction; the split between classes depends on the class weights in each source.
+- EIA's commercial/industrial line is drawn by each utility. For AEP Texas before 2020 and TNMP before 2007, commercial and industrial are mapped from tariff classes by voltage. The mapping is an approximation that misses load served above secondary voltage but reported as commercial, which is large for AEP and TNMP in 2020–25 and was already growing at TNMP from 2007.
+- Non-residential classes are blank for AEP Central 2003–04 and 2006, AEP North 2006–07 and the AEP divisions 2019–25. AEP Central 2007 delivery and the AEP Central bond charges in 2002 and 2007 are imputed and labelled.
+
 **Reuse**
 - Chart scripts need the repository's data files and the Inter font for the exact look. Scripts that start from raw downloads expect them in `raw/` (not included; see `sources.md`).
 - The scripts that parsed the raw filings into the wires-company files (PUCT rate summaries, AEP earnings reports, bond servicer reports, transmission matrices, TCRF petitions) are not included. The resulting data, line items, sources and methods are.

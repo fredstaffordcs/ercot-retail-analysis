@@ -1,0 +1,179 @@
+utility,effective_from,sub_class,class_code,factor,grade,source
+Oncor,2002-01-01,Residential,res,0.47028,A,"Docket 22350 (UCOS) allocator; Rider TCRF, TCRF petition Control No. 27365 item 1, Attachment B (sheet 'Sheet1')"
+Oncor,2002-01-01,Secondary <=10 kW,sec_small,0.017941,A,"Docket 22350 (UCOS) allocator; Rider TCRF, TCRF petition Control No. 27365 item 1, Attachment B (sheet 'Sheet1')"
+Oncor,2002-01-01,Secondary >10 kW,sec_large,0.37742,A,"Docket 22350 (UCOS) allocator; Rider TCRF, TCRF petition Control No. 27365 item 1, Attachment B (sheet 'Sheet1')"
+Oncor,2002-01-01,Primary <=10 kW,pri,0.000238,A,"Docket 22350 (UCOS) allocator; Rider TCRF, TCRF petition Control No. 27365 item 1, Attachment B (sheet 'Sheet1')"
+Oncor,2002-01-01,Primary >10 kW,pri,0.078098,A,"Docket 22350 (UCOS) allocator; Rider TCRF, TCRF petition Control No. 27365 item 1, Attachment B (sheet 'Sheet1')"
+Oncor,2002-01-01,Transmission,trans,0.056023,A,"Docket 22350 (UCOS) allocator; Rider TCRF, TCRF petition Control No. 27365 item 1, Attachment B (sheet 'Sheet1')"
+Oncor,2002-01-01,Lighting,light,0.0,A,"Docket 22350 (UCOS) allocator; Rider TCRF, TCRF petition Control No. 27365 item 1, Attachment B (sheet 'Sheet1')"
+Oncor,2009-09-17,Residential,res,0.44356416,A,"Docket 35717; Rider TCRF 'Allocation Factor for each listed rate schedule', TCRF petition Control No. 38460 item 1"
+Oncor,2009-09-17,Secondary <=10 kW,sec_small,0.01097029,A,"Docket 35717; Rider TCRF 'Allocation Factor for each listed rate schedule', TCRF petition Control No. 38460 item 1"
+Oncor,2009-09-17,Secondary >10 kW,sec_large,0.40526367,A,"Docket 35717; Rider TCRF 'Allocation Factor for each listed rate schedule', TCRF petition Control No. 38460 item 1"
+Oncor,2009-09-17,Primary <=10 kW,pri,0.00016674,A,"Docket 35717; Rider TCRF 'Allocation Factor for each listed rate schedule', TCRF petition Control No. 38460 item 1"
+Oncor,2009-09-17,Primary >10 kW (distribution line),pri,0.0695593,A,"Docket 35717; Rider TCRF 'Allocation Factor for each listed rate schedule', TCRF petition Control No. 38460 item 1"
+Oncor,2009-09-17,Primary >10 kW (substation),pri,0.01060507,A,"Docket 35717; Rider TCRF 'Allocation Factor for each listed rate schedule', TCRF petition Control No. 38460 item 1"
+Oncor,2009-09-17,Transmission,trans,0.05987078,A,"Docket 35717; Rider TCRF 'Allocation Factor for each listed rate schedule', TCRF petition Control No. 38460 item 1"
+Oncor,2009-09-17,Lighting,light,0.0,A,"Docket 35717; Rider TCRF 'Allocation Factor for each listed rate schedule', TCRF petition Control No. 38460 item 1"
+Oncor,2011-07-01,Residential,res,0.46853881,A,"Docket 38929; Rider TCRF, TCRF petitions Control Nos. 39456, 40451, 41002 item 1"
+Oncor,2011-07-01,Secondary <=10 kW,sec_small,0.010876112,A,"Docket 38929; Rider TCRF, TCRF petitions Control Nos. 39456, 40451, 41002 item 1"
+Oncor,2011-07-01,Secondary >10 kW,sec_large,0.39319163,A,"Docket 38929; Rider TCRF, TCRF petitions Control Nos. 39456, 40451, 41002 item 1"
+Oncor,2011-07-01,Primary <=10 kW,pri,0.0001447562,A,"Docket 38929; Rider TCRF, TCRF petitions Control Nos. 39456, 40451, 41002 item 1"
+Oncor,2011-07-01,Primary >10 kW (distribution line),pri,0.063516404,A,"Docket 38929; Rider TCRF, TCRF petitions Control Nos. 39456, 40451, 41002 item 1"
+Oncor,2011-07-01,Primary >10 kW (substation),pri,0.012518089,A,"Docket 38929; Rider TCRF, TCRF petitions Control Nos. 39456, 40451, 41002 item 1"
+Oncor,2011-07-01,Transmission,trans,0.051214194,A,"Docket 38929; Rider TCRF, TCRF petitions Control Nos. 39456, 40451, 41002 item 1"
+Oncor,2011-07-01,Lighting,light,0.0,A,"Docket 38929; Rider TCRF, TCRF petitions Control Nos. 39456, 40451, 41002 item 1"
+Oncor,2017-11-27,Residential,res,0.4700208665,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Secondary <=10 kW,sec_small,0.0127036861,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Secondary >10 kW NCP,sec_large,0.2479682979,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Secondary >10 kW 4CP,sec_large,0.1277412444,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Primary <=10 kW,pri,0.0001151626,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Primary >10 kW NCP (distribution line),pri,0.0058187385,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Primary >10 kW 4CP (distribution line),pri,0.058833911,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Primary >10 kW (substation),pri,0.0148722098,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Transmission,trans,0.0619258833,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2017-11-27,Lighting,light,0.0,A,"Docket 46957; TCRF petition Control No. 49593 item 1 (Attachment A, 'Class Allocation Factor' line [8] per class); same in 50883, 51560, 52898"
+Oncor,2023-09-01,Residential,res,0.4588067225,A,"Docket 53601; Rider TCRF, TCRF petition Control No. 55075 item 1 (first update using it); same in 55928, 56685"
+Oncor,2023-09-01,Secondary <=10 kW,sec_small,0.012824408,A,"Docket 53601; Rider TCRF, TCRF petition Control No. 55075 item 1 (first update using it); same in 55928, 56685"
+Oncor,2023-09-01,Secondary >10 kW,sec_large,0.33353593,A,"Docket 53601; Rider TCRF, TCRF petition Control No. 55075 item 1 (first update using it); same in 55928, 56685"
+Oncor,2023-09-01,Primary <=10 kW,pri,0.0001326433,A,"Docket 53601; Rider TCRF, TCRF petition Control No. 55075 item 1 (first update using it); same in 55928, 56685"
+Oncor,2023-09-01,Primary >10 kW (distribution line),pri,0.083853975,A,"Docket 53601; Rider TCRF, TCRF petition Control No. 55075 item 1 (first update using it); same in 55928, 56685"
+Oncor,2023-09-01,Primary >10 kW (substation),pri,0.027463664,A,"Docket 53601; Rider TCRF, TCRF petition Control No. 55075 item 1 (first update using it); same in 55928, 56685"
+Oncor,2023-09-01,Transmission,trans,0.083382661,A,"Docket 53601; Rider TCRF, TCRF petition Control No. 55075 item 1 (first update using it); same in 55928, 56685"
+Oncor,2023-09-01,Lighting,light,0.0,A,"Docket 53601; Rider TCRF, TCRF petition Control No. 55075 item 1 (first update using it); same in 55928, 56685"
+CenterPoint,2002-01-01,Residential,res,0.417858,A,Docket 22355 (UCOS); TCRF petition Control No. 29226 item 1 (workbook sheet 'TCRF Calc')
+CenterPoint,2002-01-01,Secondary <=10 kVA,sec_small,0.0096,A,Docket 22355 (UCOS); TCRF petition Control No. 29226 item 1 (workbook sheet 'TCRF Calc')
+CenterPoint,2002-01-01,Secondary >10 kVA,sec_large,0.365165,A,Docket 22355 (UCOS); TCRF petition Control No. 29226 item 1 (workbook sheet 'TCRF Calc')
+CenterPoint,2002-01-01,Primary,pri,0.049228,A,Docket 22355 (UCOS); TCRF petition Control No. 29226 item 1 (workbook sheet 'TCRF Calc')
+CenterPoint,2002-01-01,Transmission,trans,0.158149,A,Docket 22355 (UCOS); TCRF petition Control No. 29226 item 1 (workbook sheet 'TCRF Calc')
+CenterPoint,2002-01-01,Lighting,light,0.0,A,Docket 22355 (UCOS); TCRF petition Control No. 29226 item 1 (workbook sheet 'TCRF Calc')
+CenterPoint,2006-10-01,Residential,res,0.456,A,"Docket 32093; TCRF petition Control No. 33750 item 1 (sheet 'TCRF Calc'); same in 35880, 36597"
+CenterPoint,2006-10-01,Secondary <=10 kVA,sec_small,0.015,A,"Docket 32093; TCRF petition Control No. 33750 item 1 (sheet 'TCRF Calc'); same in 35880, 36597"
+CenterPoint,2006-10-01,Secondary >10 kVA,sec_large,0.37,A,"Docket 32093; TCRF petition Control No. 33750 item 1 (sheet 'TCRF Calc'); same in 35880, 36597"
+CenterPoint,2006-10-01,Primary,pri,0.04,A,"Docket 32093; TCRF petition Control No. 33750 item 1 (sheet 'TCRF Calc'); same in 35880, 36597"
+CenterPoint,2006-10-01,Transmission,trans,0.119,A,"Docket 32093; TCRF petition Control No. 33750 item 1 (sheet 'TCRF Calc'); same in 35880, 36597"
+CenterPoint,2006-10-01,Lighting,light,0.0,A,"Docket 32093; TCRF petition Control No. 33750 item 1 (sheet 'TCRF Calc'); same in 35880, 36597"
+CenterPoint,2011-09-01,Residential,res,0.471426,A,Docket 38339; TCRF petition Control No. 39953 item 1 (sheet 'Attach A TCRF Calc'); same in 40999
+CenterPoint,2011-09-01,Secondary <=10 kVA,sec_small,0.011481,A,Docket 38339; TCRF petition Control No. 39953 item 1 (sheet 'Attach A TCRF Calc'); same in 40999
+CenterPoint,2011-09-01,Secondary >10 kVA,sec_large,0.358682,A,Docket 38339; TCRF petition Control No. 39953 item 1 (sheet 'Attach A TCRF Calc'); same in 40999
+CenterPoint,2011-09-01,Primary,pri,0.036249,A,Docket 38339; TCRF petition Control No. 39953 item 1 (sheet 'Attach A TCRF Calc'); same in 40999
+CenterPoint,2011-09-01,Transmission,trans,0.122162,A,Docket 38339; TCRF petition Control No. 39953 item 1 (sheet 'Attach A TCRF Calc'); same in 40999
+CenterPoint,2011-09-01,Lighting,light,0.0,A,Docket 38339; TCRF petition Control No. 39953 item 1 (sheet 'Attach A TCRF Calc'); same in 40999
+CenterPoint,2020-09-01,Residential,res,0.476096,A,Docket 49421; TCRF petition Control No. 50890 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2020-09-01,Secondary <=10 kVA,sec_small,0.008349,A,Docket 49421; TCRF petition Control No. 50890 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2020-09-01,Secondary >10 kVA,sec_large,0.346862,A,Docket 49421; TCRF petition Control No. 50890 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2020-09-01,Primary,pri,0.034095,A,Docket 49421; TCRF petition Control No. 50890 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2020-09-01,Transmission,trans,0.134597,A,Docket 49421; TCRF petition Control No. 50890 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2020-09-01,Lighting,light,0.0,A,Docket 49421; TCRF petition Control No. 50890 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2025-09-01,Residential,res,0.489238,A,Docket 56211; TCRF petition Control No. 58178 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2025-09-01,Secondary <=10 kVA,sec_small,0.006486,A,Docket 56211; TCRF petition Control No. 58178 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2025-09-01,Secondary >10 kVA,sec_large,0.290275,A,Docket 56211; TCRF petition Control No. 58178 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2025-09-01,Primary,pri,0.030846,A,Docket 56211; TCRF petition Control No. 58178 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2025-09-01,Transmission,trans,0.183155,A,Docket 56211; TCRF petition Control No. 58178 item 1 (sheet 'Attach A TCRF Calc')
+CenterPoint,2025-09-01,Lighting,light,0.0,A,Docket 56211; TCRF petition Control No. 58178 item 1 (sheet 'Attach A TCRF Calc')
+AEP Texas Central,2002-01-01,Residential,res,0.442622,A,Docket 22352 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31368 Att. A
+AEP Texas Central,2002-01-01,Secondary <=10 kW,sec_small,0.016688,A,Docket 22352 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31368 Att. A
+AEP Texas Central,2002-01-01,Secondary >10 kW IDR,sec_large,0.006441,A,Docket 22352 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31368 Att. A
+AEP Texas Central,2002-01-01,Secondary >10 kW non-IDR,sec_large,0.274002,A,Docket 22352 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31368 Att. A
+AEP Texas Central,2002-01-01,Primary IDR,pri,0.065879,A,Docket 22352 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31368 Att. A
+AEP Texas Central,2002-01-01,Primary non-IDR,pri,0.050882,A,Docket 22352 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31368 Att. A
+AEP Texas Central,2002-01-01,Transmission,trans,0.143485,A,Docket 22352 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31368 Att. A
+AEP Texas Central,2002-01-01,Lighting,light,0.0,A,Docket 22352 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31368 Att. A
+AEP Texas Central,2005-10-01,Residential,res,0.4631,B,"Docket 28840; Rider TCRF compliance tariff, TCRF petition Control No. 31368 item 1 (Att. D), printed to two decimals of a percent (sums to 0.9999; residential 0.463085 in the published split)"
+AEP Texas Central,2005-10-01,Secondary <=10 kW,sec_small,0.0224,B,"Docket 28840; Rider TCRF compliance tariff, TCRF petition Control No. 31368 item 1 (Att. D), printed to two decimals of a percent (sums to 0.9999; residential 0.463085 in the published split)"
+AEP Texas Central,2005-10-01,Secondary >10 kW IDR,sec_large,0.009,B,"Docket 28840; Rider TCRF compliance tariff, TCRF petition Control No. 31368 item 1 (Att. D), printed to two decimals of a percent (sums to 0.9999; residential 0.463085 in the published split)"
+AEP Texas Central,2005-10-01,Secondary >10 kW non-IDR,sec_large,0.2817,B,"Docket 28840; Rider TCRF compliance tariff, TCRF petition Control No. 31368 item 1 (Att. D), printed to two decimals of a percent (sums to 0.9999; residential 0.463085 in the published split)"
+AEP Texas Central,2005-10-01,Primary IDR,pri,0.0878,B,"Docket 28840; Rider TCRF compliance tariff, TCRF petition Control No. 31368 item 1 (Att. D), printed to two decimals of a percent (sums to 0.9999; residential 0.463085 in the published split)"
+AEP Texas Central,2005-10-01,Primary non-IDR,pri,0.0145,B,"Docket 28840; Rider TCRF compliance tariff, TCRF petition Control No. 31368 item 1 (Att. D), printed to two decimals of a percent (sums to 0.9999; residential 0.463085 in the published split)"
+AEP Texas Central,2005-10-01,Transmission,trans,0.1214,B,"Docket 28840; Rider TCRF compliance tariff, TCRF petition Control No. 31368 item 1 (Att. D), printed to two decimals of a percent (sums to 0.9999; residential 0.463085 in the published split)"
+AEP Texas Central,2005-10-01,Lighting,light,0.0,B,"Docket 28840; Rider TCRF compliance tariff, TCRF petition Control No. 31368 item 1 (Att. D), printed to two decimals of a percent (sums to 0.9999; residential 0.463085 in the published split)"
+AEP Texas Central,2008-07-01,Residential,res,0.472086,A,"Docket 33309; TCRF petition Control No. 45402 item 1 (workbook 'TCC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas Central,2008-07-01,Secondary <=10 kW,sec_small,0.017188,A,"Docket 33309; TCRF petition Control No. 45402 item 1 (workbook 'TCC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas Central,2008-07-01,Secondary >10 kW IDR,sec_large,0.020229,A,"Docket 33309; TCRF petition Control No. 45402 item 1 (workbook 'TCC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas Central,2008-07-01,Secondary >10 kW non-IDR,sec_large,0.292248,A,"Docket 33309; TCRF petition Control No. 45402 item 1 (workbook 'TCC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas Central,2008-07-01,Primary IDR,pri,0.097657,A,"Docket 33309; TCRF petition Control No. 45402 item 1 (workbook 'TCC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas Central,2008-07-01,Primary non-IDR,pri,0.010477,A,"Docket 33309; TCRF petition Control No. 45402 item 1 (workbook 'TCC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas Central,2008-07-01,Transmission,trans,0.090116,A,"Docket 33309; TCRF petition Control No. 45402 item 1 (workbook 'TCC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas Central,2008-07-01,Lighting,light,0.0,A,"Docket 33309; TCRF petition Control No. 45402 item 1 (workbook 'TCC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas North,2002-01-01,Residential,res,0.452331,A,Docket 22354 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31367 Att. A
+AEP Texas North,2002-01-01,Secondary <=10 kW,sec_small,0.020151,A,Docket 22354 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31367 Att. A
+AEP Texas North,2002-01-01,Secondary >10 kW IDR,sec_large,0.069797,A,Docket 22354 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31367 Att. A
+AEP Texas North,2002-01-01,Secondary >10 kW non-IDR,sec_large,0.311811,A,Docket 22354 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31367 Att. A
+AEP Texas North,2002-01-01,Primary IDR,pri,0.113145,A,Docket 22354 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31367 Att. A
+AEP Texas North,2002-01-01,Primary non-IDR,pri,0.02822,A,Docket 22354 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31367 Att. A
+AEP Texas North,2002-01-01,Transmission,trans,0.004545,A,Docket 22354 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31367 Att. A
+AEP Texas North,2002-01-01,Lighting,light,0.0,A,Docket 22354 (UCOS); TCRF petition Control No. 26278 item 1 (workbook 'AEP TCRF Proof.xls'); same in 31367 Att. A
+AEP Texas North,2007-06-01,Residential,res,0.465534,A,"Docket 33310; TCRF petition Control No. 45403 item 1 (workbook 'TNC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas North,2007-06-01,Secondary <=10 kW,sec_small,0.028971,A,"Docket 33310; TCRF petition Control No. 45403 item 1 (workbook 'TNC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas North,2007-06-01,Secondary >10 kW IDR,sec_large,0.05994,A,"Docket 33310; TCRF petition Control No. 45403 item 1 (workbook 'TNC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas North,2007-06-01,Secondary >10 kW non-IDR,sec_large,0.308691,A,"Docket 33310; TCRF petition Control No. 45403 item 1 (workbook 'TNC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas North,2007-06-01,Primary IDR,pri,0.123876,A,"Docket 33310; TCRF petition Control No. 45403 item 1 (workbook 'TNC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas North,2007-06-01,Primary non-IDR,pri,0.006993,A,"Docket 33310; TCRF petition Control No. 45403 item 1 (workbook 'TNC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas North,2007-06-01,Transmission,trans,0.005994,A,"Docket 33310; TCRF petition Control No. 45403 item 1 (workbook 'TNC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP Texas North,2007-06-01,Lighting,light,0.0,A,"Docket 33310; TCRF petition Control No. 45403 item 1 (workbook 'TNC March 2016 TCRF Update', sheet 'TCRF Revenue')"
+AEP merged 2020+,2020-01-01,(mix),,,A,"Central (Docket 33309) and North (Docket 33310) allocators, weighted 0.8037/0.1963 so that residential = 0.4708 as in the published split"
+AEP merged 2020+,2021-03-01,Residential,res,0.47309,A,"Docket 49494; TCRF petition Control No. 51554 item 1 ('Estimated Revenue By Rate Class'); also 50888, 52181"
+AEP merged 2020+,2021-03-01,Secondary <=10 kW,sec_small,0.01704,A,"Docket 49494; TCRF petition Control No. 51554 item 1 ('Estimated Revenue By Rate Class'); also 50888, 52181"
+AEP merged 2020+,2021-03-01,Secondary >10 kW 4CP,sec_large,0.03152,A,"Docket 49494; TCRF petition Control No. 51554 item 1 ('Estimated Revenue By Rate Class'); also 50888, 52181"
+AEP merged 2020+,2021-03-01,Secondary >10 kW NCP,sec_large,0.28071,A,"Docket 49494; TCRF petition Control No. 51554 item 1 ('Estimated Revenue By Rate Class'); also 50888, 52181"
+AEP merged 2020+,2021-03-01,Primary 4CP,pri,0.09803,A,"Docket 49494; TCRF petition Control No. 51554 item 1 ('Estimated Revenue By Rate Class'); also 50888, 52181"
+AEP merged 2020+,2021-03-01,Primary NCP,pri,0.00654,A,"Docket 49494; TCRF petition Control No. 51554 item 1 ('Estimated Revenue By Rate Class'); also 50888, 52181"
+AEP merged 2020+,2021-03-01,Transmission,trans,0.09307,A,"Docket 49494; TCRF petition Control No. 51554 item 1 ('Estimated Revenue By Rate Class'); also 50888, 52181"
+AEP merged 2020+,2021-03-01,Lighting,light,0.0,A,"Docket 49494; TCRF petition Control No. 51554 item 1 ('Estimated Revenue By Rate Class'); also 50888, 52181"
+AEP merged 2020+,2022-09-01,Residential,res,0.48203,A,Docket 53236 allocator; TCRF petition Control No. 53653 item 1; also 54400
+AEP merged 2020+,2022-09-01,Secondary <=10 kW,sec_small,0.02148,A,Docket 53236 allocator; TCRF petition Control No. 53653 item 1; also 54400
+AEP merged 2020+,2022-09-01,Secondary >10 kW 4CP,sec_large,0.03077,A,Docket 53236 allocator; TCRF petition Control No. 53653 item 1; also 54400
+AEP merged 2020+,2022-09-01,Secondary >10 kW NCP,sec_large,0.25768,A,Docket 53236 allocator; TCRF petition Control No. 53653 item 1; also 54400
+AEP merged 2020+,2022-09-01,Primary 4CP,pri,0.08749,A,Docket 53236 allocator; TCRF petition Control No. 53653 item 1; also 54400
+AEP merged 2020+,2022-09-01,Primary NCP,pri,0.00581,A,Docket 53236 allocator; TCRF petition Control No. 53653 item 1; also 54400
+AEP merged 2020+,2022-09-01,Transmission,trans,0.11475,A,Docket 53236 allocator; TCRF petition Control No. 53653 item 1; also 54400
+AEP merged 2020+,2022-09-01,Lighting,light,0.0,A,Docket 53236 allocator; TCRF petition Control No. 53653 item 1; also 54400
+AEP merged 2020+,2025-03-01,Residential,res,0.48476544,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Secondary <=10 kW,sec_small,0.01917394,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Secondary >10 kW NCP,sec_large,0.25679416,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Secondary >10 kW 4CP,sec_large,0.02871875,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Primary NCP,pri,0.00518255,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Primary 4CP,pri,0.06333087,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Primary substation NCP,pri,0.00012791,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Primary substation 4CP,pri,0.01225069,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Transmission,trans,0.12965569,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+AEP merged 2020+,2025-03-01,Lighting,light,0.0,A,"TCRF petition Control No. 57356 item 1 (workbook 'AEPTX March 2025 TCRF Update', sheet 'TCRF Revenue'); also 58157"
+TNMP,2002-01-01,Residential,res,0.5258,A,"Docket 22349 (UCOS); TCRF petition Control No. 29295 item 1 (workbook 'TCRF - Att A-B-D-E Calculations', sheet 'ATT A PG1')"
+TNMP,2002-01-01,Secondary <5 kW,sec_small,0.0123,A,"Docket 22349 (UCOS); TCRF petition Control No. 29295 item 1 (workbook 'TCRF - Att A-B-D-E Calculations', sheet 'ATT A PG1')"
+TNMP,2002-01-01,Secondary >5 kW non-IDR,sec_large,0.3227,A,"Docket 22349 (UCOS); TCRF petition Control No. 29295 item 1 (workbook 'TCRF - Att A-B-D-E Calculations', sheet 'ATT A PG1')"
+TNMP,2002-01-01,Secondary >5 kW IDR,sec_large,0.0035,A,"Docket 22349 (UCOS); TCRF petition Control No. 29295 item 1 (workbook 'TCRF - Att A-B-D-E Calculations', sheet 'ATT A PG1')"
+TNMP,2002-01-01,Primary non-IDR,pri,0.0203,A,"Docket 22349 (UCOS); TCRF petition Control No. 29295 item 1 (workbook 'TCRF - Att A-B-D-E Calculations', sheet 'ATT A PG1')"
+TNMP,2002-01-01,Primary IDR,pri,0.0153,A,"Docket 22349 (UCOS); TCRF petition Control No. 29295 item 1 (workbook 'TCRF - Att A-B-D-E Calculations', sheet 'ATT A PG1')"
+TNMP,2002-01-01,Transmission,trans,0.1001,A,"Docket 22349 (UCOS); TCRF petition Control No. 29295 item 1 (workbook 'TCRF - Att A-B-D-E Calculations', sheet 'ATT A PG1')"
+TNMP,2002-01-01,Lighting,light,0.0,A,"Docket 22349 (UCOS); TCRF petition Control No. 29295 item 1 (workbook 'TCRF - Att A-B-D-E Calculations', sheet 'ATT A PG1')"
+TNMP,2009-09-01,Residential,res,0.45930964,A,"Docket 36025; TCRF petition Control No. 37233 item 1 (workbook 'Attachment A - calculations', sheet 'TCOS Calculation')"
+TNMP,2009-09-01,Secondary <5 kW,sec_small,0.03221816,A,"Docket 36025; TCRF petition Control No. 37233 item 1 (workbook 'Attachment A - calculations', sheet 'TCOS Calculation')"
+TNMP,2009-09-01,Secondary >=5 kW,sec_large,0.25010489,A,"Docket 36025; TCRF petition Control No. 37233 item 1 (workbook 'Attachment A - calculations', sheet 'TCOS Calculation')"
+TNMP,2009-09-01,Secondary >=5 kW IDR,sec_large,0.049749747,A,"Docket 36025; TCRF petition Control No. 37233 item 1 (workbook 'Attachment A - calculations', sheet 'TCOS Calculation')"
+TNMP,2009-09-01,Primary,pri,0.009325883,A,"Docket 36025; TCRF petition Control No. 37233 item 1 (workbook 'Attachment A - calculations', sheet 'TCOS Calculation')"
+TNMP,2009-09-01,Primary IDR,pri,0.029354896,A,"Docket 36025; TCRF petition Control No. 37233 item 1 (workbook 'Attachment A - calculations', sheet 'TCOS Calculation')"
+TNMP,2009-09-01,Transmission,trans,0.16993678,A,"Docket 36025; TCRF petition Control No. 37233 item 1 (workbook 'Attachment A - calculations', sheet 'TCOS Calculation')"
+TNMP,2009-09-01,Lighting,light,0.0,A,"Docket 36025; TCRF petition Control No. 37233 item 1 (workbook 'Attachment A - calculations', sheet 'TCOS Calculation')"
+TNMP,2011-03-01,Residential,res,0.49595615,A,"Docket 38480; TCRF petition Control No. 39457 item 1 (workbook '(Att.A&D) Sept 2011 TNMP TCRF', sheet 'Factors')"
+TNMP,2011-03-01,Secondary <5 kW,sec_small,0.011469851,A,"Docket 38480; TCRF petition Control No. 39457 item 1 (workbook '(Att.A&D) Sept 2011 TNMP TCRF', sheet 'Factors')"
+TNMP,2011-03-01,Secondary >5 kW,sec_large,0.25421376,A,"Docket 38480; TCRF petition Control No. 39457 item 1 (workbook '(Att.A&D) Sept 2011 TNMP TCRF', sheet 'Factors')"
+TNMP,2011-03-01,Secondary >5 kW IDR,sec_large,0.044735393,A,"Docket 38480; TCRF petition Control No. 39457 item 1 (workbook '(Att.A&D) Sept 2011 TNMP TCRF', sheet 'Factors')"
+TNMP,2011-03-01,Primary,pri,0.012051943,A,"Docket 38480; TCRF petition Control No. 39457 item 1 (workbook '(Att.A&D) Sept 2011 TNMP TCRF', sheet 'Factors')"
+TNMP,2011-03-01,Primary IDR,pri,0.032641298,A,"Docket 38480; TCRF petition Control No. 39457 item 1 (workbook '(Att.A&D) Sept 2011 TNMP TCRF', sheet 'Factors')"
+TNMP,2011-03-01,Transmission,trans,0.1489316,A,"Docket 38480; TCRF petition Control No. 39457 item 1 (workbook '(Att.A&D) Sept 2011 TNMP TCRF', sheet 'Factors')"
+TNMP,2011-03-01,Lighting,light,0.0,A,"Docket 38480; TCRF petition Control No. 39457 item 1 (workbook '(Att.A&D) Sept 2011 TNMP TCRF', sheet 'Factors')"
+TNMP,2019-01-01,Residential,res,0.4512899,A,Docket 48401; TCRF petition Control No. 48932 item 1 (Rider TCRF); also 49585 (sheet 'Factors')
+TNMP,2019-01-01,Secondary <5 kW,sec_small,0.00286,A,Docket 48401; TCRF petition Control No. 48932 item 1 (Rider TCRF); also 49585 (sheet 'Factors')
+TNMP,2019-01-01,Secondary >5 kW,sec_large,0.2548159,A,Docket 48401; TCRF petition Control No. 48932 item 1 (Rider TCRF); also 49585 (sheet 'Factors')
+TNMP,2019-01-01,Secondary >5 kW IDR,sec_large,0.0359,A,Docket 48401; TCRF petition Control No. 48932 item 1 (Rider TCRF); also 49585 (sheet 'Factors')
+TNMP,2019-01-01,Primary,pri,0.02647,A,Docket 48401; TCRF petition Control No. 48932 item 1 (Rider TCRF); also 49585 (sheet 'Factors')
+TNMP,2019-01-01,Primary IDR,pri,0.0399944,A,Docket 48401; TCRF petition Control No. 48932 item 1 (Rider TCRF); also 49585 (sheet 'Factors')
+TNMP,2019-01-01,Transmission,trans,0.1886697,A,Docket 48401; TCRF petition Control No. 48932 item 1 (Rider TCRF); also 49585 (sheet 'Factors')
+TNMP,2019-01-01,Lighting,light,0.0,A,Docket 48401; TCRF petition Control No. 48932 item 1 (Rider TCRF); also 49585 (sheet 'Factors')
+TNMP,2020-09-01,Residential,res,0.41644625,A,"Docket 48401 allocators first used in the Sept 2020 update; TCRF petition Control No. 51559 item 1 (workbook 'TNMP TCRF 2021 March-Final', sheet 'WP-Alloc Fac, Bill Det'); also 50891"
+TNMP,2020-09-01,Secondary <5 kW,sec_small,0.0021609454,A,"Docket 48401 allocators first used in the Sept 2020 update; TCRF petition Control No. 51559 item 1 (workbook 'TNMP TCRF 2021 March-Final', sheet 'WP-Alloc Fac, Bill Det'); also 50891"
+TNMP,2020-09-01,Secondary >5 kW,sec_large,0.21573577,A,"Docket 48401 allocators first used in the Sept 2020 update; TCRF petition Control No. 51559 item 1 (workbook 'TNMP TCRF 2021 March-Final', sheet 'WP-Alloc Fac, Bill Det'); also 50891"
+TNMP,2020-09-01,Secondary >5 kW IDR,sec_large,0.034391006,A,"Docket 48401 allocators first used in the Sept 2020 update; TCRF petition Control No. 51559 item 1 (workbook 'TNMP TCRF 2021 March-Final', sheet 'WP-Alloc Fac, Bill Det'); also 50891"
+TNMP,2020-09-01,Primary,pri,0.033947909,A,"Docket 48401 allocators first used in the Sept 2020 update; TCRF petition Control No. 51559 item 1 (workbook 'TNMP TCRF 2021 March-Final', sheet 'WP-Alloc Fac, Bill Det'); also 50891"
+TNMP,2020-09-01,Primary IDR,pri,0.052421154,A,"Docket 48401 allocators first used in the Sept 2020 update; TCRF petition Control No. 51559 item 1 (workbook 'TNMP TCRF 2021 March-Final', sheet 'WP-Alloc Fac, Bill Det'); also 50891"
+TNMP,2020-09-01,Transmission,trans,0.24489696,A,"Docket 48401 allocators first used in the Sept 2020 update; TCRF petition Control No. 51559 item 1 (workbook 'TNMP TCRF 2021 March-Final', sheet 'WP-Alloc Fac, Bill Det'); also 50891"
+TNMP,2020-09-01,Lighting,light,0.0,A,"Docket 48401 allocators first used in the Sept 2020 update; TCRF petition Control No. 51559 item 1 (workbook 'TNMP TCRF 2021 March-Final', sheet 'WP-Alloc Fac, Bill Det'); also 50891"

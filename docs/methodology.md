@@ -14,6 +14,8 @@ Contents
 8. [Source anomalies found along the way](#8-source-anomalies-found-along-the-way)
 9. [Series breaks](#9-series-breaks)
 
+The split of the wires-company charges by customer class (tariff classes and EIA customer types) is documented separately in [`by_class.md`](by_class.md).
+
 ## 1. Definitions and approach
 
 **Question.** Did falling ERCOT wholesale prices reach Texas retail bills? Answering it needs a retail price that can be split into what the wires companies charge and what is left for energy and retail service.
