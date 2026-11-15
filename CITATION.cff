@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this data, please cite it as below."
 title: "Texas retail electricity prices, 1990-2025"
 type: dataset
-version: 1.0.0
-date-released: 2026-11-10
+version: 1.1.0
+date-released: 2026-11-15
 authors:
   - family-names: Stafford
     given-names: Fred

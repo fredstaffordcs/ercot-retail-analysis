@@ -2,7 +2,7 @@
 
 Versions follow [Semantic Versioning](https://semver.org/) adapted for data: a **major** version changes the structure or meaning of a published series (renamed columns, changed definitions, re-based methods); a **minor** version adds series, years or documentation; a **patch** version corrects values or typos. Dates are release dates.
 
-## [Unreleased]
+## [1.1.0] - 2026-11-15
 
 ### Added
 - **Wires-company charges by customer class, 2002–2025** ([`data/by_class/`](data/by_class), documented in [`docs/by_class.md`](docs/by_class.md)):
@@ -57,4 +57,5 @@ First public release.
 ### Known limitations
 See [`docs/limitations.md`](docs/limitations.md).
 
+[1.1.0]: https://github.com/fredstaffordcs/ercot-retail-analysis/releases/tag/v1.1.0
 [1.0.0]: https://github.com/fredstaffordcs/ercot-retail-analysis/releases/tag/v1.0.0
