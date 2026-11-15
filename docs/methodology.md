@@ -58,8 +58,8 @@ Output: `data/utility_level/wires_residential_components_2002_2025.csv` (one row
 | TNMP | 2002–06 | Form 1 p.304, Texas unbundled residential schedule |
 | TNMP | 2007–19 | PNM Resources 10-K operating statistics |
 | TNMP | 2020–25 | EIA-861 (2025: EIA-861 2025 release) |
-| AEP Texas Central, North | 2002, 2005, 2008–18 (North also 2003–04) | AEP earnings monitoring reports (EMRs) filed annually at the PUCT under 16 TAC §25.73: residential revenue by rider, billed MWh and customers. 2005 and 2011 exist only as scans; values were read from the page images |
-| AEP Central, North | 2002–17 (volumes only) | PUCT retail-market Market Share Data workbook: all retail providers' residential MWh and customers by TDU area. Used where no EMR volumes exist |
+| AEP Texas Central, North | 2002, 2005, 2008–18 (North also 2003–04) | AEP earnings monitoring reports (EMRs) filed annually at the PUCT under 16 TAC §25.73: residential revenue by rider, billed MWh and customers. 2005 and 2011 exist only as scans; values were read from the page images, and the billed MWh and delivery points are accepted only where the six class totals add to the Total column |
+| AEP Central, North | 2002–17 (volumes only) | PUCT retail-market Market Share Data workbook: all retail providers' residential MWh and customers by TDU area. Used where no EMR volumes exist (2003–04 Central, 2006–07 both) |
 | AEP Central, North | 2020–25 | EIA-861 `Delivery_Companies` |
 | AEP Texas combined | 2015–18 | Sum of the Central and North EMRs |
 | AEP Texas combined | 2019–25 | AEP Texas Inc. EMRs (merged company only). Check: versus EIA-861 Central+North revenue −0.3% to −0.4% (2020–21, 2023–24), −2.2% in 2022; versus AEP 10-K −0.1% (2019), −0.2% (2025) |
@@ -77,9 +77,13 @@ The market-share workbook agrees with other volume sources: Oncor identical to F
 - **AEP Central and North as separate divisions, 2020–2024:** EIA-861 reported revenue minus residential bond charges and ADFIT credits. 2025 division rows and TNMP 2025 come from the EIA-861 2025 release.
 - **AEP years without an earnings report** (Central 2003–04 and both divisions 2006–07): delivery is imputed (Section 3.5). The two divisions separately in 2019 are left blank; use the merged AEP Texas row.
 
-### 3.3 Bond charges: residential allocation factor × all-class collections
+### 3.3 Bond charges: residential share × all-class collections
 
-Each financing order fixes the share of the bond revenue requirement allocated to the residential class:
+Where the true-up record exists, the residential share comes from it:
+- **CenterPoint (all series):** the annual and interim true-up compliance filings at the PUCT give forecast billing determinants and the final charge for every charge class. The residential share is residential forecast revenue (billing determinants × charge) over all classes, day-weighted over the year by the period each filing's charges were in effect. Because the charges include class-specific reconciliation adders, the share moves from year to year: TC1 was 38–47% in 2009–13 against its 35.6% financing-order factor. Before a series' first filing found, its first filing's share is used.
+- **Oncor:** the true-up filings attach the Monthly Servicer's Certificates, which give transition charges billed by class each month. The residential share is the residential share of billed charges in months whose classes add to the certificate total (2003–15; 2016 uses 2015). It ran 43.5–45.5% in 2003–08 and 38.6% in 2015, against the 41.27% factor.
+
+Otherwise (AEP series in years without an earnings report) the financing-order factor is used:
 
 | Series | Residential share |
 |---|---|
@@ -104,7 +108,7 @@ Collections by series and year are in `data/source_extracts/securitization_colle
 - CenterPoint's summed series total 2004–2019 is within 0.9% of its 10-K "bond companies" revenue. Individual years differ by up to ±10% because of remittance timing (2019 is +21%).
 - Scheduled-debt-service estimates were within about ±5% where actuals exist.
 - AEP Central bond dollars (factor × collections) versus PUCT TC rates × market-share kWh: −11% to +7% by year, typically −4% to −7% (2004–2017). Billed amounts in the EMRs run 4–10% above factor × collections (median 1.076) but equal PUCT bond rate × residential kWh within about 2% in 10 of 12 report years. Where an EMR exists, the billed amount is used.
-- CenterPoint TC1 in 2013: the bonds retired and the issuer filed no FY2013 10-K, so this year uses the PUCT residential rate × kWh.
+- CenterPoint TC1 in 2013: the bonds retired and the issuer filed no FY2013 10-K, so this year uses the PUCT residential rate × kWh; the all-class amount is that divided by the residential share in the true-up record.
 - Oncor 2016 bond revenue ($21.6M) is derived from the 10-K statement that it fell $98M from 2015.
 
 ### 3.4 Riders: PUCT rate × residential kWh
@@ -183,12 +187,12 @@ Output: `data/utility_level/wires_all_class_components_2002_2025.csv`, with line
 |---|---|---|---|---|
 | Oncor | Excess mitigation credits | 2002–03 | Total from the 10-K: $389M + $26M interest. 2003 = $176M; 2002 = the remainder, $239M | C (year split) |
 | Oncor | Retail clawback | 2004–05 | Residential-only credit ($2.73/customer-month), so all-class = residential | B |
-| Oncor | TC2-R refund | 2016–17 | Residential ÷ the bond residential factor, 0.4127 | C |
+| Oncor | TC2-R refund | 2016–17 | Residential ÷ the residential share of transition charges billed in 2015 (0.386, servicer certificates) | C |
 | CenterPoint | Excess mitigation credits | 2002–05 | 10-K: "approximately $238 million per year" from Jan 2002; 2005 prorated to April 29 | B, 2005 C |
 | CenterPoint | CTC + rate-case-expense rider | Sept 13, 2005–2008 | Residential (rate × kWh) ÷ the TC2 residential factor, 0.4004: about $42–46M a year | C |
 | CenterPoint | Storm ADFIT credits | 2011–21 | Residential ÷ the SRC1 factor, 0.6492 | C |
-| TNMP | CTC (Dec 2006–2020) | | Residential × 1.8 (±15%). The 10-K's $87.3M true-up balance collected over 14 years implies about $160–200M from all classes; $184M used. Applying the residential per-kWh rate to all kWh would overstate it because larger customers pay CTC per kW | C |
-| TNMP | Storm riders | | Residential × all kWh ÷ residential kWh | C |
+| TNMP | CTC (Dec 2006–2020) | | Billed all-class total in 2019–20 (earnings-report CTC workpapers; billed all-class ÷ billed residential = 1.98 and 1.82). Other years: residential × 1.8 (±15%). The 10-K's $87.3M true-up balance collected over 14 years implies about $160–200M from all classes; $184M used. Applying the residential per-kWh rate to all kWh would overstate it because larger customers pay CTC per kW | C |
+| TNMP | Storm riders | | Billed all-class total in 2019–21 (earnings-report rider workpapers). Other years: residential × 1.84, the billed all-class ÷ residential ratio of 2019–21. Larger customers pay per kW, so scaling by all kWh ÷ residential kWh (about 3.7) overstated it | A / C |
 
 **AEP Texas Central and North.** In report years (Central 2002, 2005, 2008–18; North 2002–05, 2008–18; merged 2019–25) all-class amounts are each schedule's "Total" column, read the same way as the residential column. 2005 and 2011 exist only as scans; their totals were read from the page images and each Totals line was checked so that the six class totals add to column 7. 2002 reports cover about Feb–Dec and are scaled to full-year MWh from the market-share workbook (×1.031 Central, ×1.057 North; B). Central bond charges in years without a report are all-class collections (TF1 scheduled debt service; TF2 from Oct 2006 remittances); in report years these match AEP's billed bond charges within −1.9% to +4.4%, mostly ±1% (12 years), so no correction is applied. For years without a report (Central 2003–04 and 2006–07; North 2006–07):
 

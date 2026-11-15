@@ -8,24 +8,24 @@ CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' rev
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2010,421.0,437.0,-3.7
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2011,431.0,444.0,-2.9
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2012,565.6,591.0,-4.3
-CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2013,539.1,507.0,6.3
+CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2013,534.1,507.0,5.3
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2014,539.6,566.0,-4.7
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2015,465.9,481.0,-3.1
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2016,531.4,553.0,-3.9
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2017,440.2,409.0,7.6
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2018,537.1,594.0,-9.6
 CNP all-class bond collections (sum of series) vs CEHE 10-K 'Bond Companies' revenue ($M),CenterPoint,2019,379.1,312.0,21.5
-CNP all-class bond collections 2004-2019 total vs CEHE 10-K 'Bond Companies' revenue total ($M),CenterPoint,2004-2019,6225.8,6280.0,-0.9
+CNP all-class bond collections 2004-2019 total vs CEHE 10-K 'Bond Companies' revenue total ($M),CenterPoint,2004-2019,6220.7,6280.0,-0.9
 AEP Central residential bond $: factor x remittances vs PUCT rate x EIA kWh ($M; rate misses SRC before Sept 2020),AEP Texas Central,2020,79.2,106.1,-25.4
 AEP Central residential bond $: factor x remittances vs PUCT rate x EIA kWh ($M; rate misses SRC before Sept 2020),AEP Texas Central,2021,43.5,46.0,-5.4
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2004,33.5,33.6,-0.3
-AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2005,33.5,37.5,-10.6
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2005,33.5,37.8,-11.4
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2006,39.9,49.7,-19.8
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2007,94.6,96.7,-2.2
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2008,91.3,95.6,-4.5
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2009,98.2,105.9,-7.2
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2010,96.8,106.4,-9.0
-AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2011,98.8,102.1,-3.2
+AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2011,98.8,107.8,-8.3
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2012,122.3,133.6,-8.4
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2013,123.9,129.6,-4.4
 AEP Central residential bond $: factor x collections vs PUCT TC rates x PUCT market-share kWh ($M),AEP Texas Central,2014,132.7,143.0,-7.2
@@ -129,5 +129,5 @@ reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,202
 delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2023,5.847,5.85,-0.0
 reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2024,6.33,6.33,-0.0
 delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2024,6.33,6.33,-0.0
-reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2025,7.121,7.09,0.4
-delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2025,7.121,7.09,0.4
+reported residential c/kWh vs EIA delivery c/kWh (EIA delivery targets),TNMP,2025,7.092,7.09,0.0
+delivery-only c/kWh (ours) vs EIA delivery c/kWh: gap = bond charges EIA includes (AEP) or riders removed,TNMP,2025,7.092,7.09,0.0

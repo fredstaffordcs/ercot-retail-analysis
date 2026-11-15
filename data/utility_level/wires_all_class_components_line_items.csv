@@ -147,13 +147,13 @@ Oncor,2013,transition_securitized,ONCOR,148733000.0,A,all-class collections: iss
 Oncor,2014,transition_securitized,ONCOR,144532000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
 Oncor,2015,transition_securitized,ONCOR,119629000.0,A,all-class collections: issuer revenue,Oncor Electric Delivery Transition Bond Co 10-K income statement,False
 Oncor,2016,transition_securitized,ONCOR,21629000.0,A,all-class collections: issuer revenue (derived),Oncor 10-K FY2016: transition-bond revenue fell $98M from 2015 (bonds retired May 2016),False
-CenterPoint,2013,transition_securitized,CNP_TC1,83244120.58491743,C,all-class collections: residential rate x residential kWh (PUCT); all-class = residential / factor,PUCT summaries 030113/090113,False
+CenterPoint,2013,transition_securitized,CNP_TC1,78170528.21525927,C,all-class collections: residential rate x residential kWh (PUCT); all-class = residential / residential share in the true-up record,PUCT summaries 030113/090113,False
 Oncor,2003,transition_other,emc,-176000000.0,C,10-K: 2003 cash effect $170M + $6M interest (split of a 2-year total),TXU Electric Delivery 10-K FY2004 (data/sec/oncor_2004.txt),False
 Oncor,2002,transition_other,emc,-239000000.0,C,"10-K: $389M + $26M interest over 2002-03, less the 2003 amount",TXU Electric Delivery 10-K FY2004,False
 Oncor,2004,transition_other,clawback_per_cust,-80842802.04000036,B,residential-only credit: $2.73 x residential customers x 12 (residential file),TXU Electric Delivery 10-K FY2004; PUCT summaries,False
 Oncor,2005,transition_other,clawback_per_cust,-82276805.52000037,B,residential-only credit: $2.73 x residential customers x 12 (residential file),TXU Electric Delivery 10-K FY2004; PUCT summaries,False
-Oncor,2016,transition_securitized,tc_refund,-17018674.60857833,C,residential refund (rate x kWh) / bond residential allocation factor 0.4127,PUCT summaries 090116/030117,False
-Oncor,2017,transition_securitized,tc_refund,-8197040.829163695,C,residential refund (rate x kWh) / bond residential allocation factor 0.4127,PUCT summaries 090116/030117,False
+Oncor,2016,transition_securitized,tc_refund,-18188477.94702607,C,"residential refund (rate x kWh) / residential share of transition charges billed in 2015 (0.3862, Monthly Servicer's Certificates in the true-up filings)",PUCT summaries 090116/030117; PUCT Control No. 44734,False
+Oncor,2017,transition_securitized,tc_refund,-8760476.346199479,C,"residential refund (rate x kWh) / residential share of transition charges billed in 2015 (0.3862, Monthly Servicer's Certificates in the true-up filings)",PUCT summaries 090116/030117; PUCT Control No. 44734,False
 CenterPoint,2002,transition_other,emc,-238000000.0,B,10-K: ~$238M per year,CEHE 10-K FY2003 (data/sec/cehe_2003.txt),False
 CenterPoint,2003,transition_other,emc,-238000000.0,B,10-K: ~$238M per year,CEHE 10-K FY2003 (data/sec/cehe_2003.txt),False
 CenterPoint,2004,transition_other,emc,-238000000.0,B,10-K: ~$238M per year,CEHE 10-K FY2003 (data/sec/cehe_2003.txt),False
@@ -360,17 +360,17 @@ TNMP,2015,transition_other,ctc,12999252.816000067,C,"residential CTC (PUCT rate 
 TNMP,2016,transition_other,ctc,13097099.232000068,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
 TNMP,2017,transition_other,ctc,12559956.596284943,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
 TNMP,2018,transition_other,ctc,12088933.290000027,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
-TNMP,2019,transition_other,ctc,11663099.161643887,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
-TNMP,2020,transition_other,ctc,7785634.704000029,C,"residential CTC (PUCT rate x kWh) x 1.8 (all-class/residential implied by the $87.3M true-up order, +/-15%)",PUCT summaries; PNMR 10-K FY2006/FY2008/FY2011,True
-TNMP,2009,storm,storm_rider,1806045.1945205468,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
-TNMP,2010,storm,storm_rider,7597095.999999993,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
-TNMP,2011,storm,storm_rider,8227335.999999992,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
-TNMP,2012,storm,storm_rider,8214573.119999993,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
-TNMP,2013,storm,storm_rider,8268954.719999992,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
-TNMP,2014,storm,storm_rider,1377944.036602739,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
-TNMP,2019,storm,storm_rider,1270865.9707397327,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
-TNMP,2020,storm,storm_rider,1597942.640000009,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
-TNMP,2021,storm,storm_rider,1655277.680000007,C,residential rider (PUCT rate x kWh) x all-class kWh / residential kWh,PUCT summaries,True
+TNMP,2019,transition_other,ctc,12828793.0,A,"billed by class, all classes (earnings-report rider workpaper)","PUCT Project No. 50655, item 3 (TNMP 2019 earnings report, CTC workpaper)",True
+TNMP,2020,transition_other,ctc,8505345.0,A,"billed by class, all classes (earnings-report rider workpaper)","PUCT Project No. 51718, item 6 (TNMP 2020 earnings report, CTC workpaper)",True
+TNMP,2009,storm,storm_rider,1246502.7277552094,C,residential rider (PUCT rate x kWh) x 1.841 (all-class / residential as billed in 2019-2021),PUCT summaries; TNMP earnings reports 2019-2021 (rider workpapers),True
+TNMP,2010,storm,storm_rider,5169496.8059437,C,residential rider (PUCT rate x kWh) x 1.841 (all-class / residential as billed in 2019-2021),PUCT summaries; TNMP earnings reports 2019-2021 (rider workpapers),True
+TNMP,2011,storm,storm_rider,5481121.832090917,C,residential rider (PUCT rate x kWh) x 1.841 (all-class / residential as billed in 2019-2021),PUCT summaries; TNMP earnings reports 2019-2021 (rider workpapers),True
+TNMP,2012,storm,storm_rider,5198048.1353352,C,residential rider (PUCT rate x kWh) x 1.841 (all-class / residential as billed in 2019-2021),PUCT summaries; TNMP earnings reports 2019-2021 (rider workpapers),True
+TNMP,2013,storm,storm_rider,5355358.109145504,C,residential rider (PUCT rate x kWh) x 1.841 (all-class / residential as billed in 2019-2021),PUCT summaries; TNMP earnings reports 2019-2021 (rider workpapers),True
+TNMP,2014,storm,storm_rider,867550.9477286091,C,residential rider (PUCT rate x kWh) x 1.841 (all-class / residential as billed in 2019-2021),PUCT summaries; TNMP earnings reports 2019-2021 (rider workpapers),True
+TNMP,2019,storm,storm_rider,792438.0,A,"billed by class, all classes (earnings-report rider workpaper)","PUCT Project No. 50655, item 3 (TNMP 2019 earnings report, Hurricane Cost Recovery Factor workpaper)",True
+TNMP,2020,storm,storm_rider,787508.0,A,"billed by class, all classes (earnings-report rider workpaper)","PUCT Project No. 51718, item 6 (TNMP 2020 earnings report, Hurricane Cost Recovery Factor workpaper)",True
+TNMP,2021,storm,storm_rider,653837.0,A,"billed by class, all classes (earnings-report rider workpaper)","PUCT Project No. 52952, item 2 (TNMP 2021 earnings report, Hurricane Cost Recovery Factor workpaper)",True
 TNMP,2002,sbf,sbf,3455397.227999973,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
 TNMP,2003,sbf,sbf,4065433.385999968,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
 TNMP,2004,sbf,sbf,3981000.677999969,B,PUCT SBF rate (day-weighted) x all-class kWh,PUCT summaries,False
@@ -400,16 +400,16 @@ CenterPoint,2020,delivery,less_riders_inside_reported,3535537.5491391863,B,remov
 CenterPoint,2021,delivery,less_riders_inside_reported,2522535.180463794,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
 TNMP,2007,delivery,less_riders_inside_reported,-14213146.039397273,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
 TNMP,2008,delivery,less_riders_inside_reported,-14365490.700000096,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2009,delivery,less_riders_inside_reported,-16094310.21399994,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2010,delivery,less_riders_inside_reported,-22563683.943999946,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2011,delivery,less_riders_inside_reported,-24096132.32799994,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2012,delivery,less_riders_inside_reported,-23263822.103999946,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2013,delivery,less_riders_inside_reported,-21241477.47583568,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2014,delivery,less_riders_inside_reported,-13889500.388602804,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2009,delivery,less_riders_inside_reported,-15534767.747234603,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2010,delivery,less_riders_inside_reported,-20136084.74994365,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2011,delivery,less_riders_inside_reported,-21349918.160090864,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2012,delivery,less_riders_inside_reported,-20247297.119335152,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2013,delivery,less_riders_inside_reported,-18327880.864981193,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2014,delivery,less_riders_inside_reported,-13379107.299728675,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
 TNMP,2015,delivery,less_riders_inside_reported,-12999252.816000067,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
 TNMP,2016,delivery,less_riders_inside_reported,-13097099.232000068,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
 TNMP,2017,delivery,less_riders_inside_reported,-12559956.596284943,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
 TNMP,2018,delivery,less_riders_inside_reported,-12088933.290000027,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2019,delivery,less_riders_inside_reported,-12933965.13238362,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2020,delivery,less_riders_inside_reported,-9383577.344000038,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
-TNMP,2021,delivery,less_riders_inside_reported,-1655277.680000007,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2019,delivery,less_riders_inside_reported,-13621231.0,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2020,delivery,less_riders_inside_reported,-9292853.0,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False
+TNMP,2021,delivery,less_riders_inside_reported,-653837.0,B,remove transition/storm riders contained in the reported revenue,(see the riders' rows),False

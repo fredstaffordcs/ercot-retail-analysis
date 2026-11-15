@@ -4,7 +4,7 @@ Read these before reusing a series.
 
 **Estimates versus measurements**
 - **1992–2001 transmission and distribution are estimates**, built from each utility's cost of service (FERC Form 1; EIA's *Financial Statistics* for 1992–93) and class shares from the 2000 unbundling dockets. Every row is graded C. There is no split for 1990–91. HL&P 1997 has no source filing; the statewide series use the 1996/1998 average.
-- **From 2002 the wires charges are measured but still partly modelled.** Transmission is cost-based (load × billed ERCOT rate plus interim updates, times the filed allocation factor), not read from bills. Riders use PUCT rate × kWh. Bond charges use collections times the residential allocation in each financing order. Grades and error bands are in the data.
+- **From 2002 the wires charges are measured but still partly modelled.** Transmission is cost-based (load × billed ERCOT rate plus interim updates, times the filed allocation factor), not read from bills. Riders use PUCT rate × kWh. Bond charges use collections times the residential share in the true-up record (Oncor: billed by class; CenterPoint: forecast revenue by class), or the financing-order allocation where no record exists. Grades and error bands are in the data.
 - **AEP Texas has gap years** (Central 2003–04 and 2006–07; North 2006–07) where no earnings report exists; delivery and some credits are imputed and labelled with a certainty score. Residential and business statewide series include the imputed values; the merged AEP all-class delivery for 2003–04 is imputed at the statewide level only.
 
 **Definitions**
