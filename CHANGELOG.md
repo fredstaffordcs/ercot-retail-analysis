@@ -2,6 +2,24 @@
 
 Versions follow [Semantic Versioning](https://semver.org/) adapted for data: a **major** version changes the structure or meaning of a published series (renamed columns, changed definitions, re-based methods); a **minor** version adds series, years or documentation; a **patch** version corrects values or typos. Dates are release dates.
 
+## [1.1.1] - 2026-11-16
+
+### Corrected
+- **`data/by_class/statewide_delivery_by_class_2002_2025.csv`: component columns were mostly blank.** A blank component (no such charge in that class and year) made the whole weighted average blank, so in 219 of 222 rows the components did not add up to `total_cents` (the total was right). A blank component in a present row now counts as zero; a utility with no row or no MWh is still left out and named in `missing`. Non-blank cells per component, before → after (of 222 rows): `transition_securitized` 15 → 222, `transition_other` 0 → 222, `storm` 0 → 222, `sbf` 108 → 222. No totals change in the tariff layer.
+- **`data/by_class/wires_components_by_eia_class_2002_2025.csv`, CenterPoint 2002–2019 commercial and industrial rows (36 rows).** Delivery was spread by revenue share but `dist_other` and `total` by MWh share, so within a row the components did not add to the total. `dist_other` is now delivery minus transmission and `total` is the sum of the components. Delivery is unchanged. CenterPoint commercial `dist_other` and `total` rise by 0.16–0.25¢/kWh and industrial fall by 0.12–0.19¢/kWh (equal and opposite in dollars, so the class sums still match the all-class totals). In the statewide EIA layer 36 of 48 commercial and industrial year-rows move, by at most +0.07¢ and −0.09¢. One TNMP 2006 row differs by $1 (thousand-dollar column, rounding only).
+- **`data/validation/class_checks.csv`:** the bond-allocation check rows were duplicated (525 repeated rows); removed.
+- The README citation line now names the current version (it still said v1.0.0 in v1.1.0).
+- `docs/by_class.md` said all 438 class-sum checks pass. 437 do: merged AEP Texas 2002 delivery is $174 thousand (0.04%) short of the published all-class total, because the published merged 2002 ¢/kWh is weighted by February–December MWh while the class files use full-year MWh. The data are unchanged; the text now states the exception and its cause.
+
+### Added
+- Validation checks on the statewide by-class file (1,124 rows in `class_checks.csv`, `statewide_*`), which stop the build if any fails:
+  - components add to `total_cents`, and transmission + distribution equals delivery, in every row of both layers (within 0.001¢);
+  - the residential rows equal the published residential statewide series in every component and year (within 0.00055¢, the 3-decimal rounding of the published series plus the 4-decimal rounding of its inputs);
+  - the non-residential classes combined, weighted by MWh, equal the published business series in every component, in years where all four utilities have class rows (within 0.001¢).
+
+### Notes
+- Charts are unchanged. The tariff-class file, line items and all other data files are unchanged.
+
 ## [1.1.0] - 2026-11-15
 
 ### Added
@@ -57,5 +75,6 @@ First public release.
 ### Known limitations
 See [`docs/limitations.md`](docs/limitations.md).
 
+[1.1.1]: https://github.com/fredstaffordcs/ercot-retail-analysis/releases/tag/v1.1.1
 [1.1.0]: https://github.com/fredstaffordcs/ercot-retail-analysis/releases/tag/v1.1.0
 [1.0.0]: https://github.com/fredstaffordcs/ercot-retail-analysis/releases/tag/v1.0.0
