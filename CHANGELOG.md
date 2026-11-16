@@ -2,6 +2,11 @@
 
 Versions follow [Semantic Versioning](https://semver.org/) adapted for data: a **major** version changes the structure or meaning of a published series (renamed columns, changed definitions, re-based methods); a **minor** version adds series, years or documentation; a **patch** version corrects values or typos. Dates are release dates.
 
+## [Unreleased]
+
+### Added
+- `charts/competition_series/`: seven numbered charts on household and business prices under retail competition, with the scripts in `code/charts/competition_series/` and extra inputs in `data/competition_series/` (non-ERCOT Texas utilities, US, transmission allocation, wholesale benchmarks).
+
 ## [1.1.1] - 2026-11-16
 
 ### Corrected

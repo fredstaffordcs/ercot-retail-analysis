@@ -16,4 +16,6 @@ Seven charts on whether retail competition has lowered Texas electricity bills. 
 
 **Reclassification caveat.** From 2002, public-authority and lighting customers drop out of the reported ERCOT data, which lowers the business price by about 0.2¢. Measured from 2001, this overstates the business decline by about 2 percentage points and the 2025 household-to-business ratio by about 0.07.
 
+Scripts: `code/charts/competition_series/NN_*.py`, one per chart. Run any of them from any directory (`python code/charts/competition_series/01_price_levels.py`); each rewrites its PNG here. Inputs are listed in `data/competition_series/README.md` and the existing `data/` folders. Charts use the Inter font.
+
 Chart-specific sources and definitions are in each chart's footer. License: CC BY 4.0 (see `LICENSE-DATA.txt`).
