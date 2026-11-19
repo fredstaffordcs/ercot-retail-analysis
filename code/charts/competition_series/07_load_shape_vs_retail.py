@@ -85,5 +85,5 @@ f.text(.05,fy(16.75),textwrap.fill(foot,200),fontsize=9.6,color=MU,va='top',line
 f.add_artist(plt.Line2D([.05,.95],[fy(17.85),fy(17.85)],color=GR,lw=1))
 f.text(.05,fy(18.15),'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center'); f.text(.155,fy(18.15),'@fredstaffordcs',fontsize=14,color=FG,va='center')
 f.text(.95,fy(18.15),'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
-f.text(.95,fyt(.42),'8 of 8',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
-OUT=ROOT/'charts/competition_series'; OUT.mkdir(parents=True,exist_ok=True); f.savefig(OUT/'08_load_shape_vs_retail.png',facecolor=BG)
+f.text(.95,fyt(.42),'7 of 7',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
+OUT=ROOT/'charts/competition_series'; OUT.mkdir(parents=True,exist_ok=True); f.savefig(OUT/'07_load_shape_vs_retail.png',facecolor=BG)

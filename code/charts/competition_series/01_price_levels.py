@@ -68,6 +68,6 @@ f.text(.05,fy(13.75),textwrap.fill(foot,198),fontsize=9.6,color=MU,va='top',line
 f.add_artist(Line2D([.05,.95],[fy(14.8)]*2,color=GR,lw=1,transform=f.transFigure))
 f.text(.05,fy(15.1),'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center'); f.text(.155,fy(15.1),'@fredstaffordcs',fontsize=14,color=FG,va='center')
 f.text(.95,fy(15.1),'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
-f.text(.95,fy(.42),'1 of 8',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fy(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
+f.text(.95,fy(.42),'1 of 7',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fy(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
 OUT=ROOT/'charts/competition_series'; OUT.mkdir(parents=True,exist_ok=True); f.savefig(OUT/'01_price_levels.png',facecolor=BG)
 print(hs[[2001,2025]].round(2).to_dict(),bs[[2001,2025]].round(2).to_dict(),phs[[2001,2025]].round(2).to_dict(),pbs[[2001,2025]].round(2).to_dict())

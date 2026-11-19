@@ -36,7 +36,7 @@ wr=whR.loc[2002:2025]; er=r.energy_retail.loc[2002:2025]*k; ec=c.energy_retail.l
 mr=er-wr; mc=ec-wr
 av=lambda s,a,b:s.loc[a:b].mean()
 print({n:(round(av(mr,*p),1),round(av(mc,*p),1)) for n,p in [('02-08',(2002,2008)),('10-19',(2010,2019)),('22-25',(2022,2025))]}, round(mr[2025],1),round(mc[2025],1))
-H=15.8; fy=lambda i:1-(i+.2)/H; fyt=lambda i:1-i/H
+H=16.2; fy=lambda i:1-(i+.2)/H; fyt=lambda i:1-i/H
 f=plt.figure(figsize=(14.4,H),dpi=100,facecolor=BG)
 f.text(.05,fyt(1.75),'In Texas’s competitive market, the business energy\ncharge has fallen '+f'{1-ec[2025]/ec[2002]:.0%} since 2002; the household\ncharge is up {er[2025]/er[2002]-1:.0%}',fontsize=31,fontweight='bold',color=FG,va='center',linespacing=1.12)
 sub=(f'The energy and retail part of the bill is what competitive retail providers charge above the wires. In 2002, the first year of competition, households paid {er[2002]:.1f}¢ and businesses {ec[2002]:.1f}¢ (2025 dollars). In 2025 households paid {er[2025]:.1f}¢ and businesses {ec[2025]:.1f}¢. '
@@ -62,14 +62,14 @@ for s_,c_,l in [(er,ER,'Households'),(ec,TR,'Businesses')]:
     v=ix(s_); b.plot(v.index,v.values,color=c_,lw=3.2,zorder=6,solid_capstyle='round'); b.text(2025.5,v[2025]+(4 if l=='Households' else -4),f'{l}\n{v[2025]:.0f}',color=c_,fontsize=11.5,fontweight='bold',va='center',linespacing=1.15)
 f.text(.05,fy(11.15),'What the gap contains, and what we cannot split out',fontsize=17,fontweight='bold',color=FG,va='center')
 txt=('• The difference between each class’s charge and the wholesale price covers the retailer’s margin, marketing and bad debt, line losses, and the cost of shaping a flat wholesale price to a customer’s load. Households peak on summer afternoons, so shaping costs more for them. We cannot yet split these.\n'
-     '• Fixed-price contracts mean retail charges lag wholesale, so a single year can mislead. Uri is the extreme case: most customers were on fixed-price contracts, so retail charges barely moved in 2021. The household charge has also not tracked the cost of gas since 2013.\n'
+     '• Fixed-price contracts mean retail charges lag wholesale, so a single year can mislead. Uri is the extreme case: most customers were on fixed-price contracts, so retail charges barely moved in 2021. After 2012 the household charge also stopped tracking the cost of gas: through 2012 each extra cent of gas-implied generation cost (Henry Hub gas × an assumed 7.5 MMBtu per MWh heat rate) raised it by 0.7¢; since then, by about nothing. The business charge’s response fell from 0.65¢ to 0.31¢.\n'
      '• Wholesale prices are the market monitor’s all-in figure. The definition changes over time: energy only 2002–06, energy plus ancillary services 2010–14, uplift added 2015–18.')
 f.text(.05,fy(11.5),'\n'.join(textwrap.fill(l,138,subsequent_indent='   ') for l in txt.split('\n')),fontsize=12.5,color=FG,va='top',linespacing=1.55)
 foot=('Energy + retail = the competitive retail providers’ revenue per kWh from EIA-861 for each class, minus the kWh-weighted wires charges of Oncor, CenterPoint, AEP Texas and TNMP. Business = commercial and industrial customers. Wholesale = ERCOT market monitor all-in price in ¢/kWh, not matched to each class’s load shape or contract timing. '
       'Prices adjusted to 2025 dollars with CPI-U (BLS). Data and code: github.com/fredstaffordcs/ercot-retail-analysis.')
-f.text(.05,fy(14.2),textwrap.fill(foot,198),fontsize=9.6,color=MU,va='top',linespacing=1.5)
-f.add_artist(Line2D([.05,.95],[fy(14.95)]*2,color=GR,lw=1,transform=f.transFigure))
-f.text(.05,fy(15.25),'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center'); f.text(.155,fy(15.25),'@fredstaffordcs',fontsize=14,color=FG,va='center')
-f.text(.95,fy(15.25),'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
-f.text(.95,fyt(.42),'6 of 8',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
+f.text(.05,fy(14.6),textwrap.fill(foot,198),fontsize=9.6,color=MU,va='top',linespacing=1.5)
+f.add_artist(Line2D([.05,.95],[fy(15.35)]*2,color=GR,lw=1,transform=f.transFigure))
+f.text(.05,fy(15.65),'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center'); f.text(.155,fy(15.65),'@fredstaffordcs',fontsize=14,color=FG,va='center')
+f.text(.95,fy(15.65),'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
+f.text(.95,fyt(.42),'6 of 7',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
 OUT=ROOT/'charts/competition_series'; OUT.mkdir(parents=True,exist_ok=True); f.savefig(OUT/'06_energy_charge_vs_wholesale.png',facecolor=BG)

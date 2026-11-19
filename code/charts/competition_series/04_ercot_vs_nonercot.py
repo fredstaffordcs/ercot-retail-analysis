@@ -84,5 +84,5 @@ f.text(.05,fy(15.8),textwrap.fill(foot,198),fontsize=9.6,color=MU,va='top',lines
 f.add_artist(Line2D([.05,.95],[fy(17.5)]*2,color=GR,lw=1,transform=f.transFigure))
 f.text(.05,fy(17.85),'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center'); f.text(.155,fy(17.85),'@fredstaffordcs',fontsize=14,color=FG,va='center')
 f.text(.95,fy(17.85),'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
-f.text(.95,fyt(.42),'4 of 8',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
+f.text(.95,fyt(.42),'4 of 7',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
 OUT=ROOT/'charts/competition_series'; OUT.mkdir(parents=True,exist_ok=True); f.savefig(OUT/'04_ercot_vs_nonercot.png',facecolor=BG)
