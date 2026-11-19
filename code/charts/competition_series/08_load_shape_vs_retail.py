@@ -50,15 +50,15 @@ lab=lambda y,t,col,w='bold': a.text(2025.5,y,t,color=col,fontsize=11.5,fontweigh
 lab(hr[2025],f'Household\nretail charge\n{hr[2025]:.1f}¢',ER); lab(6.1,f'Business retail\ncharge {br[2025]:.1f}¢',TR)
 lab(4.55,f'Household\nwholesale {hw[2025]:.1f}¢',ER,'normal'); lab(2.75,f'Business\nwholesale {bw[2025]:.1f}¢',TR,'normal')
 b=f.add_axes([.56,fy(10.9),.39,5.6/H]); base(b)
-b.text(0,1.05,'Household minus business, 2025 cents per kWh',transform=b.transAxes,fontsize=13,color=MU)
-b.bar(Y,G['shape'],color=WH,width=.62,alpha=.85,zorder=3)
+b.text(0,1.05,'Household minus business: retail (solid) and wholesale\n(dashed), 2025 cents per kWh',transform=b.transAxes,fontsize=13,color=MU)
+b.plot(Y,G['shape'],color=FG,lw=2,ls=(0,(4,2.5)),zorder=4)
 b.plot(Y,G['er'],color=FG,lw=3.2,zorder=4)
-for kk,col in [('er',FG),('shape',WH)]:
-    p=np.polyfit(x,G[kk],1); b.plot([2011,2025],np.polyval(p,[2011,2025]),color=col,lw=1.4,ls=(0,(2,2)),zorder=5)
+for kk in ['er','shape']:
+    p=np.polyfit(x,G[kk],1); b.plot([2011,2025],np.polyval(p,[2011,2025]),color=MU,lw=1.2,ls=(0,(1,2)),zorder=3)
 b.set_ylim(0,8.2); b.set_yticks([0,2,4,6,8]); b.set_yticklabels([f'{v}¢' for v in [0,2,4,6,8]]); b.set_xlim(2010.4,2029.5)
 b.text(2025.6,G.er[2025],f'Retail energy\ncharge gap\n{G.er[2025]:.1f}¢',color=FG,fontsize=11.5,fontweight='bold',va='center',linespacing=1.2)
-b.text(2025.6,G['shape'][2025]+.45,f'Wholesale\nload-shape\ngap {G["shape"][2025]:.1f}¢',color=WH,fontsize=11.5,fontweight='bold',va='center',linespacing=1.2)
-b.text(2011,7.6,f'Dotted lines: linear trend. Retail gap +{tr["er"]:.1f}¢ per decade;\nload-shape gap +{tr["shape"]:.1f}¢ per decade',fontsize=10.5,color=MU,va='center',linespacing=1.3)
+b.text(2025.6,G['shape'][2025]+.45,f'Wholesale\nload-shape\ngap {G["shape"][2025]:.1f}¢',color=FG,fontsize=11.5,fontweight='normal',va='center',linespacing=1.2)
+b.text(2011,7.6,f'Gray dotted lines: linear trend. Retail gap +{tr["er"]:.1f}¢ per decade;\nload-shape gap +{tr["shape"]:.1f}¢ per decade',fontsize=10.5,color=MU,va='center',linespacing=1.3)
 
 # ---- table ----
 f.text(.05,fy(12.15),'The retail gap grew more than the load-shape gap whichever years are compared',fontsize=17,fontweight='bold',color=FG,va='center')
@@ -69,11 +69,11 @@ rows=[('First 3 years vs last 3 (2011–13 vs 2023–25)',w1),('First 5 years vs
       ('Calm years only (2012–17 vs 2024–25)',win((2012,2017),(2024,2025))),('Linear trend 2011–25, per decade',pd.Series(tr))]
 for i,(l,v) in enumerate(rows):
     yy=fy(13.5+i*.45); f.text(.05,yy,l,fontsize=12.5,color=FG,va='center')
-    for (xx,_),kk,col in zip(cols,['shape','er','tot'],[WH,FG,MU]): f.text(xx,yy,f'{v[kk]:+.1f}¢',fontsize=12.5,color=col,fontweight='bold',va='center')
+    for (xx,_),kk,col in zip(cols,['shape','er','tot'],[FG,FG,FG]): f.text(xx,yy,f'{v[kk]:+.1f}¢',fontsize=12.5,color=col,fontweight='bold',va='center')
 note=('The wholesale shape gap jumps in scarcity years (2011, 2019, 2022, 2023), when evening and summer-peak prices spike, and falls back afterward. '
       'Retail charges lag wholesale because most customers are on fixed-price contracts, so the five-year comparison, which puts the 2022–23 spike in its later period, '
       'gives load shape its largest share, about half. In calm years, load shape explains almost none of the change.')
-f.text(.05,fy(15.4),textwrap.fill(note,140),fontsize=12.5,color=FG,va='top',linespacing=1.5)
+f.text(.05,fy(15.4),textwrap.fill(note,146),fontsize=12.5,color=FG,va='top',linespacing=1.5)
 foot=('Wholesale cost = ERCOT backcasted 15-minute load profiles (modeled, run on actual weather) priced at real-time load-zone settlement prices, '
       'weather zones weighted by native load; energy only, no ancillary services or hedging costs. Household = average of the gas-heat and electric-heat '
       'residential profiles (equal weights; rooftop-solar homes excluded). Business = interval-metered large-business profile; using the small-business '
