@@ -5,7 +5,7 @@ Versions follow [Semantic Versioning](https://semver.org/) adapted for data: a *
 ## [Unreleased]
 
 ### Added
-- `charts/competition_series/`: seven numbered charts on household and business prices under retail competition, with the scripts in `code/charts/competition_series/` and extra inputs in `data/competition_series/` (non-ERCOT Texas utilities, US, transmission allocation, wholesale benchmarks).
+- `charts/competition_series/`: seven numbered charts on household and business prices under retail competition, with the scripts in `code/charts/competition_series/` and extra inputs in `data/competition_series/` (non-ERCOT Texas utilities, US, transmission allocation, wholesale benchmarks, load-shape cost). Chart 7 compares the wholesale cost of household and business load shapes with their retail energy charges, 2011–2025.
 
 ## [1.1.1] - 2026-11-16
 
