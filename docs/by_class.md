@@ -267,8 +267,8 @@ This is why billed workpapers are used wherever they exist.
 
 | Utility | Years with no tariff-class source (non-residential classes blank) | Reason |
 |---|---|---|
-| AEP Texas Central | 2003–04, 2006 | No earnings report (exemption notices). 2003–04: see the AEP 2007 note above; 2006: no class billing determinants in the petitions on file (the 2006–07 petitions carry only the price sheets). Layer B for 2004 and 2006 comes from the AEP 10-K (revenue only). |
-| AEP Texas North | 2006–07 | As above; Layer B for 2006 from the 10-K. |
+| AEP Texas Central | 2003–04, 2006 | No earnings report. 2003–04: exemption notices; see the AEP 2007 note above. 2006: none filed, because of an active rate case (Docket 33309), per the PUCT staff memo of Oct. 10, 2007 (Project 34025, item 60); a Public Information Act request (No. 2026-512) found no responsive records. No class billing determinants either (the 2006–07 petitions carry only the price sheets). Layer B for 2004 and 2006 comes from the AEP 10-K (revenue only). |
+| AEP Texas North | 2006–07 | No earnings report. 2006: none filed, because a rate case had just been completed (Docket 33310, final order May 29, 2007), per the same memo and records response. 2007: exemption notice. Layer B for 2006 from the 10-K. |
 | Merged AEP | 2003–04, 2006–07 | At least one division blank. |
 | AEP divisions | 2019–25 | AEP reports only the merged company; EIA gives Layer B for 2020–25. |
 | TNMP | 2008–10 | TNMP filed exemption notices instead of reports (rate cases pending; e.g. Project 36823 item 11 cites Docket 36025). Layer B is measured from the PNM Resources 10-K. |
