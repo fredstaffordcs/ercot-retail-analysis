@@ -76,6 +76,6 @@ f.text(.05,fy(14.95),textwrap.fill(foot,198),fontsize=9.6,color=MU,va='top',line
 f.add_artist(Line2D([.05,.95],[fy(16.0)]*2,color=GR,lw=1,transform=f.transFigure))
 f.text(.05,fy(16.3),'Fred Stafford',fontsize=14,fontweight='bold',color=FG,va='center'); f.text(.155,fy(16.3),'@fredstaffordcs',fontsize=14,color=FG,va='center')
 f.text(.95,fy(16.3),'PublicPowerReview.org',fontsize=14,fontweight='bold',color=FG,va='center',ha='right')
-f.text(.95,fyt(.42),'7 of 7',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
+f.text(.95,fyt(.42),'7 of 8',fontsize=13,fontweight='bold',color=MU,ha='right',va='center'); f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold')
 OUT=ROOT/'charts/competition_series'; OUT.mkdir(parents=True,exist_ok=True); f.savefig(OUT/'07_energy_charge_vs_gas_cost.png',facecolor=BG)
 print(pr1,pr2,pc1,pc2,(er-ec)[[2002,2025]])

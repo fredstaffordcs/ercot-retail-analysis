@@ -36,7 +36,7 @@ hs=ser(dr,Pr); bs=ser(dc,Pc); phs=pr.loc[1990:2025]; pbs=pc.loc[1990:2025]
 ratio=hs/bs; pratio=phs/pbs; gap=hs-bs; pgap=phs-pbs
 H=16.7; fy=lambda i:1-(i+.2)/H; fyt=lambda i:1-i/H
 f=plt.figure(figsize=(14.4,H),dpi=100,facecolor=BG)
-f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold'); f.text(.95,fyt(.42),'2 of 7',fontsize=13,fontweight='bold',color=MU,ha='right',va='center')
+f.text(.05,fyt(.42),'TEXAS ELECTRICITY PRICES: HOUSEHOLDS VS BUSINESSES',fontsize=11,color=MU,va='center',fontweight='bold'); f.text(.95,fyt(.42),'2 of 8',fontsize=13,fontweight='bold',color=MU,ha='right',va='center')
 f.text(.05,fyt(1.75),f'Under competition, ERCOT households’ price\npremium over businesses has grown from {ratio[2001]:.2f}× to {ratio[2025]:.2f}×;\nin public power it barely moved',fontsize=31,fontweight='bold',color=FG,va='center',linespacing=1.12)
 sub=(f'Household price divided by business price, in the ERCOT region. In 2001, the last year of regulated rates, households paid {ratio[2001]:.2f} times the business price; in 2025, {ratio[2025]:.2f} times. At ERCOT’s municipal utilities and co-ops, which are outside competition, the ratio went from {pratio[2001]:.2f} to {pratio[2025]:.2f}. '
      f'In cents, the household premium grew from {gap[2001]:.1f}¢ to {gap[2025]:.1f}¢ per kWh in competitive ERCOT and from {pgap[2001]:.1f}¢ to {pgap[2025]:.1f}¢ in public power.')
